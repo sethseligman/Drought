@@ -11,7 +11,18 @@ function DetailPanel({ team, onClose, maxDays, nowMs }) {
   useEffect(() => {
     setLogoIndex(0);
   }, [team?.id]);
-  if (!team) return null;
+  if (!team) {
+    return (
+      <aside className="bg-surface border border-white/10 rounded-xl p-4 md:p-5">
+        <div className="h-full min-h-[280px] flex items-center justify-center text-center">
+          <div>
+            <div className="font-display uppercase tracking-[0.1em] text-xl text-text-primary">No Team Selected</div>
+            <p className="text-sm text-text-secondary mt-2">Select a team tile to view live drought details and championship history.</p>
+          </div>
+        </div>
+      </aside>
+    );
+  }
 
   return (
     <aside className="bg-surface border border-white/10 rounded-xl p-4 md:p-5 space-y-5">

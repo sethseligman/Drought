@@ -27,7 +27,9 @@
       }
     ],
     "lastChampionship": "1947-12-28",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-atlanta-falcons",
@@ -44,7 +46,9 @@
     "founded": 1966,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-baltimore-ravens",
@@ -74,7 +78,9 @@
       }
     ],
     "lastChampionship": "2013-02-03",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-buffalo-bills",
@@ -91,7 +97,9 @@
     "founded": 1960,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-carolina-panthers",
@@ -108,7 +116,9 @@
     "founded": 1995,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-chicago-bears",
@@ -138,7 +148,9 @@
       }
     ],
     "lastChampionship": "1986-01-26",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-cincinnati-bengals",
@@ -155,7 +167,9 @@
     "founded": 1968,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-cleveland-browns",
@@ -179,7 +193,9 @@
       }
     ],
     "lastChampionship": "1964-12-27",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-dallas-cowboys",
@@ -227,7 +243,9 @@
       }
     ],
     "lastChampionship": "1996-01-28",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-denver-broncos",
@@ -263,7 +281,9 @@
       }
     ],
     "lastChampionship": "2016-02-07",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-detroit-lions",
@@ -287,7 +307,9 @@
       }
     ],
     "lastChampionship": "1957-12-29",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-green-bay-packers",
@@ -329,7 +351,9 @@
       }
     ],
     "lastChampionship": "2011-02-06",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-houston-texans",
@@ -346,7 +370,9 @@
     "founded": 2002,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-indianapolis-colts",
@@ -376,7 +402,9 @@
       }
     ],
     "lastChampionship": "2007-02-04",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-jacksonville-jaguars",
@@ -393,7 +421,9 @@
     "founded": 1995,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-kansas-city-chiefs",
@@ -435,7 +465,9 @@
       }
     ],
     "lastChampionship": "2024-02-11",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-las-vegas-raiders",
@@ -471,7 +503,9 @@
       }
     ],
     "lastChampionship": "1984-01-22",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-los-angeles-chargers",
@@ -495,7 +529,9 @@
       }
     ],
     "lastChampionship": "1963-12-22",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-los-angeles-rams",
@@ -531,7 +567,9 @@
       }
     ],
     "lastChampionship": "2022-02-13",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-miami-dolphins",
@@ -561,7 +599,9 @@
       }
     ],
     "lastChampionship": "1974-01-13",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-minnesota-vikings",
@@ -578,7 +618,9 @@
     "founded": 1961,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-new-england-patriots",
@@ -632,7 +674,9 @@
       }
     ],
     "lastChampionship": "2019-02-03",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-new-orleans-saints",
@@ -656,7 +700,9 @@
       }
     ],
     "lastChampionship": "2010-02-07",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-new-york-giants",
@@ -698,7 +744,9 @@
       }
     ],
     "lastChampionship": "2012-02-05",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-new-york-jets",
@@ -722,7 +770,9 @@
       }
     ],
     "lastChampionship": "1969-01-12",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-philadelphia-eagles",
@@ -758,7 +808,9 @@
       }
     ],
     "lastChampionship": "2025-02-09",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-pittsburgh-steelers",
@@ -812,7 +864,9 @@
       }
     ],
     "lastChampionship": "2009-02-01",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-san-francisco-49ers",
@@ -860,7 +914,9 @@
       }
     ],
     "lastChampionship": "1995-01-29",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-seattle-seahawks",
@@ -884,7 +940,9 @@
       }
     ],
     "lastChampionship": "2014-02-02",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-tampa-bay-buccaneers",
@@ -914,7 +972,9 @@
       }
     ],
     "lastChampionship": "2021-02-07",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-tennessee-titans",
@@ -944,7 +1004,9 @@
       }
     ],
     "lastChampionship": "1961-12-24",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   },
   {
     "id": "nfl-washington-commanders",
@@ -980,6 +1042,8 @@
       }
     ],
     "lastChampionship": "1992-01-26",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.pro-football-reference.com/super-bowl/"
   }
 ]

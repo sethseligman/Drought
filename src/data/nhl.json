@@ -21,7 +21,9 @@
       }
     ],
     "lastChampionship": "2007-06-06",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-boston-bruins",
@@ -45,7 +47,9 @@
       }
     ],
     "lastChampionship": "2011-06-15",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-buffalo-sabres",
@@ -62,7 +66,9 @@
     "founded": 1970,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-calgary-flames",
@@ -86,7 +92,9 @@
       }
     ],
     "lastChampionship": "1989-05-25",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-carolina-hurricanes",
@@ -110,7 +118,9 @@
       }
     ],
     "lastChampionship": "2006-06-19",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-chicago-blackhawks",
@@ -134,7 +144,9 @@
       }
     ],
     "lastChampionship": "2015-06-15",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-colorado-avalanche",
@@ -158,7 +170,9 @@
       }
     ],
     "lastChampionship": "2022-06-26",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-columbus-blue-jackets",
@@ -175,7 +189,9 @@
     "founded": 2000,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-dallas-stars",
@@ -199,7 +215,9 @@
       }
     ],
     "lastChampionship": "1999-06-19",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-detroit-red-wings",
@@ -223,7 +241,9 @@
       }
     ],
     "lastChampionship": "2008-06-04",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-edmonton-oilers",
@@ -247,7 +267,9 @@
       }
     ],
     "lastChampionship": "1990-05-24",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-florida-panthers",
@@ -277,7 +299,9 @@
       }
     ],
     "lastChampionship": "2025-06-17",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-los-angeles-kings",
@@ -307,7 +331,9 @@
       }
     ],
     "lastChampionship": "2014-06-13",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-minnesota-wild",
@@ -324,7 +350,9 @@
     "founded": 2000,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-montreal-canadiens",
@@ -348,7 +376,9 @@
       }
     ],
     "lastChampionship": "1993-06-09",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-nashville-predators",
@@ -365,7 +395,9 @@
     "founded": 1998,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-new-jersey-devils",
@@ -401,7 +433,9 @@
       }
     ],
     "lastChampionship": "2003-06-09",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-new-york-islanders",
@@ -425,7 +459,9 @@
       }
     ],
     "lastChampionship": "1983-05-17",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-new-york-rangers",
@@ -449,7 +485,9 @@
       }
     ],
     "lastChampionship": "1994-06-14",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-ottawa-senators",
@@ -466,7 +504,9 @@
     "founded": 1992,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-philadelphia-flyers",
@@ -496,7 +536,9 @@
       }
     ],
     "lastChampionship": "1975-05-27",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-pittsburgh-penguins",
@@ -544,7 +586,9 @@
       }
     ],
     "lastChampionship": "2017-06-11",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-san-jose-sharks",
@@ -561,7 +605,9 @@
     "founded": 1991,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-seattle-kraken",
@@ -578,7 +624,9 @@
     "founded": 2021,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-st-louis-blues",
@@ -602,7 +650,9 @@
       }
     ],
     "lastChampionship": "2019-06-12",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-tampa-bay-lightning",
@@ -638,7 +688,9 @@
       }
     ],
     "lastChampionship": "2021-07-07",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-toronto-maple-leafs",
@@ -662,7 +714,9 @@
       }
     ],
     "lastChampionship": "1967-05-02",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-utah-hockey-club",
@@ -679,7 +733,9 @@
     "founded": 2024,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-vancouver-canucks",
@@ -696,7 +752,9 @@
     "founded": 1970,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-vegas-golden-knights",
@@ -720,7 +778,9 @@
       }
     ],
     "lastChampionship": "2023-06-13",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-washington-capitals",
@@ -744,7 +804,9 @@
       }
     ],
     "lastChampionship": "2018-06-07",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   },
   {
     "id": "nhl-winnipeg-jets",
@@ -761,6 +823,8 @@
     "founded": 2011,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.hockey-reference.com/"
   }
 ]

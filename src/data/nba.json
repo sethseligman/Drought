@@ -21,7 +21,9 @@
       }
     ],
     "lastChampionship": "1958-04-12",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-boston-celtics",
@@ -57,7 +59,9 @@
       }
     ],
     "lastChampionship": "2024-06-17",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-brooklyn-nets",
@@ -74,7 +78,9 @@
     "founded": 1967,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-charlotte-hornets",
@@ -91,7 +97,9 @@
     "founded": 1988,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-chicago-bulls",
@@ -145,7 +153,9 @@
       }
     ],
     "lastChampionship": "1998-06-14",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-cleveland-cavaliers",
@@ -169,7 +179,9 @@
       }
     ],
     "lastChampionship": "2016-06-19",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-dallas-mavericks",
@@ -193,7 +205,9 @@
       }
     ],
     "lastChampionship": "2011-06-12",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-denver-nuggets",
@@ -217,7 +231,9 @@
       }
     ],
     "lastChampionship": "2023-06-12",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-detroit-pistons",
@@ -253,7 +269,9 @@
       }
     ],
     "lastChampionship": "2004-06-15",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-golden-state-warriors",
@@ -295,7 +313,9 @@
       }
     ],
     "lastChampionship": "2022-06-16",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-houston-rockets",
@@ -325,7 +345,9 @@
       }
     ],
     "lastChampionship": "1995-06-14",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-indiana-pacers",
@@ -342,7 +364,9 @@
     "founded": 1967,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-los-angeles-clippers",
@@ -359,7 +383,9 @@
     "founded": 1970,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-los-angeles-lakers",
@@ -413,7 +439,9 @@
       }
     ],
     "lastChampionship": "2020-10-11",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-memphis-grizzlies",
@@ -430,7 +458,9 @@
     "founded": 1995,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-miami-heat",
@@ -466,7 +496,9 @@
       }
     ],
     "lastChampionship": "2013-06-20",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-milwaukee-bucks",
@@ -496,7 +528,9 @@
       }
     ],
     "lastChampionship": "2021-07-20",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-minnesota-timberwolves",
@@ -513,7 +547,9 @@
     "founded": 1989,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-new-orleans-pelicans",
@@ -530,7 +566,9 @@
     "founded": 2002,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-new-york-knicks",
@@ -560,7 +598,9 @@
       }
     ],
     "lastChampionship": "1973-05-10",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-oklahoma-city-thunder",
@@ -584,7 +624,9 @@
       }
     ],
     "lastChampionship": "2025-06-22",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-orlando-magic",
@@ -601,7 +643,9 @@
     "founded": 1989,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-philadelphia-76ers",
@@ -637,7 +681,9 @@
       }
     ],
     "lastChampionship": "1983-05-31",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-phoenix-suns",
@@ -654,7 +700,9 @@
     "founded": 1968,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-portland-trail-blazers",
@@ -678,7 +726,9 @@
       }
     ],
     "lastChampionship": "1977-06-05",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-sacramento-kings",
@@ -702,7 +752,9 @@
       }
     ],
     "lastChampionship": "1951-04-21",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-san-antonio-spurs",
@@ -750,7 +802,9 @@
       }
     ],
     "lastChampionship": "2014-06-15",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-toronto-raptors",
@@ -774,7 +828,9 @@
       }
     ],
     "lastChampionship": "2019-06-13",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-utah-jazz",
@@ -791,7 +847,9 @@
     "founded": 1974,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   },
   {
     "id": "nba-washington-wizards",
@@ -815,6 +873,8 @@
       }
     ],
     "lastChampionship": "1978-06-07",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.nba.com/news/history-nba-champions"
   }
 ]

@@ -14,7 +14,9 @@
     "founded": 2008,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-chicago-sky",
@@ -38,7 +40,9 @@
       }
     ],
     "lastChampionship": "2021-10-17",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-connecticut-sun",
@@ -55,7 +59,9 @@
     "founded": 2003,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-dallas-wings",
@@ -72,7 +78,9 @@
     "founded": 1998,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-golden-state-valkyries",
@@ -89,7 +97,9 @@
     "founded": 2025,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-indiana-fever",
@@ -113,7 +123,9 @@
       }
     ],
     "lastChampionship": "2012-10-21",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-las-vegas-aces",
@@ -149,7 +161,9 @@
       }
     ],
     "lastChampionship": "2025-10-10",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-los-angeles-sparks",
@@ -185,7 +199,9 @@
       }
     ],
     "lastChampionship": "2016-10-20",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-minnesota-lynx",
@@ -227,7 +243,9 @@
       }
     ],
     "lastChampionship": "2017-10-04",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-new-york-liberty",
@@ -251,7 +269,9 @@
       }
     ],
     "lastChampionship": "2024-10-20",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-phoenix-mercury",
@@ -287,7 +307,9 @@
       }
     ],
     "lastChampionship": "2014-09-12",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-seattle-storm",
@@ -329,7 +351,9 @@
       }
     ],
     "lastChampionship": "2020-10-06",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   },
   {
     "id": "wnba-washington-mystics",
@@ -353,6 +377,8 @@
       }
     ],
     "lastChampionship": "2019-10-10",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.espn.com/wnba/story/_/id/40270450/who-won-wnba-championship-all-winners-list"
   }
 ]

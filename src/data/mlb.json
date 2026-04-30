@@ -21,7 +21,9 @@
       }
     ],
     "lastChampionship": "2001-11-04",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-atlanta-braves",
@@ -57,7 +59,9 @@
       }
     ],
     "lastChampionship": "2021-11-02",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-baltimore-orioles",
@@ -93,7 +97,9 @@
       }
     ],
     "lastChampionship": "1983-10-16",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-boston-red-sox",
@@ -135,7 +141,9 @@
       }
     ],
     "lastChampionship": "2018-10-28",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-chicago-cubs",
@@ -165,7 +173,9 @@
       }
     ],
     "lastChampionship": "2016-11-02",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-chicago-white-sox",
@@ -195,7 +205,9 @@
       }
     ],
     "lastChampionship": "2005-10-26",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-cincinnati-reds",
@@ -231,7 +243,9 @@
       }
     ],
     "lastChampionship": "1990-10-20",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-cleveland-guardians",
@@ -261,7 +275,9 @@
       }
     ],
     "lastChampionship": "1948-10-11",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-colorado-rockies",
@@ -278,7 +294,9 @@
     "founded": 1993,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-detroit-tigers",
@@ -308,7 +326,9 @@
       }
     ],
     "lastChampionship": "1984-10-14",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-houston-astros",
@@ -338,7 +358,9 @@
       }
     ],
     "lastChampionship": "2022-11-05",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-kansas-city-royals",
@@ -368,7 +390,9 @@
       }
     ],
     "lastChampionship": "2015-11-01",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-los-angeles-angels",
@@ -392,7 +416,9 @@
       }
     ],
     "lastChampionship": "2002-10-27",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-los-angeles-dodgers",
@@ -440,7 +466,9 @@
       }
     ],
     "lastChampionship": "2025-10-31",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-miami-marlins",
@@ -470,7 +498,9 @@
       }
     ],
     "lastChampionship": "2003-10-25",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-milwaukee-brewers",
@@ -487,7 +517,9 @@
     "founded": 1969,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-minnesota-twins",
@@ -517,7 +549,9 @@
       }
     ],
     "lastChampionship": "1991-10-27",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-new-york-mets",
@@ -547,7 +581,9 @@
       }
     ],
     "lastChampionship": "1986-10-27",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-new-york-yankees",
@@ -595,7 +631,9 @@
       }
     ],
     "lastChampionship": "2009-11-04",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-oakland-athletics",
@@ -637,7 +675,9 @@
       }
     ],
     "lastChampionship": "1989-10-28",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-philadelphia-phillies",
@@ -667,7 +707,9 @@
       }
     ],
     "lastChampionship": "2008-10-29",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-pittsburgh-pirates",
@@ -703,7 +745,9 @@
       }
     ],
     "lastChampionship": "1979-10-17",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-san-diego-padres",
@@ -720,7 +764,9 @@
     "founded": 1969,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-san-francisco-giants",
@@ -756,7 +802,9 @@
       }
     ],
     "lastChampionship": "2014-10-29",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-seattle-mariners",
@@ -773,7 +821,9 @@
     "founded": 1977,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-st-louis-cardinals",
@@ -803,7 +853,9 @@
       }
     ],
     "lastChampionship": "2011-10-28",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-tampa-bay-rays",
@@ -820,7 +872,9 @@
     "founded": 1998,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-texas-rangers",
@@ -844,7 +898,9 @@
       }
     ],
     "lastChampionship": "2023-11-01",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-toronto-blue-jays",
@@ -874,7 +930,9 @@
       }
     ],
     "lastChampionship": "1993-10-23",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   },
   {
     "id": "mlb-washington-nationals",
@@ -898,6 +956,8 @@
       }
     ],
     "lastChampionship": "2019-10-30",
-    "neverWon": false
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.baseball-reference.com/postseason/world-series.shtml"
   }
 ]

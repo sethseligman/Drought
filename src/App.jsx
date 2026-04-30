@@ -62,9 +62,22 @@ function App() {
             <SortFilterBar sortMode={sortMode} setSortMode={setSortMode} filters={filters} setFilters={setFilters} />
             <div className="grid xl:grid-cols-[minmax(0,1fr)_380px] items-start gap-4 pb-6">
               <Mosaic teams={filteredTeams} selectedTeam={selectedTeam} onSelect={setSelectedTeam} maxDays={maxDays} nowMs={nowMs} />
-              <DetailPanel team={selectedTeam} onClose={() => setSelectedTeam(null)} maxDays={maxDays} nowMs={nowMs} />
+              <div className="hidden xl:block">
+                <DetailPanel team={selectedTeam} onClose={() => setSelectedTeam(null)} maxDays={maxDays} nowMs={nowMs} />
+              </div>
             </div>
           </div>
+
+          {selectedTeam ? (
+            <div
+              className="xl:hidden fixed inset-0 z-50 bg-black/60 p-3 sm:p-6 flex items-end sm:items-center justify-center"
+              onClick={() => setSelectedTeam(null)}
+            >
+              <div className="w-full max-w-2xl max-h-[90vh] overflow-auto" onClick={(event) => event.stopPropagation()}>
+                <DetailPanel team={selectedTeam} onClose={() => setSelectedTeam(null)} maxDays={maxDays} nowMs={nowMs} />
+              </div>
+            </div>
+          ) : null}
 
           <SearchOverlay open={searchOpen} onClose={() => setSearchOpen(false)} teams={leagues.ALL} onPick={(team) => { setSelectedTeam(team); setActiveLeague('ALL'); }} />
         </div>

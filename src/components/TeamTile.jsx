@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { getDrought } from '../utils/dateUtils';
 import { droughtScore, tileOverlayOpacity } from '../utils/droughtUtils';
 import { getLogoCandidates } from '../utils/logoUtils';
@@ -7,6 +7,7 @@ import { getLogoCandidates } from '../utils/logoUtils';
 function TeamTile({ team, selected, onSelect, maxDays, nowMs, pulsing = false }) {
   const logoCandidates = useMemo(() => getLogoCandidates(team), [team]);
   const [logoIndex, setLogoIndex] = useState(0);
+  const [logoLoaded, setLogoLoaded] = useState(false);
   const logoSrc = logoCandidates[logoIndex];
   const score = droughtScore(team, maxDays, nowMs);
   const overlayOpacity = tileOverlayOpacity(score);
@@ -22,6 +23,15 @@ function TeamTile({ team, selected, onSelect, maxDays, nowMs, pulsing = false })
       /stanley cup/i.test(lastTitle.title || '') ||
       /mlb championship/i.test(lastTitle.title || '')
     );
+
+  useEffect(() => {
+    setLogoLoaded(false);
+  }, [team.id, logoIndex]);
+
+  const onLogoFallback = () => {
+    setLogoLoaded(false);
+    setLogoIndex((idx) => idx + 1);
+  };
 
   return (
     <motion.button
@@ -44,13 +54,15 @@ function TeamTile({ team, selected, onSelect, maxDays, nowMs, pulsing = false })
             background: `linear-gradient(180deg, ${team.primaryColor}66 0%, ${team.primaryColor}33 100%)`,
           }}
         >
+          {!logoLoaded && logoSrc ? <div className="tile-logo-loading absolute inset-0" /> : null}
           {logoSrc ? (
             <img
               src={logoSrc}
               alt=""
               loading="lazy"
-              className="w-6 h-6 md:w-7 md:h-7 object-contain"
-              onError={() => setLogoIndex((idx) => idx + 1)}
+              className="w-6 h-6 md:w-7 md:h-7 object-contain relative z-10"
+              onLoad={() => setLogoLoaded(true)}
+              onError={onLogoFallback}
             />
           ) : (
             <div className="font-display text-xs md:text-sm text-white">{team.abbreviation}</div>
