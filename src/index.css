@@ -49,13 +49,7 @@ body {
 
 .tile-logo-loading {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.18) 50%, rgba(255, 255, 255, 0.08) 100%);
-  animation: logoPulse 1.2s ease-in-out infinite;
-}
-
-@keyframes logoPulse {
-  0% { opacity: 0.5; }
-  50% { opacity: 0.9; }
-  100% { opacity: 0.5; }
+  opacity: 0.55;
 }
 
 @keyframes ticker {
