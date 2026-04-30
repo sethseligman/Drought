@@ -23,7 +23,7 @@ function App() {
   const nowMs = useLiveClock();
   const { wallMode } = useWallMode();
   const [activeLeague, setActiveLeague] = useState('ALL');
-  const [sortMode, setSortMode] = useState('LONGEST');
+  const [sortMode, setSortMode] = useState('RECENT');
   const [soccerSubLeague, setSoccerSubLeague] = useState('ALL');
   const [filters, setFilters] = useState({ region: 'ALL', neverWonOnly: false, wonLastFiveYears: false });
   const [selectedTeam, setSelectedTeam] = useState(null);
