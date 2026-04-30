@@ -6,21 +6,21 @@
     "city": "Anaheim",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#F47A38",
     "secondaryColor": "#B5985A",
     "logoUrl": "/assets/logos/nhl-anaheim-ducks.svg",
     "logoUrlDark": "/assets/logos/nhl-anaheim-ducks-dark.svg",
-    "founded": 1901,
+    "founded": 1993,
     "championships": [
       {
-        "date": "2007-06-15",
-        "title": "NHL Championship",
-        "opponent": "Ottawa",
-        "score": "-"
+        "date": "2007-06-06",
+        "title": "Stanley Cup Final",
+        "opponent": "Ottawa Senators",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2007-06-15",
+    "lastChampionship": "2007-06-06",
     "neverWon": false
   },
   {
@@ -30,18 +30,18 @@
     "city": "Boston",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#FFB81C",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/nhl-boston-bruins.svg",
     "logoUrlDark": "/assets/logos/nhl-boston-bruins-dark.svg",
-    "founded": 1902,
+    "founded": 1924,
     "championships": [
       {
         "date": "2011-06-15",
-        "title": "NHL Championship",
-        "opponent": "Vancouver",
-        "score": "-"
+        "title": "Stanley Cup Final",
+        "opponent": "Vancouver Canucks",
+        "score": "4-3"
       }
     ],
     "lastChampionship": "2011-06-15",
@@ -54,12 +54,12 @@
     "city": "Buffalo",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#003087",
     "secondaryColor": "#FFB81C",
     "logoUrl": "/assets/logos/nhl-buffalo-sabres.svg",
     "logoUrlDark": "/assets/logos/nhl-buffalo-sabres-dark.svg",
-    "founded": 1903,
+    "founded": 1970,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -71,45 +71,45 @@
     "city": "Calgary",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#C8102E",
     "secondaryColor": "#F1BE48",
     "logoUrl": "/assets/logos/nhl-calgary-flames.svg",
     "logoUrlDark": "/assets/logos/nhl-calgary-flames-dark.svg",
-    "founded": 1904,
+    "founded": 1972,
     "championships": [
       {
-        "date": "1989-06-15",
-        "title": "NHL Championship",
-        "opponent": "Montreal",
-        "score": "-"
+        "date": "1989-05-25",
+        "title": "Stanley Cup Final",
+        "opponent": "Montreal Canadiens",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "1989-06-15",
+    "lastChampionship": "1989-05-25",
     "neverWon": false
   },
   {
     "id": "nhl-carolina-hurricanes",
     "name": "Carolina Hurricanes",
     "abbreviation": "CAR",
-    "city": "Carolina",
+    "city": "Raleigh",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#CC0000",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/nhl-carolina-hurricanes.svg",
     "logoUrlDark": "/assets/logos/nhl-carolina-hurricanes-dark.svg",
-    "founded": 1905,
+    "founded": 1972,
     "championships": [
       {
-        "date": "2006-06-15",
-        "title": "NHL Championship",
-        "opponent": "Edmonton",
-        "score": "-"
+        "date": "2006-06-19",
+        "title": "Stanley Cup Final",
+        "opponent": "Edmonton Oilers",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2006-06-15",
+    "lastChampionship": "2006-06-19",
     "neverWon": false
   },
   {
@@ -119,18 +119,18 @@
     "city": "Chicago",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#CF0A2C",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/nhl-chicago-blackhawks.svg",
     "logoUrlDark": "/assets/logos/nhl-chicago-blackhawks-dark.svg",
-    "founded": 1906,
+    "founded": 1926,
     "championships": [
       {
         "date": "2015-06-15",
-        "title": "NHL Championship",
-        "opponent": "Tampa Bay",
-        "score": "-"
+        "title": "Stanley Cup Final",
+        "opponent": "Tampa Bay Lightning",
+        "score": "4-2"
       }
     ],
     "lastChampionship": "2015-06-15",
@@ -140,24 +140,24 @@
     "id": "nhl-colorado-avalanche",
     "name": "Colorado Avalanche",
     "abbreviation": "COL",
-    "city": "Colorado",
+    "city": "Denver",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#6F263D",
     "secondaryColor": "#236192",
     "logoUrl": "/assets/logos/nhl-colorado-avalanche.svg",
     "logoUrlDark": "/assets/logos/nhl-colorado-avalanche-dark.svg",
-    "founded": 1907,
+    "founded": 1972,
     "championships": [
       {
-        "date": "2022-06-15",
-        "title": "NHL Championship",
-        "opponent": "Tampa Bay",
-        "score": "-"
+        "date": "2022-06-26",
+        "title": "Stanley Cup Final",
+        "opponent": "Tampa Bay Lightning",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2022-06-15",
+    "lastChampionship": "2022-06-26",
     "neverWon": false
   },
   {
@@ -167,12 +167,12 @@
     "city": "Columbus",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#002654",
     "secondaryColor": "#CE1126",
     "logoUrl": "/assets/logos/nhl-columbus-blue-jackets.svg",
     "logoUrlDark": "/assets/logos/nhl-columbus-blue-jackets-dark.svg",
-    "founded": 1908,
+    "founded": 2000,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -184,21 +184,21 @@
     "city": "Dallas",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#006847",
     "secondaryColor": "#8F8F8C",
     "logoUrl": "/assets/logos/nhl-dallas-stars.svg",
     "logoUrlDark": "/assets/logos/nhl-dallas-stars-dark.svg",
-    "founded": 1909,
+    "founded": 1967,
     "championships": [
       {
-        "date": "1999-06-15",
-        "title": "NHL Championship",
-        "opponent": "Buffalo",
-        "score": "-"
+        "date": "1999-06-19",
+        "title": "Stanley Cup Final",
+        "opponent": "Buffalo Sabres",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "1999-06-15",
+    "lastChampionship": "1999-06-19",
     "neverWon": false
   },
   {
@@ -208,21 +208,21 @@
     "city": "Detroit",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#CE1126",
     "secondaryColor": "#FFFFFF",
     "logoUrl": "/assets/logos/nhl-detroit-red-wings.svg",
     "logoUrlDark": "/assets/logos/nhl-detroit-red-wings-dark.svg",
-    "founded": 1910,
+    "founded": 1926,
     "championships": [
       {
-        "date": "2008-06-15",
-        "title": "NHL Championship",
-        "opponent": "Pittsburgh",
-        "score": "-"
+        "date": "2008-06-04",
+        "title": "Stanley Cup Final",
+        "opponent": "Pittsburgh Penguins",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2008-06-15",
+    "lastChampionship": "2008-06-04",
     "neverWon": false
   },
   {
@@ -232,84 +232,90 @@
     "city": "Edmonton",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#041E42",
     "secondaryColor": "#FF4C00",
     "logoUrl": "/assets/logos/nhl-edmonton-oilers.svg",
     "logoUrlDark": "/assets/logos/nhl-edmonton-oilers-dark.svg",
-    "founded": 1911,
+    "founded": 1972,
     "championships": [
       {
-        "date": "1990-06-15",
-        "title": "NHL Championship",
-        "opponent": "Boston",
-        "score": "-"
+        "date": "1990-05-24",
+        "title": "Stanley Cup Final",
+        "opponent": "Boston Bruins",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "1990-06-15",
+    "lastChampionship": "1990-05-24",
     "neverWon": false
   },
   {
     "id": "nhl-florida-panthers",
     "name": "Florida Panthers",
     "abbreviation": "FLA",
-    "city": "Florida",
+    "city": "Sunrise",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#041E42",
     "secondaryColor": "#C8102E",
     "logoUrl": "/assets/logos/nhl-florida-panthers.svg",
     "logoUrlDark": "/assets/logos/nhl-florida-panthers-dark.svg",
-    "founded": 1912,
+    "founded": 1993,
     "championships": [
       {
-        "date": "2024-06-15",
-        "title": "NHL Championship",
-        "opponent": "Edmonton",
-        "score": "-"
+        "date": "2024-06-24",
+        "title": "Stanley Cup Final",
+        "opponent": "Edmonton Oilers",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2024-06-15",
+    "lastChampionship": "2024-06-24",
     "neverWon": false
   },
   {
     "id": "nhl-los-angeles-kings",
     "name": "Los Angeles Kings",
     "abbreviation": "LAK",
-    "city": "Los",
+    "city": "Los Angeles",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#111111",
     "secondaryColor": "#A2AAAD",
     "logoUrl": "/assets/logos/nhl-los-angeles-kings.svg",
     "logoUrlDark": "/assets/logos/nhl-los-angeles-kings-dark.svg",
-    "founded": 1913,
+    "founded": 1967,
     "championships": [
       {
-        "date": "2014-06-15",
-        "title": "NHL Championship",
-        "opponent": "NY Rangers",
-        "score": "-"
+        "date": "2014-06-13",
+        "title": "Stanley Cup Final",
+        "opponent": "New York Rangers",
+        "score": "4-1"
+      },
+      {
+        "date": "2012-06-11",
+        "title": "Stanley Cup Final",
+        "opponent": "New Jersey Devils",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2014-06-15",
+    "lastChampionship": "2014-06-13",
     "neverWon": false
   },
   {
     "id": "nhl-minnesota-wild",
     "name": "Minnesota Wild",
     "abbreviation": "MIN",
-    "city": "Minnesota",
+    "city": "Saint Paul",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#154734",
     "secondaryColor": "#A6192E",
     "logoUrl": "/assets/logos/nhl-minnesota-wild.svg",
     "logoUrlDark": "/assets/logos/nhl-minnesota-wild-dark.svg",
-    "founded": 1914,
+    "founded": 2000,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -321,21 +327,21 @@
     "city": "Montreal",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#AF1E2D",
     "secondaryColor": "#192168",
     "logoUrl": "/assets/logos/nhl-montreal-canadiens.svg",
     "logoUrlDark": "/assets/logos/nhl-montreal-canadiens-dark.svg",
-    "founded": 1915,
+    "founded": 1909,
     "championships": [
       {
-        "date": "1993-06-15",
-        "title": "NHL Championship",
-        "opponent": "LA Kings",
-        "score": "-"
+        "date": "1993-06-09",
+        "title": "Stanley Cup Final",
+        "opponent": "Los Angeles Kings",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "1993-06-15",
+    "lastChampionship": "1993-06-09",
     "neverWon": false
   },
   {
@@ -345,12 +351,12 @@
     "city": "Nashville",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#FFB81C",
     "secondaryColor": "#041E42",
     "logoUrl": "/assets/logos/nhl-nashville-predators.svg",
     "logoUrlDark": "/assets/logos/nhl-nashville-predators-dark.svg",
-    "founded": 1916,
+    "founded": 1998,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -359,72 +365,84 @@
     "id": "nhl-new-jersey-devils",
     "name": "New Jersey Devils",
     "abbreviation": "NJD",
-    "city": "New",
+    "city": "Newark",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#CE1126",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/nhl-new-jersey-devils.svg",
     "logoUrlDark": "/assets/logos/nhl-new-jersey-devils-dark.svg",
-    "founded": 1917,
+    "founded": 1974,
     "championships": [
       {
-        "date": "2003-06-15",
-        "title": "NHL Championship",
-        "opponent": "Anaheim",
-        "score": "-"
+        "date": "2003-06-09",
+        "title": "Stanley Cup Final",
+        "opponent": "Anaheim Ducks",
+        "score": "4-3"
+      },
+      {
+        "date": "2000-06-10",
+        "title": "Stanley Cup Final",
+        "opponent": "Dallas Stars",
+        "score": "4-2"
+      },
+      {
+        "date": "1995-06-24",
+        "title": "Stanley Cup Final",
+        "opponent": "Detroit Red Wings",
+        "score": "4-0"
       }
     ],
-    "lastChampionship": "2003-06-15",
+    "lastChampionship": "2003-06-09",
     "neverWon": false
   },
   {
     "id": "nhl-new-york-islanders",
     "name": "New York Islanders",
     "abbreviation": "NYI",
-    "city": "New",
+    "city": "Elmont",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#00539B",
     "secondaryColor": "#F47D30",
     "logoUrl": "/assets/logos/nhl-new-york-islanders.svg",
     "logoUrlDark": "/assets/logos/nhl-new-york-islanders-dark.svg",
-    "founded": 1918,
+    "founded": 1972,
     "championships": [
       {
-        "date": "1983-06-15",
-        "title": "NHL Championship",
-        "opponent": "Edmonton",
-        "score": "-"
+        "date": "1983-05-17",
+        "title": "Stanley Cup Final",
+        "opponent": "Edmonton Oilers",
+        "score": "4-0"
       }
     ],
-    "lastChampionship": "1983-06-15",
+    "lastChampionship": "1983-05-17",
     "neverWon": false
   },
   {
     "id": "nhl-new-york-rangers",
     "name": "New York Rangers",
     "abbreviation": "NYR",
-    "city": "New",
+    "city": "New York",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#0038A8",
     "secondaryColor": "#CE1126",
     "logoUrl": "/assets/logos/nhl-new-york-rangers.svg",
     "logoUrlDark": "/assets/logos/nhl-new-york-rangers-dark.svg",
-    "founded": 1919,
+    "founded": 1926,
     "championships": [
       {
-        "date": "1994-06-15",
-        "title": "NHL Championship",
-        "opponent": "Vancouver",
-        "score": "-"
+        "date": "1994-06-14",
+        "title": "Stanley Cup Final",
+        "opponent": "Vancouver Canucks",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "1994-06-15",
+    "lastChampionship": "1994-06-14",
     "neverWon": false
   },
   {
@@ -434,12 +452,12 @@
     "city": "Ottawa",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#C52032",
     "secondaryColor": "#C2912C",
     "logoUrl": "/assets/logos/nhl-ottawa-senators.svg",
     "logoUrlDark": "/assets/logos/nhl-ottawa-senators-dark.svg",
-    "founded": 1920,
+    "founded": 1992,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -451,21 +469,27 @@
     "city": "Philadelphia",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#F74902",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/nhl-philadelphia-flyers.svg",
     "logoUrlDark": "/assets/logos/nhl-philadelphia-flyers-dark.svg",
-    "founded": 1921,
+    "founded": 1967,
     "championships": [
       {
-        "date": "1975-06-15",
-        "title": "NHL Championship",
-        "opponent": "Buffalo",
-        "score": "-"
+        "date": "1975-05-27",
+        "title": "Stanley Cup Final",
+        "opponent": "Buffalo Sabres",
+        "score": "4-2"
+      },
+      {
+        "date": "1974-05-19",
+        "title": "Stanley Cup Final",
+        "opponent": "Boston Bruins",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "1975-06-15",
+    "lastChampionship": "1975-05-27",
     "neverWon": false
   },
   {
@@ -475,36 +499,60 @@
     "city": "Pittsburgh",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#FCB514",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/nhl-pittsburgh-penguins.svg",
     "logoUrlDark": "/assets/logos/nhl-pittsburgh-penguins-dark.svg",
-    "founded": 1922,
+    "founded": 1967,
     "championships": [
       {
-        "date": "2017-06-15",
-        "title": "NHL Championship",
-        "opponent": "Nashville",
-        "score": "-"
+        "date": "2017-06-11",
+        "title": "Stanley Cup Final",
+        "opponent": "Nashville Predators",
+        "score": "4-2"
+      },
+      {
+        "date": "2016-06-12",
+        "title": "Stanley Cup Final",
+        "opponent": "San Jose Sharks",
+        "score": "4-2"
+      },
+      {
+        "date": "2009-06-12",
+        "title": "Stanley Cup Final",
+        "opponent": "Detroit Red Wings",
+        "score": "4-3"
+      },
+      {
+        "date": "1992-06-01",
+        "title": "Stanley Cup Final",
+        "opponent": "Chicago Blackhawks",
+        "score": "4-0"
+      },
+      {
+        "date": "1991-05-25",
+        "title": "Stanley Cup Final",
+        "opponent": "Minnesota North Stars",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2017-06-15",
+    "lastChampionship": "2017-06-11",
     "neverWon": false
   },
   {
     "id": "nhl-san-jose-sharks",
     "name": "San Jose Sharks",
     "abbreviation": "SJS",
-    "city": "San",
+    "city": "San Jose",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#006D75",
     "secondaryColor": "#EA7200",
     "logoUrl": "/assets/logos/nhl-san-jose-sharks.svg",
     "logoUrlDark": "/assets/logos/nhl-san-jose-sharks-dark.svg",
-    "founded": 1923,
+    "founded": 1991,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -516,12 +564,12 @@
     "city": "Seattle",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#001628",
     "secondaryColor": "#99D9D9",
     "logoUrl": "/assets/logos/nhl-seattle-kraken.svg",
     "logoUrlDark": "/assets/logos/nhl-seattle-kraken-dark.svg",
-    "founded": 1924,
+    "founded": 2021,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -530,24 +578,24 @@
     "id": "nhl-st-louis-blues",
     "name": "St. Louis Blues",
     "abbreviation": "STL",
-    "city": "St.",
+    "city": "St. Louis",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#002F87",
     "secondaryColor": "#FCB514",
     "logoUrl": "/assets/logos/nhl-st-louis-blues.svg",
     "logoUrlDark": "/assets/logos/nhl-st-louis-blues-dark.svg",
-    "founded": 1925,
+    "founded": 1967,
     "championships": [
       {
-        "date": "2019-06-15",
-        "title": "NHL Championship",
-        "opponent": "Boston",
-        "score": "-"
+        "date": "2019-06-12",
+        "title": "Stanley Cup Final",
+        "opponent": "Boston Bruins",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2019-06-15",
+    "lastChampionship": "2019-06-12",
     "neverWon": false
   },
   {
@@ -557,21 +605,33 @@
     "city": "Tampa",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#002868",
     "secondaryColor": "#FFFFFF",
     "logoUrl": "/assets/logos/nhl-tampa-bay-lightning.svg",
     "logoUrlDark": "/assets/logos/nhl-tampa-bay-lightning-dark.svg",
-    "founded": 1926,
+    "founded": 1992,
     "championships": [
       {
-        "date": "2021-06-15",
-        "title": "NHL Championship",
-        "opponent": "Montreal",
-        "score": "-"
+        "date": "2021-07-07",
+        "title": "Stanley Cup Final",
+        "opponent": "Montreal Canadiens",
+        "score": "4-1"
+      },
+      {
+        "date": "2020-09-28",
+        "title": "Stanley Cup Final",
+        "opponent": "Dallas Stars",
+        "score": "4-2"
+      },
+      {
+        "date": "2004-06-07",
+        "title": "Stanley Cup Final",
+        "opponent": "Calgary Flames",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2021-06-15",
+    "lastChampionship": "2021-07-07",
     "neverWon": false
   },
   {
@@ -581,36 +641,36 @@
     "city": "Toronto",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#00205B",
     "secondaryColor": "#FFFFFF",
     "logoUrl": "/assets/logos/nhl-toronto-maple-leafs.svg",
     "logoUrlDark": "/assets/logos/nhl-toronto-maple-leafs-dark.svg",
-    "founded": 1927,
+    "founded": 1917,
     "championships": [
       {
-        "date": "1967-06-15",
-        "title": "NHL Championship",
-        "opponent": "Montreal",
-        "score": "-"
+        "date": "1967-05-02",
+        "title": "Stanley Cup Final",
+        "opponent": "Montreal Canadiens",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "1967-06-15",
+    "lastChampionship": "1967-05-02",
     "neverWon": false
   },
   {
     "id": "nhl-utah-hockey-club",
     "name": "Utah Hockey Club",
     "abbreviation": "UTA",
-    "city": "Utah",
+    "city": "Salt Lake City",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#6CA6CD",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/nhl-utah-hockey-club.svg",
     "logoUrlDark": "/assets/logos/nhl-utah-hockey-club-dark.svg",
-    "founded": 1928,
+    "founded": 2024,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -622,12 +682,12 @@
     "city": "Vancouver",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#00205B",
     "secondaryColor": "#00843D",
     "logoUrl": "/assets/logos/nhl-vancouver-canucks.svg",
     "logoUrlDark": "/assets/logos/nhl-vancouver-canucks-dark.svg",
-    "founded": 1929,
+    "founded": 1970,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -636,24 +696,24 @@
     "id": "nhl-vegas-golden-knights",
     "name": "Vegas Golden Knights",
     "abbreviation": "VGK",
-    "city": "Vegas",
+    "city": "Las Vegas",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#B4975A",
     "secondaryColor": "#333F42",
     "logoUrl": "/assets/logos/nhl-vegas-golden-knights.svg",
     "logoUrlDark": "/assets/logos/nhl-vegas-golden-knights-dark.svg",
-    "founded": 1930,
+    "founded": 2017,
     "championships": [
       {
-        "date": "2023-06-15",
-        "title": "NHL Championship",
-        "opponent": "Florida",
-        "score": "-"
+        "date": "2023-06-13",
+        "title": "Stanley Cup Final",
+        "opponent": "Florida Panthers",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2023-06-15",
+    "lastChampionship": "2023-06-13",
     "neverWon": false
   },
   {
@@ -663,21 +723,21 @@
     "city": "Washington",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#041E42",
     "secondaryColor": "#C8102E",
     "logoUrl": "/assets/logos/nhl-washington-capitals.svg",
     "logoUrlDark": "/assets/logos/nhl-washington-capitals-dark.svg",
-    "founded": 1931,
+    "founded": 1974,
     "championships": [
       {
-        "date": "2018-06-15",
-        "title": "NHL Championship",
-        "opponent": "Vegas",
-        "score": "-"
+        "date": "2018-06-07",
+        "title": "Stanley Cup Final",
+        "opponent": "Vegas Golden Knights",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2018-06-15",
+    "lastChampionship": "2018-06-07",
     "neverWon": false
   },
   {
@@ -687,12 +747,12 @@
     "city": "Winnipeg",
     "league": "NHL",
     "sport": "Ice Hockey",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#041E42",
     "secondaryColor": "#004C97",
     "logoUrl": "/assets/logos/nhl-winnipeg-jets.svg",
     "logoUrlDark": "/assets/logos/nhl-winnipeg-jets-dark.svg",
-    "founded": 1932,
+    "founded": 2011,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true

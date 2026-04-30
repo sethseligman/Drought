@@ -11,7 +11,7 @@
     "secondaryColor": "#418FDE",
     "logoUrl": "/assets/logos/wnba-atlanta-dream.svg",
     "logoUrlDark": "/assets/logos/wnba-atlanta-dream-dark.svg",
-    "founded": 1901,
+    "founded": 2008,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -28,23 +28,23 @@
     "secondaryColor": "#F9A01B",
     "logoUrl": "/assets/logos/wnba-chicago-sky.svg",
     "logoUrlDark": "/assets/logos/wnba-chicago-sky-dark.svg",
-    "founded": 1902,
+    "founded": 2006,
     "championships": [
       {
-        "date": "2021-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Phoenix",
-        "score": "-"
+        "date": "2021-10-17",
+        "title": "WNBA Finals",
+        "opponent": "Phoenix Mercury",
+        "score": "3-1"
       }
     ],
-    "lastChampionship": "2021-06-15",
+    "lastChampionship": "2021-10-17",
     "neverWon": false
   },
   {
     "id": "wnba-connecticut-sun",
     "name": "Connecticut Sun",
     "abbreviation": "CON",
-    "city": "Connecticut",
+    "city": "Uncasville",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -52,7 +52,7 @@
     "secondaryColor": "#1D1D1D",
     "logoUrl": "/assets/logos/wnba-connecticut-sun.svg",
     "logoUrlDark": "/assets/logos/wnba-connecticut-sun-dark.svg",
-    "founded": 1903,
+    "founded": 2003,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -61,7 +61,7 @@
     "id": "wnba-dallas-wings",
     "name": "Dallas Wings",
     "abbreviation": "DAL",
-    "city": "Dallas",
+    "city": "Arlington",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -69,7 +69,7 @@
     "secondaryColor": "#C41230",
     "logoUrl": "/assets/logos/wnba-dallas-wings.svg",
     "logoUrlDark": "/assets/logos/wnba-dallas-wings-dark.svg",
-    "founded": 1904,
+    "founded": 1998,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -78,7 +78,7 @@
     "id": "wnba-golden-state-valkyries",
     "name": "Golden State Valkyries",
     "abbreviation": "GSV",
-    "city": "Golden",
+    "city": "San Francisco",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -86,7 +86,7 @@
     "secondaryColor": "#D4AF37",
     "logoUrl": "/assets/logos/wnba-golden-state-valkyries.svg",
     "logoUrlDark": "/assets/logos/wnba-golden-state-valkyries-dark.svg",
-    "founded": 1905,
+    "founded": 2025,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -95,7 +95,7 @@
     "id": "wnba-indiana-fever",
     "name": "Indiana Fever",
     "abbreviation": "IND",
-    "city": "Indiana",
+    "city": "Indianapolis",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -103,23 +103,23 @@
     "secondaryColor": "#C8102E",
     "logoUrl": "/assets/logos/wnba-indiana-fever.svg",
     "logoUrlDark": "/assets/logos/wnba-indiana-fever-dark.svg",
-    "founded": 1906,
+    "founded": 2000,
     "championships": [
       {
-        "date": "2012-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Minnesota",
-        "score": "-"
+        "date": "2012-10-21",
+        "title": "WNBA Finals",
+        "opponent": "Minnesota Lynx",
+        "score": "3-1"
       }
     ],
-    "lastChampionship": "2012-06-15",
+    "lastChampionship": "2012-10-21",
     "neverWon": false
   },
   {
     "id": "wnba-las-vegas-aces",
     "name": "Las Vegas Aces",
     "abbreviation": "LVA",
-    "city": "Las",
+    "city": "Las Vegas",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -127,23 +127,29 @@
     "secondaryColor": "#C8102E",
     "logoUrl": "/assets/logos/wnba-las-vegas-aces.svg",
     "logoUrlDark": "/assets/logos/wnba-las-vegas-aces-dark.svg",
-    "founded": 1907,
+    "founded": 1997,
     "championships": [
       {
-        "date": "2023-06-15",
-        "title": "WNBA Championship",
-        "opponent": "New York",
-        "score": "-"
+        "date": "2023-10-18",
+        "title": "WNBA Finals",
+        "opponent": "New York Liberty",
+        "score": "3-1"
+      },
+      {
+        "date": "2022-09-18",
+        "title": "WNBA Finals",
+        "opponent": "Connecticut Sun",
+        "score": "3-1"
       }
     ],
-    "lastChampionship": "2023-06-15",
+    "lastChampionship": "2023-10-18",
     "neverWon": false
   },
   {
     "id": "wnba-los-angeles-sparks",
     "name": "Los Angeles Sparks",
     "abbreviation": "LAS",
-    "city": "Los",
+    "city": "Los Angeles",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -151,23 +157,35 @@
     "secondaryColor": "#FDB927",
     "logoUrl": "/assets/logos/wnba-los-angeles-sparks.svg",
     "logoUrlDark": "/assets/logos/wnba-los-angeles-sparks-dark.svg",
-    "founded": 1908,
+    "founded": 1997,
     "championships": [
       {
-        "date": "2016-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Minnesota",
-        "score": "-"
+        "date": "2016-10-20",
+        "title": "WNBA Finals",
+        "opponent": "Minnesota Lynx",
+        "score": "3-2"
+      },
+      {
+        "date": "2002-09-03",
+        "title": "WNBA Finals",
+        "opponent": "New York Liberty",
+        "score": "2-0"
+      },
+      {
+        "date": "2001-08-30",
+        "title": "WNBA Finals",
+        "opponent": "Charlotte Sting",
+        "score": "2-0"
       }
     ],
-    "lastChampionship": "2016-06-15",
+    "lastChampionship": "2016-10-20",
     "neverWon": false
   },
   {
     "id": "wnba-minnesota-lynx",
     "name": "Minnesota Lynx",
     "abbreviation": "MIN",
-    "city": "Minnesota",
+    "city": "Minneapolis",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -175,23 +193,41 @@
     "secondaryColor": "#78BE20",
     "logoUrl": "/assets/logos/wnba-minnesota-lynx.svg",
     "logoUrlDark": "/assets/logos/wnba-minnesota-lynx-dark.svg",
-    "founded": 1909,
+    "founded": 1999,
     "championships": [
       {
-        "date": "2017-06-15",
-        "title": "WNBA Championship",
-        "opponent": "LA Sparks",
-        "score": "-"
+        "date": "2017-10-04",
+        "title": "WNBA Finals",
+        "opponent": "Los Angeles Sparks",
+        "score": "3-2"
+      },
+      {
+        "date": "2015-10-14",
+        "title": "WNBA Finals",
+        "opponent": "Indiana Fever",
+        "score": "3-2"
+      },
+      {
+        "date": "2013-10-10",
+        "title": "WNBA Finals",
+        "opponent": "Atlanta Dream",
+        "score": "3-0"
+      },
+      {
+        "date": "2011-10-12",
+        "title": "WNBA Finals",
+        "opponent": "Atlanta Dream",
+        "score": "3-0"
       }
     ],
-    "lastChampionship": "2017-06-15",
+    "lastChampionship": "2017-10-04",
     "neverWon": false
   },
   {
     "id": "wnba-new-york-liberty",
     "name": "New York Liberty",
     "abbreviation": "NYL",
-    "city": "New",
+    "city": "Brooklyn",
     "league": "WNBA",
     "sport": "Basketball",
     "country": "USA",
@@ -199,16 +235,16 @@
     "secondaryColor": "#1D428A",
     "logoUrl": "/assets/logos/wnba-new-york-liberty.svg",
     "logoUrlDark": "/assets/logos/wnba-new-york-liberty-dark.svg",
-    "founded": 1910,
+    "founded": 1997,
     "championships": [
       {
-        "date": "2024-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Minnesota",
-        "score": "-"
+        "date": "2024-10-20",
+        "title": "WNBA Finals",
+        "opponent": "Minnesota Lynx",
+        "score": "3-2"
       }
     ],
-    "lastChampionship": "2024-06-15",
+    "lastChampionship": "2024-10-20",
     "neverWon": false
   },
   {
@@ -223,16 +259,28 @@
     "secondaryColor": "#F9A01B",
     "logoUrl": "/assets/logos/wnba-phoenix-mercury.svg",
     "logoUrlDark": "/assets/logos/wnba-phoenix-mercury-dark.svg",
-    "founded": 1911,
+    "founded": 1997,
     "championships": [
       {
-        "date": "2014-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Chicago",
-        "score": "-"
+        "date": "2014-09-12",
+        "title": "WNBA Finals",
+        "opponent": "Chicago Sky",
+        "score": "3-0"
+      },
+      {
+        "date": "2009-10-09",
+        "title": "WNBA Finals",
+        "opponent": "Indiana Fever",
+        "score": "3-2"
+      },
+      {
+        "date": "2007-09-09",
+        "title": "WNBA Finals",
+        "opponent": "Detroit Shock",
+        "score": "3-2"
       }
     ],
-    "lastChampionship": "2014-06-15",
+    "lastChampionship": "2014-09-12",
     "neverWon": false
   },
   {
@@ -247,16 +295,34 @@
     "secondaryColor": "#EFB21E",
     "logoUrl": "/assets/logos/wnba-seattle-storm.svg",
     "logoUrlDark": "/assets/logos/wnba-seattle-storm-dark.svg",
-    "founded": 1912,
+    "founded": 2000,
     "championships": [
       {
-        "date": "2020-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Las Vegas",
-        "score": "-"
+        "date": "2020-10-06",
+        "title": "WNBA Finals",
+        "opponent": "Las Vegas Aces",
+        "score": "3-0"
+      },
+      {
+        "date": "2018-09-12",
+        "title": "WNBA Finals",
+        "opponent": "Washington Mystics",
+        "score": "3-0"
+      },
+      {
+        "date": "2010-09-16",
+        "title": "WNBA Finals",
+        "opponent": "Atlanta Dream",
+        "score": "3-0"
+      },
+      {
+        "date": "2004-10-12",
+        "title": "WNBA Finals",
+        "opponent": "Connecticut Sun",
+        "score": "2-1"
       }
     ],
-    "lastChampionship": "2020-06-15",
+    "lastChampionship": "2020-10-06",
     "neverWon": false
   },
   {
@@ -271,16 +337,16 @@
     "secondaryColor": "#002B5C",
     "logoUrl": "/assets/logos/wnba-washington-mystics.svg",
     "logoUrlDark": "/assets/logos/wnba-washington-mystics-dark.svg",
-    "founded": 1913,
+    "founded": 1998,
     "championships": [
       {
-        "date": "2019-06-15",
-        "title": "WNBA Championship",
-        "opponent": "Connecticut",
-        "score": "-"
+        "date": "2019-10-10",
+        "title": "WNBA Finals",
+        "opponent": "Connecticut Sun",
+        "score": "3-2"
       }
     ],
-    "lastChampionship": "2019-06-15",
+    "lastChampionship": "2019-10-10",
     "neverWon": false
   }
 ]

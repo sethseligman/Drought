@@ -6,21 +6,21 @@
     "city": "Atlanta",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#80000A",
     "secondaryColor": "#A19060",
     "logoUrl": "/assets/logos/mls-atlanta-united.svg",
     "logoUrlDark": "/assets/logos/mls-atlanta-united-dark.svg",
-    "founded": 1901,
+    "founded": 2017,
     "championships": [
       {
-        "date": "2018-06-15",
-        "title": "MLS Championship",
-        "opponent": "Portland",
-        "score": "-"
+        "date": "2018-12-08",
+        "title": "MLS Cup",
+        "opponent": "Portland Timbers",
+        "score": "2-0"
       }
     ],
-    "lastChampionship": "2018-06-15",
+    "lastChampionship": "2018-12-08",
     "neverWon": false
   },
   {
@@ -30,12 +30,12 @@
     "city": "Austin",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#00B140",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/mls-austin-fc.svg",
     "logoUrlDark": "/assets/logos/mls-austin-fc-dark.svg",
-    "founded": 1902,
+    "founded": 2021,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -44,15 +44,15 @@
     "id": "mls-cf-montreal",
     "name": "CF Montreal",
     "abbreviation": "MTL",
-    "city": "CF",
+    "city": "Montreal",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#003DA5",
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/mls-cf-montreal.svg",
     "logoUrlDark": "/assets/logos/mls-cf-montreal-dark.svg",
-    "founded": 1903,
+    "founded": 2010,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -64,12 +64,12 @@
     "city": "Charlotte",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#1A85C8",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/mls-charlotte-fc.svg",
     "logoUrlDark": "/assets/logos/mls-charlotte-fc-dark.svg",
-    "founded": 1904,
+    "founded": 2022,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -81,38 +81,45 @@
     "city": "Chicago",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#8A1538",
     "secondaryColor": "#1E90FF",
     "logoUrl": "/assets/logos/mls-chicago-fire.svg",
     "logoUrlDark": "/assets/logos/mls-chicago-fire-dark.svg",
-    "founded": 1905,
-    "championships": [],
-    "lastChampionship": null,
-    "neverWon": true
+    "founded": 1997,
+    "championships": [
+      {
+        "date": "1998-10-25",
+        "title": "MLS Cup",
+        "opponent": "D.C. United",
+        "score": "2-0"
+      }
+    ],
+    "lastChampionship": "1998-10-25",
+    "neverWon": false
   },
   {
     "id": "mls-colorado-rapids",
     "name": "Colorado Rapids",
     "abbreviation": "COL",
-    "city": "Colorado",
+    "city": "Commerce City",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#960A2C",
     "secondaryColor": "#8BB8E8",
     "logoUrl": "/assets/logos/mls-colorado-rapids.svg",
     "logoUrlDark": "/assets/logos/mls-colorado-rapids-dark.svg",
-    "founded": 1906,
+    "founded": 1996,
     "championships": [
       {
-        "date": "2022-06-15",
-        "title": "MLS Championship",
-        "opponent": "MLS Cup?",
-        "score": "-"
+        "date": "2010-11-21",
+        "title": "MLS Cup",
+        "opponent": "FC Dallas",
+        "score": "2-1"
       }
     ],
-    "lastChampionship": "2022-06-15",
+    "lastChampionship": "2010-11-21",
     "neverWon": false
   },
   {
@@ -122,60 +129,90 @@
     "city": "Columbus",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#FEDD00",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/mls-columbus-crew.svg",
     "logoUrlDark": "/assets/logos/mls-columbus-crew-dark.svg",
-    "founded": 1907,
+    "founded": 1996,
     "championships": [
       {
-        "date": "2023-06-15",
-        "title": "MLS Championship",
+        "date": "2023-12-09",
+        "title": "MLS Cup",
         "opponent": "LAFC",
-        "score": "-"
+        "score": "2-1"
+      },
+      {
+        "date": "2020-12-12",
+        "title": "MLS Cup",
+        "opponent": "Seattle Sounders",
+        "score": "3-0"
+      },
+      {
+        "date": "2008-11-23",
+        "title": "MLS Cup",
+        "opponent": "New York Red Bulls",
+        "score": "3-1"
       }
     ],
-    "lastChampionship": "2023-06-15",
+    "lastChampionship": "2023-12-09",
     "neverWon": false
   },
   {
     "id": "mls-dc-united",
-    "name": "DC United",
+    "name": "D.C. United",
     "abbreviation": "DCU",
-    "city": "DC",
+    "city": "Washington",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#111111",
     "secondaryColor": "#EF3E42",
     "logoUrl": "/assets/logos/mls-dc-united.svg",
     "logoUrlDark": "/assets/logos/mls-dc-united-dark.svg",
-    "founded": 1908,
+    "founded": 1996,
     "championships": [
       {
-        "date": "2004-06-15",
-        "title": "MLS Championship",
-        "opponent": "Kansas City",
-        "score": "-"
+        "date": "2004-11-14",
+        "title": "MLS Cup",
+        "opponent": "Kansas City Wizards",
+        "score": "3-2"
+      },
+      {
+        "date": "1999-11-21",
+        "title": "MLS Cup",
+        "opponent": "LA Galaxy",
+        "score": "2-0"
+      },
+      {
+        "date": "1997-10-26",
+        "title": "MLS Cup",
+        "opponent": "Colorado Rapids",
+        "score": "2-1"
+      },
+      {
+        "date": "1996-10-20",
+        "title": "MLS Cup",
+        "opponent": "LA Galaxy",
+        "score": "3-2"
       }
     ],
-    "lastChampionship": "2004-06-15",
+    "lastChampionship": "2004-11-14",
     "neverWon": false
   },
   {
     "id": "mls-fc-cincinnati",
     "name": "FC Cincinnati",
     "abbreviation": "CIN",
-    "city": "FC",
+    "city": "Cincinnati",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#FC4C02",
     "secondaryColor": "#0C2340",
     "logoUrl": "/assets/logos/mls-fc-cincinnati.svg",
     "logoUrlDark": "/assets/logos/mls-fc-cincinnati-dark.svg",
-    "founded": 1909,
+    "founded": 2015,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -184,15 +221,15 @@
     "id": "mls-fc-dallas",
     "name": "FC Dallas",
     "abbreviation": "DAL",
-    "city": "FC",
+    "city": "Frisco",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#BF0D3E",
     "secondaryColor": "#00205B",
     "logoUrl": "/assets/logos/mls-fc-dallas.svg",
     "logoUrlDark": "/assets/logos/mls-fc-dallas-dark.svg",
-    "founded": 1910,
+    "founded": 1996,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -204,36 +241,42 @@
     "city": "Houston",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#F15A22",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/mls-houston-dynamo.svg",
     "logoUrlDark": "/assets/logos/mls-houston-dynamo-dark.svg",
-    "founded": 1911,
+    "founded": 2006,
     "championships": [
       {
-        "date": "2007-06-15",
-        "title": "MLS Championship",
-        "opponent": "New England",
-        "score": "-"
+        "date": "2007-11-18",
+        "title": "MLS Cup",
+        "opponent": "New England Revolution",
+        "score": "2-1"
+      },
+      {
+        "date": "2006-11-12",
+        "title": "MLS Cup",
+        "opponent": "New England Revolution",
+        "score": "1-1 (4-3 pens)"
       }
     ],
-    "lastChampionship": "2007-06-15",
+    "lastChampionship": "2007-11-18",
     "neverWon": false
   },
   {
     "id": "mls-inter-miami",
     "name": "Inter Miami",
     "abbreviation": "MIA",
-    "city": "Inter",
+    "city": "Fort Lauderdale",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#F7B5CD",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/mls-inter-miami.svg",
     "logoUrlDark": "/assets/logos/mls-inter-miami-dark.svg",
-    "founded": 1912,
+    "founded": 2018,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -242,63 +285,87 @@
     "id": "mls-la-galaxy",
     "name": "LA Galaxy",
     "abbreviation": "LAG",
-    "city": "LA",
+    "city": "Carson",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#00245D",
     "secondaryColor": "#FFB81C",
     "logoUrl": "/assets/logos/mls-la-galaxy.svg",
     "logoUrlDark": "/assets/logos/mls-la-galaxy-dark.svg",
-    "founded": 1913,
+    "founded": 1994,
     "championships": [
       {
-        "date": "2014-06-15",
-        "title": "MLS Championship",
-        "opponent": "New England",
-        "score": "-"
+        "date": "2014-12-07",
+        "title": "MLS Cup",
+        "opponent": "New England Revolution",
+        "score": "2-1"
+      },
+      {
+        "date": "2012-12-01",
+        "title": "MLS Cup",
+        "opponent": "Houston Dynamo",
+        "score": "3-1"
+      },
+      {
+        "date": "2011-11-20",
+        "title": "MLS Cup",
+        "opponent": "Houston Dynamo",
+        "score": "1-0"
+      },
+      {
+        "date": "2005-11-13",
+        "title": "MLS Cup",
+        "opponent": "New England Revolution",
+        "score": "1-0"
+      },
+      {
+        "date": "2002-10-20",
+        "title": "MLS Cup",
+        "opponent": "New England Revolution",
+        "score": "1-0"
       }
     ],
-    "lastChampionship": "2014-06-15",
+    "lastChampionship": "2014-12-07",
     "neverWon": false
   },
   {
     "id": "mls-lafc",
     "name": "LAFC",
     "abbreviation": "LAF",
-    "city": "LAFC",
+    "city": "Los Angeles",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#000000",
     "secondaryColor": "#C9A84C",
     "logoUrl": "/assets/logos/mls-lafc.svg",
     "logoUrlDark": "/assets/logos/mls-lafc-dark.svg",
-    "founded": 1914,
+    "founded": 2014,
     "championships": [
       {
-        "date": "2022-06-15",
-        "title": "MLS Championship",
-        "opponent": "Philadelphia",
-        "score": "-"
+        "date": "2022-11-05",
+        "title": "MLS Cup",
+        "opponent": "Philadelphia Union",
+        "score": "3-3 (3-0 pens)"
       }
     ],
-    "lastChampionship": "2022-06-15",
+    "lastChampionship": "2022-11-05",
     "neverWon": false
   },
   {
     "id": "mls-minnesota-united",
     "name": "Minnesota United",
     "abbreviation": "MIN",
-    "city": "Minnesota",
+    "city": "Saint Paul",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#8CD2F4",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/mls-minnesota-united.svg",
     "logoUrlDark": "/assets/logos/mls-minnesota-united-dark.svg",
-    "founded": 1915,
+    "founded": 2010,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -310,12 +377,12 @@
     "city": "Nashville",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#ECE83A",
     "secondaryColor": "#1F1646",
     "logoUrl": "/assets/logos/mls-nashville-sc.svg",
     "logoUrlDark": "/assets/logos/mls-nashville-sc-dark.svg",
-    "founded": 1916,
+    "founded": 2019,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -324,15 +391,15 @@
     "id": "mls-new-england-revolution",
     "name": "New England Revolution",
     "abbreviation": "NER",
-    "city": "New",
+    "city": "Foxborough",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#0A2141",
     "secondaryColor": "#C41230",
     "logoUrl": "/assets/logos/mls-new-england-revolution.svg",
     "logoUrlDark": "/assets/logos/mls-new-england-revolution-dark.svg",
-    "founded": 1917,
+    "founded": 1994,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -341,39 +408,39 @@
     "id": "mls-new-york-city-fc",
     "name": "New York City FC",
     "abbreviation": "NYC",
-    "city": "New",
+    "city": "New York",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#6CADDF",
     "secondaryColor": "#071B2C",
     "logoUrl": "/assets/logos/mls-new-york-city-fc.svg",
     "logoUrlDark": "/assets/logos/mls-new-york-city-fc-dark.svg",
-    "founded": 1918,
+    "founded": 2013,
     "championships": [
       {
-        "date": "2021-06-15",
-        "title": "MLS Championship",
-        "opponent": "Portland",
-        "score": "-"
+        "date": "2021-12-11",
+        "title": "MLS Cup",
+        "opponent": "Portland Timbers",
+        "score": "1-1 (4-2 pens)"
       }
     ],
-    "lastChampionship": "2021-06-15",
+    "lastChampionship": "2021-12-11",
     "neverWon": false
   },
   {
     "id": "mls-new-york-red-bulls",
     "name": "New York Red Bulls",
     "abbreviation": "RBNY",
-    "city": "New",
+    "city": "Harrison",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#ED1E24",
     "secondaryColor": "#001A39",
     "logoUrl": "/assets/logos/mls-new-york-red-bulls.svg",
     "logoUrlDark": "/assets/logos/mls-new-york-red-bulls-dark.svg",
-    "founded": 1919,
+    "founded": 1994,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -385,12 +452,12 @@
     "city": "Orlando",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#633492",
     "secondaryColor": "#F0D27A",
     "logoUrl": "/assets/logos/mls-orlando-city.svg",
     "logoUrlDark": "/assets/logos/mls-orlando-city-dark.svg",
-    "founded": 1920,
+    "founded": 2013,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -399,15 +466,15 @@
     "id": "mls-philadelphia-union",
     "name": "Philadelphia Union",
     "abbreviation": "PHI",
-    "city": "Philadelphia",
+    "city": "Chester",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#001B3A",
     "secondaryColor": "#B1872F",
     "logoUrl": "/assets/logos/mls-philadelphia-union.svg",
     "logoUrlDark": "/assets/logos/mls-philadelphia-union-dark.svg",
-    "founded": 1921,
+    "founded": 2008,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -419,60 +486,60 @@
     "city": "Portland",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#004812",
     "secondaryColor": "#D69A00",
     "logoUrl": "/assets/logos/mls-portland-timbers.svg",
     "logoUrlDark": "/assets/logos/mls-portland-timbers-dark.svg",
-    "founded": 1922,
+    "founded": 2009,
     "championships": [
       {
-        "date": "2015-06-15",
-        "title": "MLS Championship",
-        "opponent": "Columbus",
-        "score": "-"
+        "date": "2015-12-06",
+        "title": "MLS Cup",
+        "opponent": "Columbus Crew",
+        "score": "2-1"
       }
     ],
-    "lastChampionship": "2015-06-15",
+    "lastChampionship": "2015-12-06",
     "neverWon": false
   },
   {
     "id": "mls-real-salt-lake",
     "name": "Real Salt Lake",
     "abbreviation": "RSL",
-    "city": "Real",
+    "city": "Sandy",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#9D2235",
     "secondaryColor": "#013A81",
     "logoUrl": "/assets/logos/mls-real-salt-lake.svg",
     "logoUrlDark": "/assets/logos/mls-real-salt-lake-dark.svg",
-    "founded": 1923,
+    "founded": 2004,
     "championships": [
       {
-        "date": "2009-06-15",
-        "title": "MLS Championship",
+        "date": "2009-11-22",
+        "title": "MLS Cup",
         "opponent": "LA Galaxy",
-        "score": "-"
+        "score": "1-1 (5-4 pens)"
       }
     ],
-    "lastChampionship": "2009-06-15",
+    "lastChampionship": "2009-11-22",
     "neverWon": false
   },
   {
     "id": "mls-san-diego-fc",
     "name": "San Diego FC",
     "abbreviation": "SD",
-    "city": "San",
+    "city": "San Diego",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#041E42",
     "secondaryColor": "#59B4D9",
     "logoUrl": "/assets/logos/mls-san-diego-fc.svg",
     "logoUrlDark": "/assets/logos/mls-san-diego-fc-dark.svg",
-    "founded": 1924,
+    "founded": 2025,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -481,80 +548,105 @@
     "id": "mls-san-jose-earthquakes",
     "name": "San Jose Earthquakes",
     "abbreviation": "SJ",
-    "city": "San",
+    "city": "San Jose",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#0067B1",
     "secondaryColor": "#111111",
     "logoUrl": "/assets/logos/mls-san-jose-earthquakes.svg",
     "logoUrlDark": "/assets/logos/mls-san-jose-earthquakes-dark.svg",
-    "founded": 1925,
-    "championships": [],
-    "lastChampionship": null,
-    "neverWon": true
+    "founded": 1994,
+    "championships": [
+      {
+        "date": "2003-11-23",
+        "title": "MLS Cup",
+        "opponent": "Chicago Fire",
+        "score": "4-2"
+      },
+      {
+        "date": "2001-10-21",
+        "title": "MLS Cup",
+        "opponent": "LA Galaxy",
+        "score": "2-1"
+      }
+    ],
+    "lastChampionship": "2003-11-23",
+    "neverWon": false
   },
   {
     "id": "mls-seattle-sounders",
-    "name": "Seattle Sounders",
+    "name": "Seattle Sounders FC",
     "abbreviation": "SEA",
     "city": "Seattle",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#5D9732",
     "secondaryColor": "#005595",
     "logoUrl": "/assets/logos/mls-seattle-sounders.svg",
     "logoUrlDark": "/assets/logos/mls-seattle-sounders-dark.svg",
-    "founded": 1926,
+    "founded": 2007,
     "championships": [
       {
-        "date": "2019-06-15",
-        "title": "MLS Championship",
-        "opponent": "Toronto",
-        "score": "-"
+        "date": "2019-11-10",
+        "title": "MLS Cup",
+        "opponent": "Toronto FC",
+        "score": "3-1"
+      },
+      {
+        "date": "2016-12-10",
+        "title": "MLS Cup",
+        "opponent": "Toronto FC",
+        "score": "0-0 (5-4 pens)"
       }
     ],
-    "lastChampionship": "2019-06-15",
+    "lastChampionship": "2019-11-10",
     "neverWon": false
   },
   {
     "id": "mls-sporting-kansas-city",
     "name": "Sporting Kansas City",
     "abbreviation": "SKC",
-    "city": "Sporting",
+    "city": "Kansas City",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#93B1D7",
     "secondaryColor": "#0C2340",
     "logoUrl": "/assets/logos/mls-sporting-kansas-city.svg",
     "logoUrlDark": "/assets/logos/mls-sporting-kansas-city-dark.svg",
-    "founded": 1927,
+    "founded": 1995,
     "championships": [
       {
-        "date": "2013-06-15",
-        "title": "MLS Championship",
+        "date": "2013-12-07",
+        "title": "MLS Cup",
         "opponent": "Real Salt Lake",
-        "score": "-"
+        "score": "1-1 (7-6 pens)"
+      },
+      {
+        "date": "2000-10-15",
+        "title": "MLS Cup",
+        "opponent": "Chicago Fire",
+        "score": "1-0"
       }
     ],
-    "lastChampionship": "2013-06-15",
+    "lastChampionship": "2013-12-07",
     "neverWon": false
   },
   {
     "id": "mls-st-louis-city-sc",
     "name": "St. Louis City SC",
     "abbreviation": "STL",
-    "city": "St.",
+    "city": "St. Louis",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "USA",
     "primaryColor": "#ED174C",
     "secondaryColor": "#001A72",
     "logoUrl": "/assets/logos/mls-st-louis-city-sc.svg",
     "logoUrlDark": "/assets/logos/mls-st-louis-city-sc-dark.svg",
-    "founded": 1928,
+    "founded": 2019,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -566,36 +658,36 @@
     "city": "Toronto",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#B81137",
     "secondaryColor": "#455560",
     "logoUrl": "/assets/logos/mls-toronto-fc.svg",
     "logoUrlDark": "/assets/logos/mls-toronto-fc-dark.svg",
-    "founded": 1929,
+    "founded": 2005,
     "championships": [
       {
-        "date": "2017-06-15",
-        "title": "MLS Championship",
-        "opponent": "Seattle",
-        "score": "-"
+        "date": "2017-12-09",
+        "title": "MLS Cup",
+        "opponent": "Seattle Sounders",
+        "score": "2-0"
       }
     ],
-    "lastChampionship": "2017-06-15",
+    "lastChampionship": "2017-12-09",
     "neverWon": false
   },
   {
     "id": "mls-vancouver-whitecaps",
-    "name": "Vancouver Whitecaps",
+    "name": "Vancouver Whitecaps FC",
     "abbreviation": "VAN",
     "city": "Vancouver",
     "league": "MLS",
     "sport": "Soccer",
-    "country": "USA/Canada",
+    "country": "Canada",
     "primaryColor": "#00205B",
     "secondaryColor": "#6BC4E8",
     "logoUrl": "/assets/logos/mls-vancouver-whitecaps.svg",
     "logoUrlDark": "/assets/logos/mls-vancouver-whitecaps-dark.svg",
-    "founded": 1930,
+    "founded": 2009,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true

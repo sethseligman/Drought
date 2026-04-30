@@ -3,7 +3,7 @@
     "id": "mlb-arizona-diamondbacks",
     "name": "Arizona Diamondbacks",
     "abbreviation": "ARI",
-    "city": "Arizona",
+    "city": "Phoenix",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -11,16 +11,16 @@
     "secondaryColor": "#30CED8",
     "logoUrl": "/assets/logos/mlb-arizona-diamondbacks.svg",
     "logoUrlDark": "/assets/logos/mlb-arizona-diamondbacks-dark.svg",
-    "founded": 1901,
+    "founded": 1998,
     "championships": [
       {
-        "date": "2001-06-15",
-        "title": "MLB Championship",
+        "date": "2001-11-04",
+        "title": "World Series",
         "opponent": "New York Yankees",
-        "score": "-"
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2001-06-15",
+    "lastChampionship": "2001-11-04",
     "neverWon": false
   },
   {
@@ -35,16 +35,28 @@
     "secondaryColor": "#13274F",
     "logoUrl": "/assets/logos/mlb-atlanta-braves.svg",
     "logoUrlDark": "/assets/logos/mlb-atlanta-braves-dark.svg",
-    "founded": 1902,
+    "founded": 1871,
     "championships": [
       {
-        "date": "2021-06-15",
-        "title": "MLB Championship",
-        "opponent": "Houston",
-        "score": "-"
+        "date": "2021-11-02",
+        "title": "World Series",
+        "opponent": "Houston Astros",
+        "score": "4-2"
+      },
+      {
+        "date": "1995-10-28",
+        "title": "World Series",
+        "opponent": "Cleveland Indians",
+        "score": "4-2"
+      },
+      {
+        "date": "1957-10-10",
+        "title": "World Series",
+        "opponent": "New York Yankees",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2021-06-15",
+    "lastChampionship": "2021-11-02",
     "neverWon": false
   },
   {
@@ -59,16 +71,28 @@
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/mlb-baltimore-orioles.svg",
     "logoUrlDark": "/assets/logos/mlb-baltimore-orioles-dark.svg",
-    "founded": 1903,
+    "founded": 1901,
     "championships": [
       {
-        "date": "1983-06-15",
-        "title": "MLB Championship",
-        "opponent": "Philadelphia",
-        "score": "-"
+        "date": "1983-10-16",
+        "title": "World Series",
+        "opponent": "Philadelphia Phillies",
+        "score": "4-1"
+      },
+      {
+        "date": "1970-10-15",
+        "title": "World Series",
+        "opponent": "Cincinnati Reds",
+        "score": "4-1"
+      },
+      {
+        "date": "1966-10-09",
+        "title": "World Series",
+        "opponent": "Los Angeles Dodgers",
+        "score": "4-0"
       }
     ],
-    "lastChampionship": "1983-06-15",
+    "lastChampionship": "1983-10-16",
     "neverWon": false
   },
   {
@@ -83,16 +107,34 @@
     "secondaryColor": "#0C2340",
     "logoUrl": "/assets/logos/mlb-boston-red-sox.svg",
     "logoUrlDark": "/assets/logos/mlb-boston-red-sox-dark.svg",
-    "founded": 1904,
+    "founded": 1901,
     "championships": [
       {
-        "date": "2018-06-15",
-        "title": "MLB Championship",
-        "opponent": "LA Dodgers",
-        "score": "-"
+        "date": "2018-10-28",
+        "title": "World Series",
+        "opponent": "Los Angeles Dodgers",
+        "score": "4-1"
+      },
+      {
+        "date": "2013-10-30",
+        "title": "World Series",
+        "opponent": "St. Louis Cardinals",
+        "score": "4-2"
+      },
+      {
+        "date": "2007-10-28",
+        "title": "World Series",
+        "opponent": "Colorado Rockies",
+        "score": "4-0"
+      },
+      {
+        "date": "2004-10-27",
+        "title": "World Series",
+        "opponent": "St. Louis Cardinals",
+        "score": "4-0"
       }
     ],
-    "lastChampionship": "2018-06-15",
+    "lastChampionship": "2018-10-28",
     "neverWon": false
   },
   {
@@ -107,16 +149,22 @@
     "secondaryColor": "#CC3433",
     "logoUrl": "/assets/logos/mlb-chicago-cubs.svg",
     "logoUrlDark": "/assets/logos/mlb-chicago-cubs-dark.svg",
-    "founded": 1905,
+    "founded": 1876,
     "championships": [
       {
-        "date": "2016-06-15",
-        "title": "MLB Championship",
-        "opponent": "Cleveland",
-        "score": "-"
+        "date": "2016-11-02",
+        "title": "World Series",
+        "opponent": "Cleveland Indians",
+        "score": "4-3"
+      },
+      {
+        "date": "1908-10-14",
+        "title": "World Series",
+        "opponent": "Detroit Tigers",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2016-06-15",
+    "lastChampionship": "2016-11-02",
     "neverWon": false
   },
   {
@@ -131,16 +179,22 @@
     "secondaryColor": "#C4CED4",
     "logoUrl": "/assets/logos/mlb-chicago-white-sox.svg",
     "logoUrlDark": "/assets/logos/mlb-chicago-white-sox-dark.svg",
-    "founded": 1906,
+    "founded": 1900,
     "championships": [
       {
-        "date": "2005-06-15",
-        "title": "MLB Championship",
-        "opponent": "Houston",
-        "score": "-"
+        "date": "2005-10-26",
+        "title": "World Series",
+        "opponent": "Houston Astros",
+        "score": "4-0"
+      },
+      {
+        "date": "1917-10-15",
+        "title": "World Series",
+        "opponent": "New York Giants",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2005-06-15",
+    "lastChampionship": "2005-10-26",
     "neverWon": false
   },
   {
@@ -155,16 +209,28 @@
     "secondaryColor": "#000000",
     "logoUrl": "/assets/logos/mlb-cincinnati-reds.svg",
     "logoUrlDark": "/assets/logos/mlb-cincinnati-reds-dark.svg",
-    "founded": 1907,
+    "founded": 1882,
     "championships": [
       {
-        "date": "1990-06-15",
-        "title": "MLB Championship",
-        "opponent": "Oakland",
-        "score": "-"
+        "date": "1990-10-20",
+        "title": "World Series",
+        "opponent": "Oakland Athletics",
+        "score": "4-0"
+      },
+      {
+        "date": "1976-10-21",
+        "title": "World Series",
+        "opponent": "New York Yankees",
+        "score": "4-0"
+      },
+      {
+        "date": "1975-10-22",
+        "title": "World Series",
+        "opponent": "Boston Red Sox",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "1990-06-15",
+    "lastChampionship": "1990-10-20",
     "neverWon": false
   },
   {
@@ -179,23 +245,29 @@
     "secondaryColor": "#E31937",
     "logoUrl": "/assets/logos/mlb-cleveland-guardians.svg",
     "logoUrlDark": "/assets/logos/mlb-cleveland-guardians-dark.svg",
-    "founded": 1908,
+    "founded": 1901,
     "championships": [
       {
-        "date": "1948-06-15",
-        "title": "MLB Championship",
+        "date": "1948-10-11",
+        "title": "World Series",
         "opponent": "Boston Braves",
-        "score": "-"
+        "score": "4-2"
+      },
+      {
+        "date": "1920-10-12",
+        "title": "World Series",
+        "opponent": "Brooklyn Robins",
+        "score": "5-2"
       }
     ],
-    "lastChampionship": "1948-06-15",
+    "lastChampionship": "1948-10-11",
     "neverWon": false
   },
   {
     "id": "mlb-colorado-rockies",
     "name": "Colorado Rockies",
     "abbreviation": "COL",
-    "city": "Colorado",
+    "city": "Denver",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -203,7 +275,7 @@
     "secondaryColor": "#C4CED4",
     "logoUrl": "/assets/logos/mlb-colorado-rockies.svg",
     "logoUrlDark": "/assets/logos/mlb-colorado-rockies-dark.svg",
-    "founded": 1909,
+    "founded": 1993,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -220,16 +292,22 @@
     "secondaryColor": "#FA4616",
     "logoUrl": "/assets/logos/mlb-detroit-tigers.svg",
     "logoUrlDark": "/assets/logos/mlb-detroit-tigers-dark.svg",
-    "founded": 1910,
+    "founded": 1901,
     "championships": [
       {
-        "date": "1984-06-15",
-        "title": "MLB Championship",
-        "opponent": "San Diego",
-        "score": "-"
+        "date": "1984-10-14",
+        "title": "World Series",
+        "opponent": "San Diego Padres",
+        "score": "4-1"
+      },
+      {
+        "date": "1968-10-10",
+        "title": "World Series",
+        "opponent": "St. Louis Cardinals",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "1984-06-15",
+    "lastChampionship": "1984-10-14",
     "neverWon": false
   },
   {
@@ -244,23 +322,29 @@
     "secondaryColor": "#EB6E1F",
     "logoUrl": "/assets/logos/mlb-houston-astros.svg",
     "logoUrlDark": "/assets/logos/mlb-houston-astros-dark.svg",
-    "founded": 1911,
+    "founded": 1962,
     "championships": [
       {
-        "date": "2022-06-15",
-        "title": "MLB Championship",
-        "opponent": "Philadelphia",
-        "score": "-"
+        "date": "2022-11-05",
+        "title": "World Series",
+        "opponent": "Philadelphia Phillies",
+        "score": "4-2"
+      },
+      {
+        "date": "2017-11-01",
+        "title": "World Series",
+        "opponent": "Los Angeles Dodgers",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2022-06-15",
+    "lastChampionship": "2022-11-05",
     "neverWon": false
   },
   {
     "id": "mlb-kansas-city-royals",
     "name": "Kansas City Royals",
     "abbreviation": "KC",
-    "city": "Kansas",
+    "city": "Kansas City",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -268,23 +352,29 @@
     "secondaryColor": "#BD9B60",
     "logoUrl": "/assets/logos/mlb-kansas-city-royals.svg",
     "logoUrlDark": "/assets/logos/mlb-kansas-city-royals-dark.svg",
-    "founded": 1912,
+    "founded": 1969,
     "championships": [
       {
-        "date": "2015-06-15",
-        "title": "MLB Championship",
-        "opponent": "NY Mets",
-        "score": "-"
+        "date": "2015-11-01",
+        "title": "World Series",
+        "opponent": "New York Mets",
+        "score": "4-1"
+      },
+      {
+        "date": "1985-10-27",
+        "title": "World Series",
+        "opponent": "St. Louis Cardinals",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2015-06-15",
+    "lastChampionship": "2015-11-01",
     "neverWon": false
   },
   {
     "id": "mlb-los-angeles-angels",
     "name": "Los Angeles Angels",
     "abbreviation": "LAA",
-    "city": "Los",
+    "city": "Anaheim",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -292,23 +382,23 @@
     "secondaryColor": "#003263",
     "logoUrl": "/assets/logos/mlb-los-angeles-angels.svg",
     "logoUrlDark": "/assets/logos/mlb-los-angeles-angels-dark.svg",
-    "founded": 1913,
+    "founded": 1961,
     "championships": [
       {
-        "date": "2002-06-15",
-        "title": "MLB Championship",
-        "opponent": "San Francisco",
-        "score": "-"
+        "date": "2002-10-27",
+        "title": "World Series",
+        "opponent": "San Francisco Giants",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2002-06-15",
+    "lastChampionship": "2002-10-27",
     "neverWon": false
   },
   {
     "id": "mlb-los-angeles-dodgers",
     "name": "Los Angeles Dodgers",
     "abbreviation": "LAD",
-    "city": "Los",
+    "city": "Los Angeles",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -316,16 +406,28 @@
     "secondaryColor": "#EF3E42",
     "logoUrl": "/assets/logos/mlb-los-angeles-dodgers.svg",
     "logoUrlDark": "/assets/logos/mlb-los-angeles-dodgers-dark.svg",
-    "founded": 1914,
+    "founded": 1883,
     "championships": [
       {
-        "date": "2020-06-15",
-        "title": "MLB Championship",
-        "opponent": "Tampa Bay",
-        "score": "-"
+        "date": "2020-10-27",
+        "title": "World Series",
+        "opponent": "Tampa Bay Rays",
+        "score": "4-2"
+      },
+      {
+        "date": "1988-10-20",
+        "title": "World Series",
+        "opponent": "Oakland Athletics",
+        "score": "4-1"
+      },
+      {
+        "date": "1981-10-28",
+        "title": "World Series",
+        "opponent": "New York Yankees",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2020-06-15",
+    "lastChampionship": "2020-10-27",
     "neverWon": false
   },
   {
@@ -340,16 +442,22 @@
     "secondaryColor": "#EF3340",
     "logoUrl": "/assets/logos/mlb-miami-marlins.svg",
     "logoUrlDark": "/assets/logos/mlb-miami-marlins-dark.svg",
-    "founded": 1915,
+    "founded": 1993,
     "championships": [
       {
-        "date": "2003-06-15",
-        "title": "MLB Championship",
+        "date": "2003-10-25",
+        "title": "World Series",
         "opponent": "New York Yankees",
-        "score": "-"
+        "score": "4-2"
+      },
+      {
+        "date": "1997-10-26",
+        "title": "World Series",
+        "opponent": "Cleveland Indians",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2003-06-15",
+    "lastChampionship": "2003-10-25",
     "neverWon": false
   },
   {
@@ -364,23 +472,16 @@
     "secondaryColor": "#FFC52F",
     "logoUrl": "/assets/logos/mlb-milwaukee-brewers.svg",
     "logoUrlDark": "/assets/logos/mlb-milwaukee-brewers-dark.svg",
-    "founded": 1916,
-    "championships": [
-      {
-        "date": "1982-06-15",
-        "title": "MLB Championship",
-        "opponent": "AL Pennant",
-        "score": "-"
-      }
-    ],
-    "lastChampionship": "1982-06-15",
-    "neverWon": false
+    "founded": 1969,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
   },
   {
     "id": "mlb-minnesota-twins",
     "name": "Minnesota Twins",
     "abbreviation": "MIN",
-    "city": "Minnesota",
+    "city": "Minneapolis",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -388,23 +489,29 @@
     "secondaryColor": "#D31145",
     "logoUrl": "/assets/logos/mlb-minnesota-twins.svg",
     "logoUrlDark": "/assets/logos/mlb-minnesota-twins-dark.svg",
-    "founded": 1917,
+    "founded": 1901,
     "championships": [
       {
-        "date": "1991-06-15",
-        "title": "MLB Championship",
-        "opponent": "Atlanta",
-        "score": "-"
+        "date": "1991-10-27",
+        "title": "World Series",
+        "opponent": "Atlanta Braves",
+        "score": "4-3"
+      },
+      {
+        "date": "1987-10-25",
+        "title": "World Series",
+        "opponent": "St. Louis Cardinals",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "1991-06-15",
+    "lastChampionship": "1991-10-27",
     "neverWon": false
   },
   {
     "id": "mlb-new-york-mets",
     "name": "New York Mets",
     "abbreviation": "NYM",
-    "city": "New",
+    "city": "Queens",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -412,23 +519,29 @@
     "secondaryColor": "#FF5910",
     "logoUrl": "/assets/logos/mlb-new-york-mets.svg",
     "logoUrlDark": "/assets/logos/mlb-new-york-mets-dark.svg",
-    "founded": 1918,
+    "founded": 1962,
     "championships": [
       {
-        "date": "1986-06-15",
-        "title": "MLB Championship",
-        "opponent": "Boston",
-        "score": "-"
+        "date": "1986-10-27",
+        "title": "World Series",
+        "opponent": "Boston Red Sox",
+        "score": "4-3"
+      },
+      {
+        "date": "1969-10-16",
+        "title": "World Series",
+        "opponent": "Baltimore Orioles",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "1986-06-15",
+    "lastChampionship": "1986-10-27",
     "neverWon": false
   },
   {
     "id": "mlb-new-york-yankees",
     "name": "New York Yankees",
     "abbreviation": "NYY",
-    "city": "New",
+    "city": "Bronx",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -436,16 +549,40 @@
     "secondaryColor": "#C4CED4",
     "logoUrl": "/assets/logos/mlb-new-york-yankees.svg",
     "logoUrlDark": "/assets/logos/mlb-new-york-yankees-dark.svg",
-    "founded": 1919,
+    "founded": 1901,
     "championships": [
       {
-        "date": "2009-06-15",
-        "title": "MLB Championship",
-        "opponent": "Philadelphia",
-        "score": "-"
+        "date": "2009-11-04",
+        "title": "World Series",
+        "opponent": "Philadelphia Phillies",
+        "score": "4-2"
+      },
+      {
+        "date": "2000-10-26",
+        "title": "World Series",
+        "opponent": "New York Mets",
+        "score": "4-1"
+      },
+      {
+        "date": "1999-10-27",
+        "title": "World Series",
+        "opponent": "Atlanta Braves",
+        "score": "4-0"
+      },
+      {
+        "date": "1998-10-21",
+        "title": "World Series",
+        "opponent": "San Diego Padres",
+        "score": "4-0"
+      },
+      {
+        "date": "1996-10-26",
+        "title": "World Series",
+        "opponent": "Atlanta Braves",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2009-06-15",
+    "lastChampionship": "2009-11-04",
     "neverWon": false
   },
   {
@@ -460,16 +597,34 @@
     "secondaryColor": "#EFB21E",
     "logoUrl": "/assets/logos/mlb-oakland-athletics.svg",
     "logoUrlDark": "/assets/logos/mlb-oakland-athletics-dark.svg",
-    "founded": 1920,
+    "founded": 1901,
     "championships": [
       {
-        "date": "1989-06-15",
-        "title": "MLB Championship",
-        "opponent": "San Francisco",
-        "score": "-"
+        "date": "1989-10-28",
+        "title": "World Series",
+        "opponent": "San Francisco Giants",
+        "score": "4-0"
+      },
+      {
+        "date": "1974-10-17",
+        "title": "World Series",
+        "opponent": "Los Angeles Dodgers",
+        "score": "4-1"
+      },
+      {
+        "date": "1973-10-21",
+        "title": "World Series",
+        "opponent": "New York Mets",
+        "score": "4-3"
+      },
+      {
+        "date": "1972-10-22",
+        "title": "World Series",
+        "opponent": "Cincinnati Reds",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "1989-06-15",
+    "lastChampionship": "1989-10-28",
     "neverWon": false
   },
   {
@@ -484,16 +639,22 @@
     "secondaryColor": "#002D72",
     "logoUrl": "/assets/logos/mlb-philadelphia-phillies.svg",
     "logoUrlDark": "/assets/logos/mlb-philadelphia-phillies-dark.svg",
-    "founded": 1921,
+    "founded": 1883,
     "championships": [
       {
-        "date": "2008-06-15",
-        "title": "MLB Championship",
-        "opponent": "Tampa Bay",
-        "score": "-"
+        "date": "2008-10-29",
+        "title": "World Series",
+        "opponent": "Tampa Bay Rays",
+        "score": "4-1"
+      },
+      {
+        "date": "1980-10-21",
+        "title": "World Series",
+        "opponent": "Kansas City Royals",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "2008-06-15",
+    "lastChampionship": "2008-10-29",
     "neverWon": false
   },
   {
@@ -508,23 +669,35 @@
     "secondaryColor": "#27251F",
     "logoUrl": "/assets/logos/mlb-pittsburgh-pirates.svg",
     "logoUrlDark": "/assets/logos/mlb-pittsburgh-pirates-dark.svg",
-    "founded": 1922,
+    "founded": 1882,
     "championships": [
       {
-        "date": "1979-06-15",
-        "title": "MLB Championship",
-        "opponent": "Baltimore",
-        "score": "-"
+        "date": "1979-10-17",
+        "title": "World Series",
+        "opponent": "Baltimore Orioles",
+        "score": "4-3"
+      },
+      {
+        "date": "1971-10-17",
+        "title": "World Series",
+        "opponent": "Baltimore Orioles",
+        "score": "4-3"
+      },
+      {
+        "date": "1960-10-13",
+        "title": "World Series",
+        "opponent": "New York Yankees",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "1979-06-15",
+    "lastChampionship": "1979-10-17",
     "neverWon": false
   },
   {
     "id": "mlb-san-diego-padres",
     "name": "San Diego Padres",
     "abbreviation": "SD",
-    "city": "San",
+    "city": "San Diego",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -532,7 +705,7 @@
     "secondaryColor": "#FFC425",
     "logoUrl": "/assets/logos/mlb-san-diego-padres.svg",
     "logoUrlDark": "/assets/logos/mlb-san-diego-padres-dark.svg",
-    "founded": 1923,
+    "founded": 1969,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -541,7 +714,7 @@
     "id": "mlb-san-francisco-giants",
     "name": "San Francisco Giants",
     "abbreviation": "SF",
-    "city": "San",
+    "city": "San Francisco",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -549,16 +722,28 @@
     "secondaryColor": "#27251F",
     "logoUrl": "/assets/logos/mlb-san-francisco-giants.svg",
     "logoUrlDark": "/assets/logos/mlb-san-francisco-giants-dark.svg",
-    "founded": 1924,
+    "founded": 1883,
     "championships": [
       {
-        "date": "2014-06-15",
-        "title": "MLB Championship",
-        "opponent": "Kansas City",
-        "score": "-"
+        "date": "2014-10-29",
+        "title": "World Series",
+        "opponent": "Kansas City Royals",
+        "score": "4-3"
+      },
+      {
+        "date": "2012-10-28",
+        "title": "World Series",
+        "opponent": "Detroit Tigers",
+        "score": "4-0"
+      },
+      {
+        "date": "2010-11-01",
+        "title": "World Series",
+        "opponent": "Texas Rangers",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2014-06-15",
+    "lastChampionship": "2014-10-29",
     "neverWon": false
   },
   {
@@ -573,7 +758,7 @@
     "secondaryColor": "#005C5C",
     "logoUrl": "/assets/logos/mlb-seattle-mariners.svg",
     "logoUrlDark": "/assets/logos/mlb-seattle-mariners-dark.svg",
-    "founded": 1925,
+    "founded": 1977,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -582,7 +767,7 @@
     "id": "mlb-st-louis-cardinals",
     "name": "St. Louis Cardinals",
     "abbreviation": "STL",
-    "city": "St.",
+    "city": "St. Louis",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -590,23 +775,29 @@
     "secondaryColor": "#0A2252",
     "logoUrl": "/assets/logos/mlb-st-louis-cardinals.svg",
     "logoUrlDark": "/assets/logos/mlb-st-louis-cardinals-dark.svg",
-    "founded": 1926,
+    "founded": 1882,
     "championships": [
       {
-        "date": "2011-06-15",
-        "title": "MLB Championship",
-        "opponent": "Texas",
-        "score": "-"
+        "date": "2011-10-28",
+        "title": "World Series",
+        "opponent": "Texas Rangers",
+        "score": "4-3"
+      },
+      {
+        "date": "2006-10-27",
+        "title": "World Series",
+        "opponent": "Detroit Tigers",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2011-06-15",
+    "lastChampionship": "2011-10-28",
     "neverWon": false
   },
   {
     "id": "mlb-tampa-bay-rays",
     "name": "Tampa Bay Rays",
     "abbreviation": "TB",
-    "city": "Tampa",
+    "city": "St. Petersburg",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -614,7 +805,7 @@
     "secondaryColor": "#8FBCE6",
     "logoUrl": "/assets/logos/mlb-tampa-bay-rays.svg",
     "logoUrlDark": "/assets/logos/mlb-tampa-bay-rays-dark.svg",
-    "founded": 1927,
+    "founded": 1998,
     "championships": [],
     "lastChampionship": null,
     "neverWon": true
@@ -623,7 +814,7 @@
     "id": "mlb-texas-rangers",
     "name": "Texas Rangers",
     "abbreviation": "TEX",
-    "city": "Texas",
+    "city": "Arlington",
     "league": "MLB",
     "sport": "Baseball",
     "country": "USA",
@@ -631,16 +822,16 @@
     "secondaryColor": "#C0111F",
     "logoUrl": "/assets/logos/mlb-texas-rangers.svg",
     "logoUrlDark": "/assets/logos/mlb-texas-rangers-dark.svg",
-    "founded": 1928,
+    "founded": 1961,
     "championships": [
       {
-        "date": "2023-06-15",
-        "title": "MLB Championship",
-        "opponent": "Arizona",
-        "score": "-"
+        "date": "2023-11-01",
+        "title": "World Series",
+        "opponent": "Arizona Diamondbacks",
+        "score": "4-1"
       }
     ],
-    "lastChampionship": "2023-06-15",
+    "lastChampionship": "2023-11-01",
     "neverWon": false
   },
   {
@@ -650,21 +841,27 @@
     "city": "Toronto",
     "league": "MLB",
     "sport": "Baseball",
-    "country": "USA",
+    "country": "Canada",
     "primaryColor": "#134A8E",
     "secondaryColor": "#1D2D5C",
     "logoUrl": "/assets/logos/mlb-toronto-blue-jays.svg",
     "logoUrlDark": "/assets/logos/mlb-toronto-blue-jays-dark.svg",
-    "founded": 1929,
+    "founded": 1977,
     "championships": [
       {
-        "date": "1993-06-15",
-        "title": "MLB Championship",
-        "opponent": "Philadelphia",
-        "score": "-"
+        "date": "1993-10-23",
+        "title": "World Series",
+        "opponent": "Philadelphia Phillies",
+        "score": "4-2"
+      },
+      {
+        "date": "1992-10-24",
+        "title": "World Series",
+        "opponent": "Atlanta Braves",
+        "score": "4-2"
       }
     ],
-    "lastChampionship": "1993-06-15",
+    "lastChampionship": "1993-10-23",
     "neverWon": false
   },
   {
@@ -679,16 +876,16 @@
     "secondaryColor": "#14225A",
     "logoUrl": "/assets/logos/mlb-washington-nationals.svg",
     "logoUrlDark": "/assets/logos/mlb-washington-nationals-dark.svg",
-    "founded": 1930,
+    "founded": 1969,
     "championships": [
       {
-        "date": "2019-06-15",
-        "title": "MLB Championship",
-        "opponent": "Houston",
-        "score": "-"
+        "date": "2019-10-30",
+        "title": "World Series",
+        "opponent": "Houston Astros",
+        "score": "4-3"
       }
     ],
-    "lastChampionship": "2019-06-15",
+    "lastChampionship": "2019-10-30",
     "neverWon": false
   }
 ]

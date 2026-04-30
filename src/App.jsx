@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Search } from 'lucide-react';
 import LiveClock from './components/LiveClock';
 import LeagueNav from './components/LeagueNav';
@@ -31,6 +31,10 @@ function App() {
   const { leagues, teams } = useDroughtData(activeLeague);
   const filteredTeams = useFilteredTeams(teams, filters, sortMode, nowMs);
   const maxDays = Math.max(...leagues.ALL.map((team) => (team.lastChampionship ? Math.floor((nowMs - new Date(team.lastChampionship).getTime()) / 86400000) : 0)), 1);
+
+  useEffect(() => {
+    setSelectedTeam(null);
+  }, [activeLeague]);
 
   const leagueList = useMemo(
     () => Object.entries(leagues)
