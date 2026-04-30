@@ -409,6 +409,18 @@
     "founded": 1883,
     "championships": [
       {
+        "date": "2025-10-31",
+        "title": "World Series",
+        "opponent": "Toronto Blue Jays",
+        "score": "4-3"
+      },
+      {
+        "date": "2024-10-30",
+        "title": "World Series",
+        "opponent": "New York Yankees",
+        "score": "4-1"
+      },
+      {
         "date": "2020-10-27",
         "title": "World Series",
         "opponent": "Tampa Bay Rays",
@@ -427,7 +439,7 @@
         "score": "4-2"
       }
     ],
-    "lastChampionship": "2020-10-27",
+    "lastChampionship": "2025-10-31",
     "neverWon": false
   },
   {

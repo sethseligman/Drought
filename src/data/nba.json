@@ -575,9 +575,16 @@
     "logoUrl": "/assets/logos/nba-oklahoma-city-thunder.svg",
     "logoUrlDark": "/assets/logos/nba-oklahoma-city-thunder-dark.svg",
     "founded": 2008,
-    "championships": [],
-    "lastChampionship": null,
-    "neverWon": true
+    "championships": [
+      {
+        "date": "2025-06-22",
+        "title": "NBA Finals",
+        "opponent": "Indiana Pacers",
+        "score": "4-3"
+      }
+    ],
+    "lastChampionship": "2025-06-22",
+    "neverWon": false
   },
   {
     "id": "nba-orlando-magic",

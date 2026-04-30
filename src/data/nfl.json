@@ -739,6 +739,12 @@
     "founded": 1933,
     "championships": [
       {
+        "date": "2025-02-09",
+        "title": "Super Bowl LIX",
+        "opponent": "Kansas City Chiefs",
+        "score": "40-22"
+      },
+      {
         "date": "2018-02-04",
         "title": "Super Bowl LII",
         "opponent": "New England Patriots",
@@ -751,7 +757,7 @@
         "score": "17-13"
       }
     ],
-    "lastChampionship": "2018-02-04",
+    "lastChampionship": "2025-02-09",
     "neverWon": false
   },
   {

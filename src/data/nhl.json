@@ -264,13 +264,19 @@
     "founded": 1993,
     "championships": [
       {
+        "date": "2025-06-17",
+        "title": "Stanley Cup Final",
+        "opponent": "Edmonton Oilers",
+        "score": "4-2"
+      },
+      {
         "date": "2024-06-24",
         "title": "Stanley Cup Final",
         "opponent": "Edmonton Oilers",
         "score": "4-3"
       }
     ],
-    "lastChampionship": "2024-06-24",
+    "lastChampionship": "2025-06-17",
     "neverWon": false
   },
   {

@@ -130,6 +130,12 @@
     "founded": 1997,
     "championships": [
       {
+        "date": "2025-10-10",
+        "title": "WNBA Finals",
+        "opponent": "Phoenix Mercury",
+        "score": "4-0"
+      },
+      {
         "date": "2023-10-18",
         "title": "WNBA Finals",
         "opponent": "New York Liberty",
@@ -142,7 +148,7 @@
         "score": "3-1"
       }
     ],
-    "lastChampionship": "2023-10-18",
+    "lastChampionship": "2025-10-10",
     "neverWon": false
   },
   {

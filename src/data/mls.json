@@ -277,9 +277,16 @@
     "logoUrl": "/assets/logos/mls-inter-miami.svg",
     "logoUrlDark": "/assets/logos/mls-inter-miami-dark.svg",
     "founded": 2018,
-    "championships": [],
-    "lastChampionship": null,
-    "neverWon": true
+    "championships": [
+      {
+        "date": "2025-12-06",
+        "title": "MLS Cup",
+        "opponent": "Vancouver Whitecaps FC",
+        "score": "3-1"
+      }
+    ],
+    "lastChampionship": "2025-12-06",
+    "neverWon": false
   },
   {
     "id": "mls-la-galaxy",
@@ -295,6 +302,12 @@
     "logoUrlDark": "/assets/logos/mls-la-galaxy-dark.svg",
     "founded": 1994,
     "championships": [
+      {
+        "date": "2024-12-07",
+        "title": "MLS Cup",
+        "opponent": "New York Red Bulls",
+        "score": "2-1"
+      },
       {
         "date": "2014-12-07",
         "title": "MLS Cup",
@@ -326,7 +339,7 @@
         "score": "1-0"
       }
     ],
-    "lastChampionship": "2014-12-07",
+    "lastChampionship": "2024-12-07",
     "neverWon": false
   },
   {
