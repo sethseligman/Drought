@@ -1,19 +1,499 @@
 [
   {
-    "id": "premier-league-sample",
-    "name": "Premier League",
-    "abbreviation": "TBD",
-    "city": "TBD",
+    "id": "premier-league-arsenal",
+    "name": "Arsenal",
+    "abbreviation": "ARS",
+    "city": "London",
     "league": "Premier League",
-    "sport": "TBD",
-    "country": "Global",
-    "primaryColor": "#444460",
-    "secondaryColor": "#8888aa",
-    "logoUrl": "",
-    "logoUrlDark": "",
-    "founded": 2000,
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "founded": 1886,
+    "championships": [
+      {
+        "date": "2004-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2004-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-aston-villa",
+    "name": "Aston Villa",
+    "abbreviation": "AVL",
+    "city": "Birmingham",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "founded": 1874,
+    "championships": [
+      {
+        "date": "1981-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1981-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-bournemouth",
+    "name": "Bournemouth",
+    "abbreviation": "BOU",
+    "city": "Bournemouth",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "founded": 1899,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-brentford",
+    "name": "Brentford",
+    "abbreviation": "BRE",
+    "city": "London",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "founded": 1889,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-brighton-hove-albion",
+    "name": "Brighton & Hove Albion",
+    "abbreviation": "BHA",
+    "city": "Brighton",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "/assets/logos/premier-league-brighton-hove-albion.svg",
+    "logoUrlDark": "/assets/logos/premier-league-brighton-hove-albion-dark.svg",
+    "founded": 1901,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "premier-league-chelsea",
+    "name": "Chelsea",
+    "abbreviation": "CHE",
+    "city": "London",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+    "founded": 1905,
+    "championships": [
+      {
+        "date": "2017-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2017-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-crystal-palace",
+    "name": "Crystal Palace",
+    "abbreviation": "CRY",
+    "city": "London",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "founded": 1905,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-everton",
+    "name": "Everton",
+    "abbreviation": "EVE",
+    "city": "Liverpool",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "founded": 1878,
+    "championships": [
+      {
+        "date": "1987-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1987-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-fulham",
+    "name": "Fulham",
+    "abbreviation": "FUL",
+    "city": "London",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+    "founded": 1879,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-ipswich-town",
+    "name": "Ipswich Town",
+    "abbreviation": "IPS",
+    "city": "Ipswich",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "founded": 1878,
+    "championships": [
+      {
+        "date": "1962-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1962-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-leicester-city",
+    "name": "Leicester City",
+    "abbreviation": "LEI",
+    "city": "Leicester",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+    "founded": 1884,
+    "championships": [
+      {
+        "date": "2016-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2016-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-liverpool",
+    "name": "Liverpool",
+    "abbreviation": "LIV",
+    "city": "Liverpool",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "founded": 1892,
+    "championships": [
+      {
+        "date": "2020-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2020-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-manchester-city",
+    "name": "Manchester City",
+    "abbreviation": "MCI",
+    "city": "Manchester",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "founded": 1880,
+    "championships": [
+      {
+        "date": "2024-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2024-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-manchester-united",
+    "name": "Manchester United",
+    "abbreviation": "MUN",
+    "city": "Manchester",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "founded": 1878,
+    "championships": [
+      {
+        "date": "2013-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2013-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-newcastle-united",
+    "name": "Newcastle United",
+    "abbreviation": "NEW",
+    "city": "Newcastle",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "founded": 1892,
+    "championships": [
+      {
+        "date": "1927-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1927-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-nottingham-forest",
+    "name": "Nottingham Forest",
+    "abbreviation": "NFO",
+    "city": "Nottingham",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+    "founded": 1865,
+    "championships": [
+      {
+        "date": "1978-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1978-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-southampton",
+    "name": "Southampton",
+    "abbreviation": "SOU",
+    "city": "Southampton",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
+    "founded": 1885,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-tottenham-hotspur",
+    "name": "Tottenham Hotspur",
+    "abbreviation": "TOT",
+    "city": "London",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "founded": 1882,
+    "championships": [
+      {
+        "date": "1961-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1961-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-west-ham-united",
+    "name": "West Ham United",
+    "abbreviation": "WHU",
+    "city": "London",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+    "founded": 1895,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-wolverhampton-wanderers",
+    "name": "Wolverhampton Wanderers",
+    "abbreviation": "WOL",
+    "city": "Wolverhampton",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+    "logoUrlDark": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+    "founded": 1877,
+    "championships": [
+      {
+        "date": "1959-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1959-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.thesportsdb.com/"
+  },
+  {
+    "id": "premier-league-blackburn-rovers",
+    "name": "Blackburn Rovers",
+    "abbreviation": "BLB",
+    "city": "Blackburn",
+    "league": "Premier League",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#37003C",
+    "secondaryColor": "#00FF85",
+    "logoUrl": "/assets/logos/premier-league-blackburn-rovers.svg",
+    "logoUrlDark": "/assets/logos/premier-league-blackburn-rovers-dark.svg",
+    "founded": 1875,
+    "championships": [
+      {
+        "date": "1995-05-20",
+        "title": "Premier League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1995-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
   }
 ]

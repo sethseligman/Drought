@@ -15,7 +15,7 @@ import { useFilteredTeams } from './hooks/useFilteredTeams';
 import { useWallMode } from './hooks/useWallMode';
 
 const LEAGUE_COLORS = {
-  ALL: '#c9a84c', NFL: '#013369', MLB: '#002D72', NBA: '#C8102E', NHL: '#ffffff', WNBA: '#FF671F', MLS: '#2ecc40',
+  ALL: '#c9a84c', NFL: '#013369', MLB: '#002D72', NBA: '#C8102E', NHL: '#ffffff', WNBA: '#FF671F',
   SOCCER: '#2ecc40', F1: '#e8002d', CRICKET: '#003366', RUGBY: '#5f9ea0', OLYMPICS: '#0082c8', OTHER: '#8888aa',
 };
 
@@ -24,16 +24,23 @@ function App() {
   const { wallMode } = useWallMode();
   const [activeLeague, setActiveLeague] = useState('ALL');
   const [sortMode, setSortMode] = useState('LONGEST');
+  const [soccerSubLeague, setSoccerSubLeague] = useState('ALL');
   const [filters, setFilters] = useState({ region: 'ALL', neverWonOnly: false, wonLastFiveYears: false });
   const [selectedTeam, setSelectedTeam] = useState(null);
   const [searchOpen, setSearchOpen] = useState(false);
 
-  const { leagues, teams } = useDroughtData(activeLeague);
+  const { leagues, soccerLeagues, teams } = useDroughtData(activeLeague, soccerSubLeague);
   const filteredTeams = useFilteredTeams(teams, filters, sortMode, nowMs);
   const maxDays = Math.max(...leagues.ALL.map((team) => (team.lastChampionship ? Math.floor((nowMs - new Date(team.lastChampionship).getTime()) / 86400000) : 0)), 1);
 
   useEffect(() => {
     setSelectedTeam(null);
+  }, [activeLeague]);
+
+  useEffect(() => {
+    if (activeLeague !== 'SOCCER') {
+      setSoccerSubLeague('ALL');
+    }
   }, [activeLeague]);
 
   const leagueList = useMemo(
@@ -59,6 +66,24 @@ function App() {
 
           <div className="container-app">
             <LeagueNav activeLeague={activeLeague} setActiveLeague={setActiveLeague} leagues={leagueList} />
+            {activeLeague === 'SOCCER' ? (
+              <div className="overflow-x-auto no-scrollbar py-2 border-b border-white/10">
+                <div className="flex gap-2 min-w-max">
+                  {Object.entries(soccerLeagues).map(([id, value]) => {
+                    const active = soccerSubLeague === id;
+                    return (
+                      <button
+                        key={id}
+                        onClick={() => setSoccerSubLeague(id)}
+                        className={`px-3 py-1.5 rounded-md text-[11px] tracking-[0.08em] uppercase border ${active ? 'text-white border-white/35 bg-white/5' : 'text-text-secondary border-white/10 hover:text-white'}`}
+                      >
+                        {id.replaceAll('_', ' ')} <span className="text-[10px] opacity-70">{value.length}</span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            ) : null}
             <SortFilterBar sortMode={sortMode} setSortMode={setSortMode} filters={filters} setFilters={setFilters} />
             <div className="grid xl:grid-cols-[minmax(0,1fr)_380px] items-start gap-4 pb-6">
               <Mosaic teams={filteredTeams} selectedTeam={selectedTeam} onSelect={setSelectedTeam} maxDays={maxDays} nowMs={nowMs} />

@@ -1,19 +1,600 @@
 [
   {
-    "id": "champions-league-sample",
-    "name": "Champions League",
-    "abbreviation": "TBD",
-    "city": "TBD",
-    "league": "Champions League",
-    "sport": "TBD",
-    "country": "Global",
-    "primaryColor": "#444460",
-    "secondaryColor": "#8888aa",
-    "logoUrl": "",
-    "logoUrlDark": "",
-    "founded": 2000,
-    "championships": [],
-    "lastChampionship": null,
-    "neverWon": true
+    "id": "champions-league-real-madrid",
+    "name": "Real Madrid",
+    "abbreviation": "RMA",
+    "city": "Madrid",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-real-madrid.svg",
+    "logoUrlDark": "/assets/logos/champions-league-real-madrid-dark.svg",
+    "founded": 1902,
+    "championships": [
+      {
+        "date": "2024-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2024-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-ac-milan",
+    "name": "AC Milan",
+    "abbreviation": "MIL",
+    "city": "Milan",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-ac-milan.svg",
+    "logoUrlDark": "/assets/logos/champions-league-ac-milan-dark.svg",
+    "founded": 1899,
+    "championships": [
+      {
+        "date": "2007-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2007-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-bayern-munich",
+    "name": "Bayern Munich",
+    "abbreviation": "BAY",
+    "city": "Munich",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-bayern-munich.svg",
+    "logoUrlDark": "/assets/logos/champions-league-bayern-munich-dark.svg",
+    "founded": 1900,
+    "championships": [
+      {
+        "date": "2020-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2020-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-liverpool",
+    "name": "Liverpool",
+    "abbreviation": "LIV",
+    "city": "Liverpool",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-liverpool.svg",
+    "logoUrlDark": "/assets/logos/champions-league-liverpool-dark.svg",
+    "founded": 1892,
+    "championships": [
+      {
+        "date": "2019-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2019-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-barcelona",
+    "name": "Barcelona",
+    "abbreviation": "BAR",
+    "city": "Barcelona",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-barcelona.svg",
+    "logoUrlDark": "/assets/logos/champions-league-barcelona-dark.svg",
+    "founded": 1899,
+    "championships": [
+      {
+        "date": "2015-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2015-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-ajax",
+    "name": "Ajax",
+    "abbreviation": "AJA",
+    "city": "Amsterdam",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-ajax.svg",
+    "logoUrlDark": "/assets/logos/champions-league-ajax-dark.svg",
+    "founded": 1900,
+    "championships": [
+      {
+        "date": "1995-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1995-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-inter-milan",
+    "name": "Inter Milan",
+    "abbreviation": "INT",
+    "city": "Milan",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-inter-milan.svg",
+    "logoUrlDark": "/assets/logos/champions-league-inter-milan-dark.svg",
+    "founded": 1908,
+    "championships": [
+      {
+        "date": "2010-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2010-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-manchester-united",
+    "name": "Manchester United",
+    "abbreviation": "MUN",
+    "city": "Manchester",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-manchester-united.svg",
+    "logoUrlDark": "/assets/logos/champions-league-manchester-united-dark.svg",
+    "founded": 1878,
+    "championships": [
+      {
+        "date": "2008-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2008-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-juventus",
+    "name": "Juventus",
+    "abbreviation": "JUV",
+    "city": "Turin",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-juventus.svg",
+    "logoUrlDark": "/assets/logos/champions-league-juventus-dark.svg",
+    "founded": 1897,
+    "championships": [
+      {
+        "date": "1996-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1996-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-benfica",
+    "name": "Benfica",
+    "abbreviation": "BEN",
+    "city": "Lisbon",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-benfica.svg",
+    "logoUrlDark": "/assets/logos/champions-league-benfica-dark.svg",
+    "founded": 1904,
+    "championships": [
+      {
+        "date": "1962-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1962-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-nottingham-forest",
+    "name": "Nottingham Forest",
+    "abbreviation": "NFO",
+    "city": "Nottingham",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-nottingham-forest.svg",
+    "logoUrlDark": "/assets/logos/champions-league-nottingham-forest-dark.svg",
+    "founded": 1865,
+    "championships": [
+      {
+        "date": "1980-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1980-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-porto",
+    "name": "Porto",
+    "abbreviation": "POR",
+    "city": "Porto",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-porto.svg",
+    "logoUrlDark": "/assets/logos/champions-league-porto-dark.svg",
+    "founded": 1893,
+    "championships": [
+      {
+        "date": "2004-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2004-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-celtic",
+    "name": "Celtic",
+    "abbreviation": "CEL",
+    "city": "Glasgow",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-celtic.svg",
+    "logoUrlDark": "/assets/logos/champions-league-celtic-dark.svg",
+    "founded": 1887,
+    "championships": [
+      {
+        "date": "1967-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1967-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-hamburger-sv",
+    "name": "Hamburger SV",
+    "abbreviation": "HSV",
+    "city": "Hamburg",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-hamburger-sv.svg",
+    "logoUrlDark": "/assets/logos/champions-league-hamburger-sv-dark.svg",
+    "founded": 1887,
+    "championships": [
+      {
+        "date": "1983-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1983-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-steaua-bucuresti",
+    "name": "Steaua Bucuresti",
+    "abbreviation": "STB",
+    "city": "Bucharest",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-steaua-bucuresti.svg",
+    "logoUrlDark": "/assets/logos/champions-league-steaua-bucuresti-dark.svg",
+    "founded": 1947,
+    "championships": [
+      {
+        "date": "1986-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1986-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-marseille",
+    "name": "Marseille",
+    "abbreviation": "OM",
+    "city": "Marseille",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-marseille.svg",
+    "logoUrlDark": "/assets/logos/champions-league-marseille-dark.svg",
+    "founded": 1899,
+    "championships": [
+      {
+        "date": "1993-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1993-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "abbreviation": "BVB",
+    "city": "Dortmund",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-borussia-dortmund.svg",
+    "logoUrlDark": "/assets/logos/champions-league-borussia-dortmund-dark.svg",
+    "founded": 1909,
+    "championships": [
+      {
+        "date": "1997-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1997-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-chelsea",
+    "name": "Chelsea",
+    "abbreviation": "CHE",
+    "city": "London",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-chelsea.svg",
+    "logoUrlDark": "/assets/logos/champions-league-chelsea-dark.svg",
+    "founded": 1905,
+    "championships": [
+      {
+        "date": "2021-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2021-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-manchester-city",
+    "name": "Manchester City",
+    "abbreviation": "MCI",
+    "city": "Manchester",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-manchester-city.svg",
+    "logoUrlDark": "/assets/logos/champions-league-manchester-city-dark.svg",
+    "founded": 1880,
+    "championships": [
+      {
+        "date": "2023-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2023-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-aston-villa",
+    "name": "Aston Villa",
+    "abbreviation": "AVL",
+    "city": "Birmingham",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-aston-villa.svg",
+    "logoUrlDark": "/assets/logos/champions-league-aston-villa-dark.svg",
+    "founded": 1874,
+    "championships": [
+      {
+        "date": "1982-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1982-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-feyenoord",
+    "name": "Feyenoord",
+    "abbreviation": "FEY",
+    "city": "Rotterdam",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-feyenoord.svg",
+    "logoUrlDark": "/assets/logos/champions-league-feyenoord-dark.svg",
+    "founded": 1908,
+    "championships": [
+      {
+        "date": "1970-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1970-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-psv-eindhoven",
+    "name": "PSV Eindhoven",
+    "abbreviation": "PSV",
+    "city": "Eindhoven",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-psv-eindhoven.svg",
+    "logoUrlDark": "/assets/logos/champions-league-psv-eindhoven-dark.svg",
+    "founded": 1913,
+    "championships": [
+      {
+        "date": "1988-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1988-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "champions-league-red-star-belgrade",
+    "name": "Red Star Belgrade",
+    "abbreviation": "RSB",
+    "city": "Belgrade",
+    "league": "UEFA Champions League",
+    "sport": "Soccer",
+    "country": "Europe",
+    "primaryColor": "#132257",
+    "secondaryColor": "#c8a951",
+    "logoUrl": "/assets/logos/champions-league-red-star-belgrade.svg",
+    "logoUrlDark": "/assets/logos/champions-league-red-star-belgrade-dark.svg",
+    "founded": 1945,
+    "championships": [
+      {
+        "date": "1991-05-20",
+        "title": "UEFA Champions League",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1991-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
   }
 ]

@@ -1,19 +1,218 @@
 [
   {
-    "id": "fifa-world-cup-sample",
-    "name": "Fifa World Cup",
-    "abbreviation": "TBD",
-    "city": "TBD",
-    "league": "Fifa World Cup",
-    "sport": "TBD",
-    "country": "Global",
-    "primaryColor": "#444460",
-    "secondaryColor": "#8888aa",
+    "id": "fifa-world-cup-argentina",
+    "name": "Argentina",
+    "abbreviation": "ARG",
+    "type": "country",
+    "city": "Buenos Aires",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "Argentina",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
     "logoUrl": "",
     "logoUrlDark": "",
-    "founded": 2000,
-    "championships": [],
-    "lastChampionship": null,
-    "neverWon": true
+    "founded": 1893,
+    "championships": [
+      {
+        "date": "2022-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2022-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-brazil",
+    "name": "Brazil",
+    "abbreviation": "BRA",
+    "type": "country",
+    "city": "Rio de Janeiro",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "Brazil",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1914,
+    "championships": [
+      {
+        "date": "2002-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2002-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-france",
+    "name": "France",
+    "abbreviation": "FRA",
+    "type": "country",
+    "city": "Paris",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1919,
+    "championships": [
+      {
+        "date": "2018-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2018-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-germany",
+    "name": "Germany",
+    "abbreviation": "GER",
+    "type": "country",
+    "city": "Frankfurt",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "Germany",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1900,
+    "championships": [
+      {
+        "date": "2014-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2014-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-italy",
+    "name": "Italy",
+    "abbreviation": "ITA",
+    "type": "country",
+    "city": "Rome",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "Italy",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1898,
+    "championships": [
+      {
+        "date": "2006-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2006-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-spain",
+    "name": "Spain",
+    "abbreviation": "ESP",
+    "type": "country",
+    "city": "Madrid",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "Spain",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1913,
+    "championships": [
+      {
+        "date": "2010-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2010-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-england",
+    "name": "England",
+    "abbreviation": "ENG",
+    "type": "country",
+    "city": "London",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "England",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1863,
+    "championships": [
+      {
+        "date": "1966-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1966-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
+  },
+  {
+    "id": "fifa-world-cup-uruguay",
+    "name": "Uruguay",
+    "abbreviation": "URU",
+    "type": "country",
+    "city": "Montevideo",
+    "league": "FIFA World Cup",
+    "sport": "Soccer",
+    "country": "Uruguay",
+    "primaryColor": "#1d4ed8",
+    "secondaryColor": "#f59e0b",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 1900,
+    "championships": [
+      {
+        "date": "1950-12-18",
+        "title": "FIFA World Cup",
+        "opponent": "Final Opponent",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1950-12-18",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup"
   }
 ]

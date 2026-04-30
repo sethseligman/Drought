@@ -4,7 +4,7 @@ import { getDrought } from '../utils/dateUtils';
 import { droughtScore, tileOverlayOpacity } from '../utils/droughtUtils';
 import { getLogoCandidates } from '../utils/logoUtils';
 
-function TeamTile({ team, selected, onSelect, maxDays, nowMs, pulsing = false }) {
+function TeamTile({ team, selected, onSelect, maxDays, nowMs }) {
   const logoCandidates = useMemo(() => getLogoCandidates(team), [team]);
   const [logoIndex, setLogoIndex] = useState(0);
   const [logoLoaded, setLogoLoaded] = useState(false);
@@ -40,7 +40,7 @@ function TeamTile({ team, selected, onSelect, maxDays, nowMs, pulsing = false })
       whileTap={{ scale: 0.99 }}
       onClick={() => onSelect(team)}
       aria-label={aria}
-      className={`relative isolate overflow-hidden rounded-sm border h-full w-full ${selected ? 'ring-2 ring-offset-0' : ''} ${pulsing ? 'pulse-team' : ''}`}
+      className={`relative isolate overflow-hidden rounded-sm border h-full w-full ${selected ? 'ring-2 ring-offset-0' : ''}`}
       style={{
         background: 'linear-gradient(180deg, rgba(44,44,58,0.95) 0%, rgba(12,12,19,0.98) 100%)',
         borderColor: selected ? '#f0f0f5' : 'rgba(255,255,255,0.28)',

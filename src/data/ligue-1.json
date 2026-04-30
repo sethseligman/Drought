@@ -1,19 +1,435 @@
 [
   {
-    "id": "ligue-1-sample",
-    "name": "Ligue 1",
-    "abbreviation": "TBD",
-    "city": "TBD",
+    "id": "ligue-1-angers",
+    "name": "Angers",
+    "abbreviation": "ANG",
+    "city": "Angers",
     "league": "Ligue 1",
-    "sport": "TBD",
-    "country": "Global",
-    "primaryColor": "#444460",
-    "secondaryColor": "#8888aa",
-    "logoUrl": "",
-    "logoUrlDark": "",
-    "founded": 2000,
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-angers.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-angers-dark.svg",
+    "founded": 1919,
     "championships": [],
     "lastChampionship": null,
-    "neverWon": true
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-auxerre",
+    "name": "Auxerre",
+    "abbreviation": "AJA",
+    "city": "Auxerre",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-auxerre.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-auxerre-dark.svg",
+    "founded": 1905,
+    "championships": [
+      {
+        "date": "1996-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1996-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-brest",
+    "name": "Brest",
+    "abbreviation": "BRE",
+    "city": "Brest",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-brest.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-brest-dark.svg",
+    "founded": 1950,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-le-havre",
+    "name": "Le Havre",
+    "abbreviation": "HAV",
+    "city": "Le Havre",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-le-havre.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-le-havre-dark.svg",
+    "founded": 1894,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-lens",
+    "name": "Lens",
+    "abbreviation": "LEN",
+    "city": "Lens",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-lens.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-lens-dark.svg",
+    "founded": 1906,
+    "championships": [
+      {
+        "date": "1998-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1998-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-lille",
+    "name": "Lille",
+    "abbreviation": "LIL",
+    "city": "Lille",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-lille.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-lille-dark.svg",
+    "founded": 1944,
+    "championships": [
+      {
+        "date": "2021-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2021-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-lyon",
+    "name": "Lyon",
+    "abbreviation": "OL",
+    "city": "Lyon",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-lyon.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-lyon-dark.svg",
+    "founded": 1950,
+    "championships": [
+      {
+        "date": "2008-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2008-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-marseille",
+    "name": "Marseille",
+    "abbreviation": "OM",
+    "city": "Marseille",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-marseille.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-marseille-dark.svg",
+    "founded": 1899,
+    "championships": [
+      {
+        "date": "2010-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2010-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-monaco",
+    "name": "Monaco",
+    "abbreviation": "MON",
+    "city": "Monaco",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-monaco.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-monaco-dark.svg",
+    "founded": 1924,
+    "championships": [
+      {
+        "date": "2017-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2017-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-montpellier",
+    "name": "Montpellier",
+    "abbreviation": "MHS",
+    "city": "Montpellier",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-montpellier.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-montpellier-dark.svg",
+    "founded": 1919,
+    "championships": [
+      {
+        "date": "2012-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2012-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-nantes",
+    "name": "Nantes",
+    "abbreviation": "NAN",
+    "city": "Nantes",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-nantes.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-nantes-dark.svg",
+    "founded": 1943,
+    "championships": [
+      {
+        "date": "2001-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2001-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-nice",
+    "name": "Nice",
+    "abbreviation": "NIC",
+    "city": "Nice",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-nice.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-nice-dark.svg",
+    "founded": 1904,
+    "championships": [
+      {
+        "date": "1959-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1959-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-paris-saint-germain",
+    "name": "Paris Saint-Germain",
+    "abbreviation": "PSG",
+    "city": "Paris",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-paris-saint-germain.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-paris-saint-germain-dark.svg",
+    "founded": 1970,
+    "championships": [
+      {
+        "date": "2024-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "2024-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-reims",
+    "name": "Reims",
+    "abbreviation": "REI",
+    "city": "Reims",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-reims.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-reims-dark.svg",
+    "founded": 1931,
+    "championships": [
+      {
+        "date": "1962-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1962-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-rennes",
+    "name": "Rennes",
+    "abbreviation": "REN",
+    "city": "Rennes",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-rennes.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-rennes-dark.svg",
+    "founded": 1901,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-saint-etienne",
+    "name": "Saint-Etienne",
+    "abbreviation": "STE",
+    "city": "Saint-Etienne",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-saint-etienne.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-saint-etienne-dark.svg",
+    "founded": 1919,
+    "championships": [
+      {
+        "date": "1981-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1981-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-strasbourg",
+    "name": "Strasbourg",
+    "abbreviation": "RCS",
+    "city": "Strasbourg",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-strasbourg.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-strasbourg-dark.svg",
+    "founded": 1906,
+    "championships": [
+      {
+        "date": "1979-05-20",
+        "title": "Ligue 1",
+        "opponent": "League Field",
+        "score": "Champion"
+      }
+    ],
+    "lastChampionship": "1979-05-20",
+    "neverWon": false,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
+  },
+  {
+    "id": "ligue-1-toulouse",
+    "name": "Toulouse",
+    "abbreviation": "TOU",
+    "city": "Toulouse",
+    "league": "Ligue 1",
+    "sport": "Soccer",
+    "country": "France",
+    "primaryColor": "#091c3a",
+    "secondaryColor": "#d7f205",
+    "logoUrl": "/assets/logos/ligue-1-toulouse.svg",
+    "logoUrlDark": "/assets/logos/ligue-1-toulouse-dark.svg",
+    "founded": 1970,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true,
+    "lastVerifiedAt": "2026-04-30",
+    "sourceUrl": "https://www.worldfootball.net/"
   }
 ]

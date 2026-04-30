@@ -31,17 +31,35 @@ import golfMajors from '../data/golf-majors.json';
 import boxingBelts from '../data/boxing-belts.json';
 
 const leagueData = {
-  ALL: [], NFL: nfl, MLB: mlb, NBA: nba, NHL: nhl, WNBA: wnba, MLS: mls,
-  SOCCER: [...premierLeague, ...laLiga, ...serieA, ...bundesliga, ...ligue1, ...championsLeague, ...fifaWorldCup],
+  ALL: [], NFL: nfl, MLB: mlb, NBA: nba, NHL: nhl, WNBA: wnba,
+  SOCCER: [...mls, ...premierLeague, ...laLiga, ...serieA, ...bundesliga, ...ligue1, ...championsLeague, ...fifaWorldCup],
   F1: [...f1Constructors, ...f1Drivers], CRICKET: [...cricketWorldCup, ...cricketT20, ...cricketIpl, ...cricketAshes],
   RUGBY: [...rugbyWorldCup, ...sixNations, ...nrl, ...afl], OLYMPICS: [...olympicsSummer, ...olympicsWinter],
   OTHER: [...tennisSlams, ...golfMajors, ...boxingBelts, ...nascar, ...indycar],
 };
 leagueData.ALL = Object.values(leagueData).flat().filter(Boolean);
 
-export function useDroughtData(activeLeague) {
-  return useMemo(() => ({
-    leagues: leagueData,
-    teams: leagueData[activeLeague] ?? leagueData.ALL,
-  }), [activeLeague]);
+const soccerLeagues = {
+  ALL: [...mls, ...premierLeague, ...laLiga, ...serieA, ...bundesliga, ...ligue1, ...championsLeague, ...fifaWorldCup],
+  MLS: mls,
+  PREMIER_LEAGUE: premierLeague,
+  LA_LIGA: laLiga,
+  SERIE_A: serieA,
+  BUNDESLIGA: bundesliga,
+  LIGUE_1: ligue1,
+  CHAMPIONS_LEAGUE: championsLeague,
+  FIFA_WORLD_CUP: fifaWorldCup,
+};
+
+export function useDroughtData(activeLeague, soccerSubLeague = 'ALL') {
+  return useMemo(() => {
+    const teams = activeLeague === 'SOCCER'
+      ? (soccerLeagues[soccerSubLeague] ?? soccerLeagues.ALL)
+      : (leagueData[activeLeague] ?? leagueData.ALL);
+    return {
+      leagues: leagueData,
+      soccerLeagues,
+      teams,
+    };
+  }, [activeLeague, soccerSubLeague]);
 }
