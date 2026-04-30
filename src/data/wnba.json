@@ -1,0 +1,286 @@
+[
+  {
+    "id": "wnba-atlanta-dream",
+    "name": "Atlanta Dream",
+    "abbreviation": "ATL",
+    "city": "Atlanta",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#418FDE",
+    "logoUrl": "/assets/logos/wnba-atlanta-dream.svg",
+    "logoUrlDark": "/assets/logos/wnba-atlanta-dream-dark.svg",
+    "founded": 1901,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "wnba-chicago-sky",
+    "name": "Chicago Sky",
+    "abbreviation": "CHI",
+    "city": "Chicago",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#418FDE",
+    "secondaryColor": "#F9A01B",
+    "logoUrl": "/assets/logos/wnba-chicago-sky.svg",
+    "logoUrlDark": "/assets/logos/wnba-chicago-sky-dark.svg",
+    "founded": 1902,
+    "championships": [
+      {
+        "date": "2021-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Phoenix",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2021-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-connecticut-sun",
+    "name": "Connecticut Sun",
+    "abbreviation": "CON",
+    "city": "Connecticut",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#FA9F1B",
+    "secondaryColor": "#1D1D1D",
+    "logoUrl": "/assets/logos/wnba-connecticut-sun.svg",
+    "logoUrlDark": "/assets/logos/wnba-connecticut-sun-dark.svg",
+    "founded": 1903,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "wnba-dallas-wings",
+    "name": "Dallas Wings",
+    "abbreviation": "DAL",
+    "city": "Dallas",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#C41230",
+    "logoUrl": "/assets/logos/wnba-dallas-wings.svg",
+    "logoUrlDark": "/assets/logos/wnba-dallas-wings-dark.svg",
+    "founded": 1904,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "wnba-golden-state-valkyries",
+    "name": "Golden State Valkyries",
+    "abbreviation": "GSV",
+    "city": "Golden",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#5B2C83",
+    "secondaryColor": "#D4AF37",
+    "logoUrl": "/assets/logos/wnba-golden-state-valkyries.svg",
+    "logoUrlDark": "/assets/logos/wnba-golden-state-valkyries-dark.svg",
+    "founded": 1905,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "wnba-indiana-fever",
+    "name": "Indiana Fever",
+    "abbreviation": "IND",
+    "city": "Indiana",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#C8102E",
+    "logoUrl": "/assets/logos/wnba-indiana-fever.svg",
+    "logoUrlDark": "/assets/logos/wnba-indiana-fever-dark.svg",
+    "founded": 1906,
+    "championships": [
+      {
+        "date": "2012-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Minnesota",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2012-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-las-vegas-aces",
+    "name": "Las Vegas Aces",
+    "abbreviation": "LVA",
+    "city": "Las",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#000000",
+    "secondaryColor": "#C8102E",
+    "logoUrl": "/assets/logos/wnba-las-vegas-aces.svg",
+    "logoUrlDark": "/assets/logos/wnba-las-vegas-aces-dark.svg",
+    "founded": 1907,
+    "championships": [
+      {
+        "date": "2023-06-15",
+        "title": "WNBA Championship",
+        "opponent": "New York",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2023-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-los-angeles-sparks",
+    "name": "Los Angeles Sparks",
+    "abbreviation": "LAS",
+    "city": "Los",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#552583",
+    "secondaryColor": "#FDB927",
+    "logoUrl": "/assets/logos/wnba-los-angeles-sparks.svg",
+    "logoUrlDark": "/assets/logos/wnba-los-angeles-sparks-dark.svg",
+    "founded": 1908,
+    "championships": [
+      {
+        "date": "2016-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Minnesota",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2016-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-minnesota-lynx",
+    "name": "Minnesota Lynx",
+    "abbreviation": "MIN",
+    "city": "Minnesota",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#005083",
+    "secondaryColor": "#78BE20",
+    "logoUrl": "/assets/logos/wnba-minnesota-lynx.svg",
+    "logoUrlDark": "/assets/logos/wnba-minnesota-lynx-dark.svg",
+    "founded": 1909,
+    "championships": [
+      {
+        "date": "2017-06-15",
+        "title": "WNBA Championship",
+        "opponent": "LA Sparks",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2017-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-new-york-liberty",
+    "name": "New York Liberty",
+    "abbreviation": "NYL",
+    "city": "New",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#6ECEB2",
+    "secondaryColor": "#1D428A",
+    "logoUrl": "/assets/logos/wnba-new-york-liberty.svg",
+    "logoUrlDark": "/assets/logos/wnba-new-york-liberty-dark.svg",
+    "founded": 1910,
+    "championships": [
+      {
+        "date": "2024-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Minnesota",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2024-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-phoenix-mercury",
+    "name": "Phoenix Mercury",
+    "abbreviation": "PHX",
+    "city": "Phoenix",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#1D1160",
+    "secondaryColor": "#F9A01B",
+    "logoUrl": "/assets/logos/wnba-phoenix-mercury.svg",
+    "logoUrlDark": "/assets/logos/wnba-phoenix-mercury-dark.svg",
+    "founded": 1911,
+    "championships": [
+      {
+        "date": "2014-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Chicago",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2014-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-seattle-storm",
+    "name": "Seattle Storm",
+    "abbreviation": "SEA",
+    "city": "Seattle",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#2C5234",
+    "secondaryColor": "#EFB21E",
+    "logoUrl": "/assets/logos/wnba-seattle-storm.svg",
+    "logoUrlDark": "/assets/logos/wnba-seattle-storm-dark.svg",
+    "founded": 1912,
+    "championships": [
+      {
+        "date": "2020-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Las Vegas",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2020-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "wnba-washington-mystics",
+    "name": "Washington Mystics",
+    "abbreviation": "WAS",
+    "city": "Washington",
+    "league": "WNBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#E31837",
+    "secondaryColor": "#002B5C",
+    "logoUrl": "/assets/logos/wnba-washington-mystics.svg",
+    "logoUrlDark": "/assets/logos/wnba-washington-mystics-dark.svg",
+    "founded": 1913,
+    "championships": [
+      {
+        "date": "2019-06-15",
+        "title": "WNBA Championship",
+        "opponent": "Connecticut",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2019-06-15",
+    "neverWon": false
+  }
+]

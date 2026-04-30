@@ -1,0 +1,652 @@
+[
+  {
+    "id": "nba-atlanta-hawks",
+    "name": "Atlanta Hawks",
+    "abbreviation": "ATL",
+    "city": "Atlanta",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#E03A3E",
+    "secondaryColor": "#C1D32F",
+    "logoUrl": "/assets/logos/nba-atlanta-hawks.svg",
+    "logoUrlDark": "/assets/logos/nba-atlanta-hawks-dark.svg",
+    "founded": 1901,
+    "championships": [
+      {
+        "date": "1958-06-15",
+        "title": "NBA Championship",
+        "opponent": "St. Louis",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1958-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-boston-celtics",
+    "name": "Boston Celtics",
+    "abbreviation": "BOS",
+    "city": "Boston",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#007A33",
+    "secondaryColor": "#BA9653",
+    "logoUrl": "/assets/logos/nba-boston-celtics.svg",
+    "logoUrlDark": "/assets/logos/nba-boston-celtics-dark.svg",
+    "founded": 1902,
+    "championships": [
+      {
+        "date": "2008-06-15",
+        "title": "NBA Championship",
+        "opponent": "LA Lakers",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2008-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-brooklyn-nets",
+    "name": "Brooklyn Nets",
+    "abbreviation": "BKN",
+    "city": "Brooklyn",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#000000",
+    "secondaryColor": "#FFFFFF",
+    "logoUrl": "/assets/logos/nba-brooklyn-nets.svg",
+    "logoUrlDark": "/assets/logos/nba-brooklyn-nets-dark.svg",
+    "founded": 1903,
+    "championships": [
+      {
+        "date": "1976-06-15",
+        "title": "NBA Championship",
+        "opponent": "ABA",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1976-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-charlotte-hornets",
+    "name": "Charlotte Hornets",
+    "abbreviation": "CHA",
+    "city": "Charlotte",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#1D1160",
+    "secondaryColor": "#00788C",
+    "logoUrl": "/assets/logos/nba-charlotte-hornets.svg",
+    "logoUrlDark": "/assets/logos/nba-charlotte-hornets-dark.svg",
+    "founded": 1904,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-chicago-bulls",
+    "name": "Chicago Bulls",
+    "abbreviation": "CHI",
+    "city": "Chicago",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#CE1141",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nba-chicago-bulls.svg",
+    "logoUrlDark": "/assets/logos/nba-chicago-bulls-dark.svg",
+    "founded": 1905,
+    "championships": [
+      {
+        "date": "1998-06-15",
+        "title": "NBA Championship",
+        "opponent": "Utah",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1998-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-cleveland-cavaliers",
+    "name": "Cleveland Cavaliers",
+    "abbreviation": "CLE",
+    "city": "Cleveland",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#860038",
+    "secondaryColor": "#FDBB30",
+    "logoUrl": "/assets/logos/nba-cleveland-cavaliers.svg",
+    "logoUrlDark": "/assets/logos/nba-cleveland-cavaliers-dark.svg",
+    "founded": 1906,
+    "championships": [
+      {
+        "date": "2016-06-15",
+        "title": "NBA Championship",
+        "opponent": "Golden State",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2016-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-dallas-mavericks",
+    "name": "Dallas Mavericks",
+    "abbreviation": "DAL",
+    "city": "Dallas",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#00538C",
+    "secondaryColor": "#002B5E",
+    "logoUrl": "/assets/logos/nba-dallas-mavericks.svg",
+    "logoUrlDark": "/assets/logos/nba-dallas-mavericks-dark.svg",
+    "founded": 1907,
+    "championships": [
+      {
+        "date": "2011-06-15",
+        "title": "NBA Championship",
+        "opponent": "Miami",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2011-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-denver-nuggets",
+    "name": "Denver Nuggets",
+    "abbreviation": "DEN",
+    "city": "Denver",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#0E2240",
+    "secondaryColor": "#FEC524",
+    "logoUrl": "/assets/logos/nba-denver-nuggets.svg",
+    "logoUrlDark": "/assets/logos/nba-denver-nuggets-dark.svg",
+    "founded": 1908,
+    "championships": [
+      {
+        "date": "2023-06-15",
+        "title": "NBA Championship",
+        "opponent": "Miami",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2023-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-detroit-pistons",
+    "name": "Detroit Pistons",
+    "abbreviation": "DET",
+    "city": "Detroit",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#1D42BA",
+    "logoUrl": "/assets/logos/nba-detroit-pistons.svg",
+    "logoUrlDark": "/assets/logos/nba-detroit-pistons-dark.svg",
+    "founded": 1909,
+    "championships": [
+      {
+        "date": "2004-06-15",
+        "title": "NBA Championship",
+        "opponent": "LA Lakers",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2004-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-golden-state-warriors",
+    "name": "Golden State Warriors",
+    "abbreviation": "GSW",
+    "city": "Golden",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#1D428A",
+    "secondaryColor": "#FFC72C",
+    "logoUrl": "/assets/logos/nba-golden-state-warriors.svg",
+    "logoUrlDark": "/assets/logos/nba-golden-state-warriors-dark.svg",
+    "founded": 1910,
+    "championships": [
+      {
+        "date": "2022-06-15",
+        "title": "NBA Championship",
+        "opponent": "Boston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2022-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-houston-rockets",
+    "name": "Houston Rockets",
+    "abbreviation": "HOU",
+    "city": "Houston",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#CE1141",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nba-houston-rockets.svg",
+    "logoUrlDark": "/assets/logos/nba-houston-rockets-dark.svg",
+    "founded": 1911,
+    "championships": [
+      {
+        "date": "1995-06-15",
+        "title": "NBA Championship",
+        "opponent": "Orlando",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1995-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-indiana-pacers",
+    "name": "Indiana Pacers",
+    "abbreviation": "IND",
+    "city": "Indiana",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#002D62",
+    "secondaryColor": "#FDBB30",
+    "logoUrl": "/assets/logos/nba-indiana-pacers.svg",
+    "logoUrlDark": "/assets/logos/nba-indiana-pacers-dark.svg",
+    "founded": 1912,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-los-angeles-clippers",
+    "name": "Los Angeles Clippers",
+    "abbreviation": "LAC",
+    "city": "Los",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#1D428A",
+    "logoUrl": "/assets/logos/nba-los-angeles-clippers.svg",
+    "logoUrlDark": "/assets/logos/nba-los-angeles-clippers-dark.svg",
+    "founded": 1913,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-los-angeles-lakers",
+    "name": "Los Angeles Lakers",
+    "abbreviation": "LAL",
+    "city": "Los",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#552583",
+    "secondaryColor": "#FDB927",
+    "logoUrl": "/assets/logos/nba-los-angeles-lakers.svg",
+    "logoUrlDark": "/assets/logos/nba-los-angeles-lakers-dark.svg",
+    "founded": 1914,
+    "championships": [
+      {
+        "date": "2020-06-15",
+        "title": "NBA Championship",
+        "opponent": "Miami",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2020-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-memphis-grizzlies",
+    "name": "Memphis Grizzlies",
+    "abbreviation": "MEM",
+    "city": "Memphis",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#5D76A9",
+    "secondaryColor": "#12173F",
+    "logoUrl": "/assets/logos/nba-memphis-grizzlies.svg",
+    "logoUrlDark": "/assets/logos/nba-memphis-grizzlies-dark.svg",
+    "founded": 1915,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-miami-heat",
+    "name": "Miami Heat",
+    "abbreviation": "MIA",
+    "city": "Miami",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#98002E",
+    "secondaryColor": "#F9A01B",
+    "logoUrl": "/assets/logos/nba-miami-heat.svg",
+    "logoUrlDark": "/assets/logos/nba-miami-heat-dark.svg",
+    "founded": 1916,
+    "championships": [
+      {
+        "date": "2013-06-15",
+        "title": "NBA Championship",
+        "opponent": "San Antonio",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2013-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-milwaukee-bucks",
+    "name": "Milwaukee Bucks",
+    "abbreviation": "MIL",
+    "city": "Milwaukee",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#00471B",
+    "secondaryColor": "#EEE1C6",
+    "logoUrl": "/assets/logos/nba-milwaukee-bucks.svg",
+    "logoUrlDark": "/assets/logos/nba-milwaukee-bucks-dark.svg",
+    "founded": 1917,
+    "championships": [
+      {
+        "date": "2021-06-15",
+        "title": "NBA Championship",
+        "opponent": "Phoenix",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2021-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-minnesota-timberwolves",
+    "name": "Minnesota Timberwolves",
+    "abbreviation": "MIN",
+    "city": "Minnesota",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#236192",
+    "logoUrl": "/assets/logos/nba-minnesota-timberwolves.svg",
+    "logoUrlDark": "/assets/logos/nba-minnesota-timberwolves-dark.svg",
+    "founded": 1918,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-new-orleans-pelicans",
+    "name": "New Orleans Pelicans",
+    "abbreviation": "NOP",
+    "city": "New",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#C8102E",
+    "logoUrl": "/assets/logos/nba-new-orleans-pelicans.svg",
+    "logoUrlDark": "/assets/logos/nba-new-orleans-pelicans-dark.svg",
+    "founded": 1919,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-new-york-knicks",
+    "name": "New York Knicks",
+    "abbreviation": "NYK",
+    "city": "New",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#006BB6",
+    "secondaryColor": "#F58426",
+    "logoUrl": "/assets/logos/nba-new-york-knicks.svg",
+    "logoUrlDark": "/assets/logos/nba-new-york-knicks-dark.svg",
+    "founded": 1920,
+    "championships": [
+      {
+        "date": "1973-06-15",
+        "title": "NBA Championship",
+        "opponent": "LA Lakers",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1973-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-oklahoma-city-thunder",
+    "name": "Oklahoma City Thunder",
+    "abbreviation": "OKC",
+    "city": "Oklahoma",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#007AC1",
+    "secondaryColor": "#EF3B24",
+    "logoUrl": "/assets/logos/nba-oklahoma-city-thunder.svg",
+    "logoUrlDark": "/assets/logos/nba-oklahoma-city-thunder-dark.svg",
+    "founded": 1921,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-orlando-magic",
+    "name": "Orlando Magic",
+    "abbreviation": "ORL",
+    "city": "Orlando",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#0077C0",
+    "secondaryColor": "#C4CED4",
+    "logoUrl": "/assets/logos/nba-orlando-magic.svg",
+    "logoUrlDark": "/assets/logos/nba-orlando-magic-dark.svg",
+    "founded": 1922,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-philadelphia-76ers",
+    "name": "Philadelphia 76ers",
+    "abbreviation": "PHI",
+    "city": "Philadelphia",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#006BB6",
+    "secondaryColor": "#ED174C",
+    "logoUrl": "/assets/logos/nba-philadelphia-76ers.svg",
+    "logoUrlDark": "/assets/logos/nba-philadelphia-76ers-dark.svg",
+    "founded": 1923,
+    "championships": [
+      {
+        "date": "1983-06-15",
+        "title": "NBA Championship",
+        "opponent": "LA Lakers",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1983-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-phoenix-suns",
+    "name": "Phoenix Suns",
+    "abbreviation": "PHX",
+    "city": "Phoenix",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#1D1160",
+    "secondaryColor": "#E56020",
+    "logoUrl": "/assets/logos/nba-phoenix-suns.svg",
+    "logoUrlDark": "/assets/logos/nba-phoenix-suns-dark.svg",
+    "founded": 1924,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-portland-trail-blazers",
+    "name": "Portland Trail Blazers",
+    "abbreviation": "POR",
+    "city": "Portland",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#E03A3E",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nba-portland-trail-blazers.svg",
+    "logoUrlDark": "/assets/logos/nba-portland-trail-blazers-dark.svg",
+    "founded": 1925,
+    "championships": [
+      {
+        "date": "1977-06-15",
+        "title": "NBA Championship",
+        "opponent": "Philadelphia",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1977-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-sacramento-kings",
+    "name": "Sacramento Kings",
+    "abbreviation": "SAC",
+    "city": "Sacramento",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#5A2D81",
+    "secondaryColor": "#63727A",
+    "logoUrl": "/assets/logos/nba-sacramento-kings.svg",
+    "logoUrlDark": "/assets/logos/nba-sacramento-kings-dark.svg",
+    "founded": 1926,
+    "championships": [
+      {
+        "date": "1951-06-15",
+        "title": "NBA Championship",
+        "opponent": "Rochester",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1951-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-san-antonio-spurs",
+    "name": "San Antonio Spurs",
+    "abbreviation": "SAS",
+    "city": "San",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#C4CED4",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nba-san-antonio-spurs.svg",
+    "logoUrlDark": "/assets/logos/nba-san-antonio-spurs-dark.svg",
+    "founded": 1927,
+    "championships": [
+      {
+        "date": "2014-06-15",
+        "title": "NBA Championship",
+        "opponent": "Miami",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2014-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-toronto-raptors",
+    "name": "Toronto Raptors",
+    "abbreviation": "TOR",
+    "city": "Toronto",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#CE1141",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nba-toronto-raptors.svg",
+    "logoUrlDark": "/assets/logos/nba-toronto-raptors-dark.svg",
+    "founded": 1928,
+    "championships": [
+      {
+        "date": "2019-06-15",
+        "title": "NBA Championship",
+        "opponent": "Golden State",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2019-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nba-utah-jazz",
+    "name": "Utah Jazz",
+    "abbreviation": "UTA",
+    "city": "Utah",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#002B5C",
+    "secondaryColor": "#F9A01B",
+    "logoUrl": "/assets/logos/nba-utah-jazz.svg",
+    "logoUrlDark": "/assets/logos/nba-utah-jazz-dark.svg",
+    "founded": 1929,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nba-washington-wizards",
+    "name": "Washington Wizards",
+    "abbreviation": "WAS",
+    "city": "Washington",
+    "league": "NBA",
+    "sport": "Basketball",
+    "country": "USA",
+    "primaryColor": "#002B5C",
+    "secondaryColor": "#E31837",
+    "logoUrl": "/assets/logos/nba-washington-wizards.svg",
+    "logoUrlDark": "/assets/logos/nba-washington-wizards-dark.svg",
+    "founded": 1930,
+    "championships": [
+      {
+        "date": "1978-06-15",
+        "title": "NBA Championship",
+        "opponent": "Seattle",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1978-06-15",
+    "neverWon": false
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "golf-majors-sample",
+    "name": "Golf Majors",
+    "abbreviation": "TBD",
+    "city": "TBD",
+    "league": "Golf Majors",
+    "sport": "TBD",
+    "country": "Global",
+    "primaryColor": "#444460",
+    "secondaryColor": "#8888aa",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 2000,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fifa-world-cup-sample",
+    "name": "Fifa World Cup",
+    "abbreviation": "TBD",
+    "city": "TBD",
+    "league": "Fifa World Cup",
+    "sport": "TBD",
+    "country": "Global",
+    "primaryColor": "#444460",
+    "secondaryColor": "#8888aa",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 2000,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  }
+]

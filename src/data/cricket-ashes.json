@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cricket-ashes-sample",
+    "name": "Cricket Ashes",
+    "abbreviation": "TBD",
+    "city": "TBD",
+    "league": "Cricket Ashes",
+    "sport": "TBD",
+    "country": "Global",
+    "primaryColor": "#444460",
+    "secondaryColor": "#8888aa",
+    "logoUrl": "",
+    "logoUrlDark": "",
+    "founded": 2000,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  }
+]

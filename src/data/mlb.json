@@ -1,0 +1,694 @@
+[
+  {
+    "id": "mlb-arizona-diamondbacks",
+    "name": "Arizona Diamondbacks",
+    "abbreviation": "ARI",
+    "city": "Arizona",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#A71930",
+    "secondaryColor": "#30CED8",
+    "logoUrl": "/assets/logos/mlb-arizona-diamondbacks.svg",
+    "logoUrlDark": "/assets/logos/mlb-arizona-diamondbacks-dark.svg",
+    "founded": 1901,
+    "championships": [
+      {
+        "date": "2001-06-15",
+        "title": "MLB Championship",
+        "opponent": "New York Yankees",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2001-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-atlanta-braves",
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "city": "Atlanta",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#CE1141",
+    "secondaryColor": "#13274F",
+    "logoUrl": "/assets/logos/mlb-atlanta-braves.svg",
+    "logoUrlDark": "/assets/logos/mlb-atlanta-braves-dark.svg",
+    "founded": 1902,
+    "championships": [
+      {
+        "date": "2021-06-15",
+        "title": "MLB Championship",
+        "opponent": "Houston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2021-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-baltimore-orioles",
+    "name": "Baltimore Orioles",
+    "abbreviation": "BAL",
+    "city": "Baltimore",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#DF4601",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/mlb-baltimore-orioles.svg",
+    "logoUrlDark": "/assets/logos/mlb-baltimore-orioles-dark.svg",
+    "founded": 1903,
+    "championships": [
+      {
+        "date": "1983-06-15",
+        "title": "MLB Championship",
+        "opponent": "Philadelphia",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1983-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-boston-red-sox",
+    "name": "Boston Red Sox",
+    "abbreviation": "BOS",
+    "city": "Boston",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#BD3039",
+    "secondaryColor": "#0C2340",
+    "logoUrl": "/assets/logos/mlb-boston-red-sox.svg",
+    "logoUrlDark": "/assets/logos/mlb-boston-red-sox-dark.svg",
+    "founded": 1904,
+    "championships": [
+      {
+        "date": "2018-06-15",
+        "title": "MLB Championship",
+        "opponent": "LA Dodgers",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2018-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-chicago-cubs",
+    "name": "Chicago Cubs",
+    "abbreviation": "CHC",
+    "city": "Chicago",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#0E3386",
+    "secondaryColor": "#CC3433",
+    "logoUrl": "/assets/logos/mlb-chicago-cubs.svg",
+    "logoUrlDark": "/assets/logos/mlb-chicago-cubs-dark.svg",
+    "founded": 1905,
+    "championships": [
+      {
+        "date": "2016-06-15",
+        "title": "MLB Championship",
+        "opponent": "Cleveland",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2016-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-chicago-white-sox",
+    "name": "Chicago White Sox",
+    "abbreviation": "CWS",
+    "city": "Chicago",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#27251F",
+    "secondaryColor": "#C4CED4",
+    "logoUrl": "/assets/logos/mlb-chicago-white-sox.svg",
+    "logoUrlDark": "/assets/logos/mlb-chicago-white-sox-dark.svg",
+    "founded": 1906,
+    "championships": [
+      {
+        "date": "2005-06-15",
+        "title": "MLB Championship",
+        "opponent": "Houston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2005-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-cincinnati-reds",
+    "name": "Cincinnati Reds",
+    "abbreviation": "CIN",
+    "city": "Cincinnati",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#C6011F",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/mlb-cincinnati-reds.svg",
+    "logoUrlDark": "/assets/logos/mlb-cincinnati-reds-dark.svg",
+    "founded": 1907,
+    "championships": [
+      {
+        "date": "1990-06-15",
+        "title": "MLB Championship",
+        "opponent": "Oakland",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1990-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-cleveland-guardians",
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "city": "Cleveland",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#E31937",
+    "logoUrl": "/assets/logos/mlb-cleveland-guardians.svg",
+    "logoUrlDark": "/assets/logos/mlb-cleveland-guardians-dark.svg",
+    "founded": 1908,
+    "championships": [
+      {
+        "date": "1948-06-15",
+        "title": "MLB Championship",
+        "opponent": "Boston Braves",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1948-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-colorado-rockies",
+    "name": "Colorado Rockies",
+    "abbreviation": "COL",
+    "city": "Colorado",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#33006F",
+    "secondaryColor": "#C4CED4",
+    "logoUrl": "/assets/logos/mlb-colorado-rockies.svg",
+    "logoUrlDark": "/assets/logos/mlb-colorado-rockies-dark.svg",
+    "founded": 1909,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "mlb-detroit-tigers",
+    "name": "Detroit Tigers",
+    "abbreviation": "DET",
+    "city": "Detroit",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#FA4616",
+    "logoUrl": "/assets/logos/mlb-detroit-tigers.svg",
+    "logoUrlDark": "/assets/logos/mlb-detroit-tigers-dark.svg",
+    "founded": 1910,
+    "championships": [
+      {
+        "date": "1984-06-15",
+        "title": "MLB Championship",
+        "opponent": "San Diego",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1984-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-houston-astros",
+    "name": "Houston Astros",
+    "abbreviation": "HOU",
+    "city": "Houston",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#002D62",
+    "secondaryColor": "#EB6E1F",
+    "logoUrl": "/assets/logos/mlb-houston-astros.svg",
+    "logoUrlDark": "/assets/logos/mlb-houston-astros-dark.svg",
+    "founded": 1911,
+    "championships": [
+      {
+        "date": "2022-06-15",
+        "title": "MLB Championship",
+        "opponent": "Philadelphia",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2022-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-kansas-city-royals",
+    "name": "Kansas City Royals",
+    "abbreviation": "KC",
+    "city": "Kansas",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#004687",
+    "secondaryColor": "#BD9B60",
+    "logoUrl": "/assets/logos/mlb-kansas-city-royals.svg",
+    "logoUrlDark": "/assets/logos/mlb-kansas-city-royals-dark.svg",
+    "founded": 1912,
+    "championships": [
+      {
+        "date": "2015-06-15",
+        "title": "MLB Championship",
+        "opponent": "NY Mets",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2015-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-los-angeles-angels",
+    "name": "Los Angeles Angels",
+    "abbreviation": "LAA",
+    "city": "Los",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#BA0021",
+    "secondaryColor": "#003263",
+    "logoUrl": "/assets/logos/mlb-los-angeles-angels.svg",
+    "logoUrlDark": "/assets/logos/mlb-los-angeles-angels-dark.svg",
+    "founded": 1913,
+    "championships": [
+      {
+        "date": "2002-06-15",
+        "title": "MLB Championship",
+        "opponent": "San Francisco",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2002-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-los-angeles-dodgers",
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "city": "Los",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#005A9C",
+    "secondaryColor": "#EF3E42",
+    "logoUrl": "/assets/logos/mlb-los-angeles-dodgers.svg",
+    "logoUrlDark": "/assets/logos/mlb-los-angeles-dodgers-dark.svg",
+    "founded": 1914,
+    "championships": [
+      {
+        "date": "2020-06-15",
+        "title": "MLB Championship",
+        "opponent": "Tampa Bay",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2020-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-miami-marlins",
+    "name": "Miami Marlins",
+    "abbreviation": "MIA",
+    "city": "Miami",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#00A3E0",
+    "secondaryColor": "#EF3340",
+    "logoUrl": "/assets/logos/mlb-miami-marlins.svg",
+    "logoUrlDark": "/assets/logos/mlb-miami-marlins-dark.svg",
+    "founded": 1915,
+    "championships": [
+      {
+        "date": "2003-06-15",
+        "title": "MLB Championship",
+        "opponent": "New York Yankees",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2003-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-milwaukee-brewers",
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "city": "Milwaukee",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#12284B",
+    "secondaryColor": "#FFC52F",
+    "logoUrl": "/assets/logos/mlb-milwaukee-brewers.svg",
+    "logoUrlDark": "/assets/logos/mlb-milwaukee-brewers-dark.svg",
+    "founded": 1916,
+    "championships": [
+      {
+        "date": "1982-06-15",
+        "title": "MLB Championship",
+        "opponent": "AL Pennant",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1982-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-minnesota-twins",
+    "name": "Minnesota Twins",
+    "abbreviation": "MIN",
+    "city": "Minnesota",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#002B5C",
+    "secondaryColor": "#D31145",
+    "logoUrl": "/assets/logos/mlb-minnesota-twins.svg",
+    "logoUrlDark": "/assets/logos/mlb-minnesota-twins-dark.svg",
+    "founded": 1917,
+    "championships": [
+      {
+        "date": "1991-06-15",
+        "title": "MLB Championship",
+        "opponent": "Atlanta",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1991-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-new-york-mets",
+    "name": "New York Mets",
+    "abbreviation": "NYM",
+    "city": "New",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#002D72",
+    "secondaryColor": "#FF5910",
+    "logoUrl": "/assets/logos/mlb-new-york-mets.svg",
+    "logoUrlDark": "/assets/logos/mlb-new-york-mets-dark.svg",
+    "founded": 1918,
+    "championships": [
+      {
+        "date": "1986-06-15",
+        "title": "MLB Championship",
+        "opponent": "Boston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1986-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-new-york-yankees",
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "city": "New",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#132448",
+    "secondaryColor": "#C4CED4",
+    "logoUrl": "/assets/logos/mlb-new-york-yankees.svg",
+    "logoUrlDark": "/assets/logos/mlb-new-york-yankees-dark.svg",
+    "founded": 1919,
+    "championships": [
+      {
+        "date": "2009-06-15",
+        "title": "MLB Championship",
+        "opponent": "Philadelphia",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2009-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-oakland-athletics",
+    "name": "Oakland Athletics",
+    "abbreviation": "OAK",
+    "city": "Oakland",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#003831",
+    "secondaryColor": "#EFB21E",
+    "logoUrl": "/assets/logos/mlb-oakland-athletics.svg",
+    "logoUrlDark": "/assets/logos/mlb-oakland-athletics-dark.svg",
+    "founded": 1920,
+    "championships": [
+      {
+        "date": "1989-06-15",
+        "title": "MLB Championship",
+        "opponent": "San Francisco",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1989-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-philadelphia-phillies",
+    "name": "Philadelphia Phillies",
+    "abbreviation": "PHI",
+    "city": "Philadelphia",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#E81828",
+    "secondaryColor": "#002D72",
+    "logoUrl": "/assets/logos/mlb-philadelphia-phillies.svg",
+    "logoUrlDark": "/assets/logos/mlb-philadelphia-phillies-dark.svg",
+    "founded": 1921,
+    "championships": [
+      {
+        "date": "2008-06-15",
+        "title": "MLB Championship",
+        "opponent": "Tampa Bay",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2008-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-pittsburgh-pirates",
+    "name": "Pittsburgh Pirates",
+    "abbreviation": "PIT",
+    "city": "Pittsburgh",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#FDB827",
+    "secondaryColor": "#27251F",
+    "logoUrl": "/assets/logos/mlb-pittsburgh-pirates.svg",
+    "logoUrlDark": "/assets/logos/mlb-pittsburgh-pirates-dark.svg",
+    "founded": 1922,
+    "championships": [
+      {
+        "date": "1979-06-15",
+        "title": "MLB Championship",
+        "opponent": "Baltimore",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1979-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-san-diego-padres",
+    "name": "San Diego Padres",
+    "abbreviation": "SD",
+    "city": "San",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#2F241D",
+    "secondaryColor": "#FFC425",
+    "logoUrl": "/assets/logos/mlb-san-diego-padres.svg",
+    "logoUrlDark": "/assets/logos/mlb-san-diego-padres-dark.svg",
+    "founded": 1923,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "mlb-san-francisco-giants",
+    "name": "San Francisco Giants",
+    "abbreviation": "SF",
+    "city": "San",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#FD5A1E",
+    "secondaryColor": "#27251F",
+    "logoUrl": "/assets/logos/mlb-san-francisco-giants.svg",
+    "logoUrlDark": "/assets/logos/mlb-san-francisco-giants-dark.svg",
+    "founded": 1924,
+    "championships": [
+      {
+        "date": "2014-06-15",
+        "title": "MLB Championship",
+        "opponent": "Kansas City",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2014-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-seattle-mariners",
+    "name": "Seattle Mariners",
+    "abbreviation": "SEA",
+    "city": "Seattle",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#0C2C56",
+    "secondaryColor": "#005C5C",
+    "logoUrl": "/assets/logos/mlb-seattle-mariners.svg",
+    "logoUrlDark": "/assets/logos/mlb-seattle-mariners-dark.svg",
+    "founded": 1925,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "mlb-st-louis-cardinals",
+    "name": "St. Louis Cardinals",
+    "abbreviation": "STL",
+    "city": "St.",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#C41E3A",
+    "secondaryColor": "#0A2252",
+    "logoUrl": "/assets/logos/mlb-st-louis-cardinals.svg",
+    "logoUrlDark": "/assets/logos/mlb-st-louis-cardinals-dark.svg",
+    "founded": 1926,
+    "championships": [
+      {
+        "date": "2011-06-15",
+        "title": "MLB Championship",
+        "opponent": "Texas",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2011-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-tampa-bay-rays",
+    "name": "Tampa Bay Rays",
+    "abbreviation": "TB",
+    "city": "Tampa",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#092C5C",
+    "secondaryColor": "#8FBCE6",
+    "logoUrl": "/assets/logos/mlb-tampa-bay-rays.svg",
+    "logoUrlDark": "/assets/logos/mlb-tampa-bay-rays-dark.svg",
+    "founded": 1927,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "mlb-texas-rangers",
+    "name": "Texas Rangers",
+    "abbreviation": "TEX",
+    "city": "Texas",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#003278",
+    "secondaryColor": "#C0111F",
+    "logoUrl": "/assets/logos/mlb-texas-rangers.svg",
+    "logoUrlDark": "/assets/logos/mlb-texas-rangers-dark.svg",
+    "founded": 1928,
+    "championships": [
+      {
+        "date": "2023-06-15",
+        "title": "MLB Championship",
+        "opponent": "Arizona",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2023-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-toronto-blue-jays",
+    "name": "Toronto Blue Jays",
+    "abbreviation": "TOR",
+    "city": "Toronto",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#134A8E",
+    "secondaryColor": "#1D2D5C",
+    "logoUrl": "/assets/logos/mlb-toronto-blue-jays.svg",
+    "logoUrlDark": "/assets/logos/mlb-toronto-blue-jays-dark.svg",
+    "founded": 1929,
+    "championships": [
+      {
+        "date": "1993-06-15",
+        "title": "MLB Championship",
+        "opponent": "Philadelphia",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1993-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "mlb-washington-nationals",
+    "name": "Washington Nationals",
+    "abbreviation": "WSH",
+    "city": "Washington",
+    "league": "MLB",
+    "sport": "Baseball",
+    "country": "USA",
+    "primaryColor": "#AB0003",
+    "secondaryColor": "#14225A",
+    "logoUrl": "/assets/logos/mlb-washington-nationals.svg",
+    "logoUrlDark": "/assets/logos/mlb-washington-nationals-dark.svg",
+    "founded": 1930,
+    "championships": [
+      {
+        "date": "2019-06-15",
+        "title": "MLB Championship",
+        "opponent": "Houston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2019-06-15",
+    "neverWon": false
+  }
+]

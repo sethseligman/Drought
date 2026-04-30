@@ -1,0 +1,979 @@
+[
+  {
+    "id": "nfl-arizona-cardinals",
+    "name": "Arizona Cardinals",
+    "abbreviation": "ARI",
+    "city": "Arizona",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#97233F",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nfl-arizona-cardinals.svg",
+    "logoUrlDark": "/assets/logos/nfl-arizona-cardinals-dark.svg",
+    "founded": 1898,
+    "championships": [
+      {
+        "date": "1947-12-28",
+        "title": "NFL Championship",
+        "opponent": "Philadelphia Eagles",
+        "score": "28-21"
+      },
+      {
+        "date": "1925-12-06",
+        "title": "NFL Championship",
+        "opponent": "Pottsville Maroons",
+        "score": "11-7"
+      }
+    ],
+    "lastChampionship": "1947-12-28",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-atlanta-falcons",
+    "name": "Atlanta Falcons",
+    "abbreviation": "ATL",
+    "city": "Atlanta",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#A71930",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nfl-atlanta-falcons.svg",
+    "logoUrlDark": "/assets/logos/nfl-atlanta-falcons-dark.svg",
+    "founded": 1966,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-baltimore-ravens",
+    "name": "Baltimore Ravens",
+    "abbreviation": "BAL",
+    "city": "Baltimore",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#241773",
+    "secondaryColor": "#9E7C0C",
+    "logoUrl": "/assets/logos/nfl-baltimore-ravens.svg",
+    "logoUrlDark": "/assets/logos/nfl-baltimore-ravens-dark.svg",
+    "founded": 1996,
+    "championships": [
+      {
+        "date": "2013-02-03",
+        "title": "Super Bowl XLVII",
+        "opponent": "San Francisco 49ers",
+        "score": "34-31"
+      },
+      {
+        "date": "2001-01-28",
+        "title": "Super Bowl XXXV",
+        "opponent": "New York Giants",
+        "score": "34-7"
+      }
+    ],
+    "lastChampionship": "2013-02-03",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-buffalo-bills",
+    "name": "Buffalo Bills",
+    "abbreviation": "BUF",
+    "city": "Buffalo",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#00338D",
+    "secondaryColor": "#C60C30",
+    "logoUrl": "/assets/logos/nfl-buffalo-bills.svg",
+    "logoUrlDark": "/assets/logos/nfl-buffalo-bills-dark.svg",
+    "founded": 1960,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-carolina-panthers",
+    "name": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "city": "Charlotte",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#0085CA",
+    "secondaryColor": "#101820",
+    "logoUrl": "/assets/logos/nfl-carolina-panthers.svg",
+    "logoUrlDark": "/assets/logos/nfl-carolina-panthers-dark.svg",
+    "founded": 1995,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-chicago-bears",
+    "name": "Chicago Bears",
+    "abbreviation": "CHI",
+    "city": "Chicago",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#0B162A",
+    "secondaryColor": "#C83803",
+    "logoUrl": "/assets/logos/nfl-chicago-bears.svg",
+    "logoUrlDark": "/assets/logos/nfl-chicago-bears-dark.svg",
+    "founded": 1920,
+    "championships": [
+      {
+        "date": "1986-01-26",
+        "title": "Super Bowl XX",
+        "opponent": "New England Patriots",
+        "score": "46-10"
+      },
+      {
+        "date": "1963-12-29",
+        "title": "NFL Championship",
+        "opponent": "New York Giants",
+        "score": "14-10"
+      }
+    ],
+    "lastChampionship": "1986-01-26",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-cincinnati-bengals",
+    "name": "Cincinnati Bengals",
+    "abbreviation": "CIN",
+    "city": "Cincinnati",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#FB4F14",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nfl-cincinnati-bengals.svg",
+    "logoUrlDark": "/assets/logos/nfl-cincinnati-bengals-dark.svg",
+    "founded": 1968,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-cleveland-browns",
+    "name": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "city": "Cleveland",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#311D00",
+    "secondaryColor": "#FF3C00",
+    "logoUrl": "/assets/logos/nfl-cleveland-browns.svg",
+    "logoUrlDark": "/assets/logos/nfl-cleveland-browns-dark.svg",
+    "founded": 1946,
+    "championships": [
+      {
+        "date": "1964-12-27",
+        "title": "NFL Championship",
+        "opponent": "Baltimore Colts",
+        "score": "27-0"
+      }
+    ],
+    "lastChampionship": "1964-12-27",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-dallas-cowboys",
+    "name": "Dallas Cowboys",
+    "abbreviation": "DAL",
+    "city": "Dallas",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#003594",
+    "secondaryColor": "#869397",
+    "logoUrl": "/assets/logos/nfl-dallas-cowboys.svg",
+    "logoUrlDark": "/assets/logos/nfl-dallas-cowboys-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "1996-01-28",
+        "title": "Super Bowl XXX",
+        "opponent": "Pittsburgh Steelers",
+        "score": "27-17"
+      },
+      {
+        "date": "1994-01-30",
+        "title": "Super Bowl XXVIII",
+        "opponent": "Buffalo Bills",
+        "score": "30-13"
+      },
+      {
+        "date": "1993-01-31",
+        "title": "Super Bowl XXVII",
+        "opponent": "Buffalo Bills",
+        "score": "52-17"
+      },
+      {
+        "date": "1978-01-15",
+        "title": "Super Bowl XII",
+        "opponent": "Denver Broncos",
+        "score": "27-10"
+      },
+      {
+        "date": "1972-01-16",
+        "title": "Super Bowl VI",
+        "opponent": "Miami Dolphins",
+        "score": "24-3"
+      }
+    ],
+    "lastChampionship": "1996-01-28",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-denver-broncos",
+    "name": "Denver Broncos",
+    "abbreviation": "DEN",
+    "city": "Denver",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#FB4F14",
+    "secondaryColor": "#002244",
+    "logoUrl": "/assets/logos/nfl-denver-broncos.svg",
+    "logoUrlDark": "/assets/logos/nfl-denver-broncos-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "2016-02-07",
+        "title": "Super Bowl 50",
+        "opponent": "Carolina Panthers",
+        "score": "24-10"
+      },
+      {
+        "date": "1999-01-31",
+        "title": "Super Bowl XXXIII",
+        "opponent": "Atlanta Falcons",
+        "score": "34-19"
+      },
+      {
+        "date": "1998-01-25",
+        "title": "Super Bowl XXXII",
+        "opponent": "Green Bay Packers",
+        "score": "31-24"
+      }
+    ],
+    "lastChampionship": "2016-02-07",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-detroit-lions",
+    "name": "Detroit Lions",
+    "abbreviation": "DET",
+    "city": "Detroit",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#0076B6",
+    "secondaryColor": "#B0B7BC",
+    "logoUrl": "/assets/logos/nfl-detroit-lions.svg",
+    "logoUrlDark": "/assets/logos/nfl-detroit-lions-dark.svg",
+    "founded": 1930,
+    "championships": [
+      {
+        "date": "1957-12-29",
+        "title": "NFL Championship",
+        "opponent": "Cleveland Browns",
+        "score": "59-14"
+      }
+    ],
+    "lastChampionship": "1957-12-29",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-green-bay-packers",
+    "name": "Green Bay Packers",
+    "abbreviation": "GB",
+    "city": "Green Bay",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#203731",
+    "secondaryColor": "#FFB612",
+    "logoUrl": "/assets/logos/nfl-green-bay-packers.svg",
+    "logoUrlDark": "/assets/logos/nfl-green-bay-packers-dark.svg",
+    "founded": 1919,
+    "championships": [
+      {
+        "date": "2011-02-06",
+        "title": "Super Bowl XLV",
+        "opponent": "Pittsburgh Steelers",
+        "score": "31-25"
+      },
+      {
+        "date": "1997-01-26",
+        "title": "Super Bowl XXXI",
+        "opponent": "New England Patriots",
+        "score": "35-21"
+      },
+      {
+        "date": "1968-01-14",
+        "title": "Super Bowl II",
+        "opponent": "Oakland Raiders",
+        "score": "33-14"
+      },
+      {
+        "date": "1967-01-15",
+        "title": "Super Bowl I",
+        "opponent": "Kansas City Chiefs",
+        "score": "35-10"
+      }
+    ],
+    "lastChampionship": "2011-02-06",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-houston-texans",
+    "name": "Houston Texans",
+    "abbreviation": "HOU",
+    "city": "Houston",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#03202F",
+    "secondaryColor": "#A71930",
+    "logoUrl": "/assets/logos/nfl-houston-texans.svg",
+    "logoUrlDark": "/assets/logos/nfl-houston-texans-dark.svg",
+    "founded": 2002,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-indianapolis-colts",
+    "name": "Indianapolis Colts",
+    "abbreviation": "IND",
+    "city": "Indianapolis",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#002C5F",
+    "secondaryColor": "#A2AAAD",
+    "logoUrl": "/assets/logos/nfl-indianapolis-colts.svg",
+    "logoUrlDark": "/assets/logos/nfl-indianapolis-colts-dark.svg",
+    "founded": 1953,
+    "championships": [
+      {
+        "date": "2007-02-04",
+        "title": "Super Bowl XLI",
+        "opponent": "Chicago Bears",
+        "score": "29-17"
+      },
+      {
+        "date": "1971-01-17",
+        "title": "Super Bowl V",
+        "opponent": "Dallas Cowboys",
+        "score": "16-13"
+      }
+    ],
+    "lastChampionship": "2007-02-04",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-jacksonville-jaguars",
+    "name": "Jacksonville Jaguars",
+    "abbreviation": "JAX",
+    "city": "Jacksonville",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#006778",
+    "secondaryColor": "#9F792C",
+    "logoUrl": "/assets/logos/nfl-jacksonville-jaguars.svg",
+    "logoUrlDark": "/assets/logos/nfl-jacksonville-jaguars-dark.svg",
+    "founded": 1995,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-kansas-city-chiefs",
+    "name": "Kansas City Chiefs",
+    "abbreviation": "KC",
+    "city": "Kansas City",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#E31837",
+    "secondaryColor": "#FFB81C",
+    "logoUrl": "/assets/logos/nfl-kansas-city-chiefs.svg",
+    "logoUrlDark": "/assets/logos/nfl-kansas-city-chiefs-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "2024-02-11",
+        "title": "Super Bowl LVIII",
+        "opponent": "San Francisco 49ers",
+        "score": "25-22"
+      },
+      {
+        "date": "2023-02-12",
+        "title": "Super Bowl LVII",
+        "opponent": "Philadelphia Eagles",
+        "score": "38-35"
+      },
+      {
+        "date": "2020-02-02",
+        "title": "Super Bowl LIV",
+        "opponent": "San Francisco 49ers",
+        "score": "31-20"
+      },
+      {
+        "date": "1970-01-11",
+        "title": "Super Bowl IV",
+        "opponent": "Minnesota Vikings",
+        "score": "23-7"
+      }
+    ],
+    "lastChampionship": "2024-02-11",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-las-vegas-raiders",
+    "name": "Las Vegas Raiders",
+    "abbreviation": "LV",
+    "city": "Las Vegas",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#000000",
+    "secondaryColor": "#A5ACAF",
+    "logoUrl": "/assets/logos/nfl-las-vegas-raiders.svg",
+    "logoUrlDark": "/assets/logos/nfl-las-vegas-raiders-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "1984-01-22",
+        "title": "Super Bowl XVIII",
+        "opponent": "Washington",
+        "score": "38-9"
+      },
+      {
+        "date": "1981-01-25",
+        "title": "Super Bowl XV",
+        "opponent": "Philadelphia Eagles",
+        "score": "27-10"
+      },
+      {
+        "date": "1977-01-09",
+        "title": "Super Bowl XI",
+        "opponent": "Minnesota Vikings",
+        "score": "32-14"
+      }
+    ],
+    "lastChampionship": "1984-01-22",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-los-angeles-chargers",
+    "name": "Los Angeles Chargers",
+    "abbreviation": "LAC",
+    "city": "Los Angeles",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#0080C6",
+    "secondaryColor": "#FFC20E",
+    "logoUrl": "/assets/logos/nfl-los-angeles-chargers.svg",
+    "logoUrlDark": "/assets/logos/nfl-los-angeles-chargers-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "1963-12-22",
+        "title": "AFL Championship",
+        "opponent": "Boston Patriots",
+        "score": "51-10"
+      }
+    ],
+    "lastChampionship": "1963-12-22",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-los-angeles-rams",
+    "name": "Los Angeles Rams",
+    "abbreviation": "LAR",
+    "city": "Los Angeles",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#003594",
+    "secondaryColor": "#FFA300",
+    "logoUrl": "/assets/logos/nfl-los-angeles-rams.svg",
+    "logoUrlDark": "/assets/logos/nfl-los-angeles-rams-dark.svg",
+    "founded": 1936,
+    "championships": [
+      {
+        "date": "2022-02-13",
+        "title": "Super Bowl LVI",
+        "opponent": "Cincinnati Bengals",
+        "score": "23-20"
+      },
+      {
+        "date": "2000-01-30",
+        "title": "Super Bowl XXXIV",
+        "opponent": "Tennessee Titans",
+        "score": "23-16"
+      },
+      {
+        "date": "1951-12-23",
+        "title": "NFL Championship",
+        "opponent": "Cleveland Browns",
+        "score": "24-17"
+      }
+    ],
+    "lastChampionship": "2022-02-13",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-miami-dolphins",
+    "name": "Miami Dolphins",
+    "abbreviation": "MIA",
+    "city": "Miami",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#008E97",
+    "secondaryColor": "#FC4C02",
+    "logoUrl": "/assets/logos/nfl-miami-dolphins.svg",
+    "logoUrlDark": "/assets/logos/nfl-miami-dolphins-dark.svg",
+    "founded": 1966,
+    "championships": [
+      {
+        "date": "1974-01-13",
+        "title": "Super Bowl VIII",
+        "opponent": "Minnesota Vikings",
+        "score": "24-7"
+      },
+      {
+        "date": "1973-01-14",
+        "title": "Super Bowl VII",
+        "opponent": "Washington",
+        "score": "14-7"
+      }
+    ],
+    "lastChampionship": "1974-01-13",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-minnesota-vikings",
+    "name": "Minnesota Vikings",
+    "abbreviation": "MIN",
+    "city": "Minneapolis",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#4F2683",
+    "secondaryColor": "#FFC62F",
+    "logoUrl": "/assets/logos/nfl-minnesota-vikings.svg",
+    "logoUrlDark": "/assets/logos/nfl-minnesota-vikings-dark.svg",
+    "founded": 1961,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nfl-new-england-patriots",
+    "name": "New England Patriots",
+    "abbreviation": "NE",
+    "city": "Foxborough",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#002244",
+    "secondaryColor": "#C60C30",
+    "logoUrl": "/assets/logos/nfl-new-england-patriots.svg",
+    "logoUrlDark": "/assets/logos/nfl-new-england-patriots-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "2019-02-03",
+        "title": "Super Bowl LIII",
+        "opponent": "Los Angeles Rams",
+        "score": "13-3"
+      },
+      {
+        "date": "2017-02-05",
+        "title": "Super Bowl LI",
+        "opponent": "Atlanta Falcons",
+        "score": "34-28"
+      },
+      {
+        "date": "2015-02-01",
+        "title": "Super Bowl XLIX",
+        "opponent": "Seattle Seahawks",
+        "score": "28-24"
+      },
+      {
+        "date": "2005-02-06",
+        "title": "Super Bowl XXXIX",
+        "opponent": "Philadelphia Eagles",
+        "score": "24-21"
+      },
+      {
+        "date": "2004-02-01",
+        "title": "Super Bowl XXXVIII",
+        "opponent": "Carolina Panthers",
+        "score": "32-29"
+      },
+      {
+        "date": "2002-02-03",
+        "title": "Super Bowl XXXVI",
+        "opponent": "St. Louis Rams",
+        "score": "20-17"
+      }
+    ],
+    "lastChampionship": "2019-02-03",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-new-orleans-saints",
+    "name": "New Orleans Saints",
+    "abbreviation": "NO",
+    "city": "New Orleans",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#D3BC8D",
+    "secondaryColor": "#101820",
+    "logoUrl": "/assets/logos/nfl-new-orleans-saints.svg",
+    "logoUrlDark": "/assets/logos/nfl-new-orleans-saints-dark.svg",
+    "founded": 1967,
+    "championships": [
+      {
+        "date": "2010-02-07",
+        "title": "Super Bowl XLIV",
+        "opponent": "Indianapolis Colts",
+        "score": "31-17"
+      }
+    ],
+    "lastChampionship": "2010-02-07",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-new-york-giants",
+    "name": "New York Giants",
+    "abbreviation": "NYG",
+    "city": "East Rutherford",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#0B2265",
+    "secondaryColor": "#A71930",
+    "logoUrl": "/assets/logos/nfl-new-york-giants.svg",
+    "logoUrlDark": "/assets/logos/nfl-new-york-giants-dark.svg",
+    "founded": 1925,
+    "championships": [
+      {
+        "date": "2012-02-05",
+        "title": "Super Bowl XLVI",
+        "opponent": "New England Patriots",
+        "score": "21-17"
+      },
+      {
+        "date": "2008-02-03",
+        "title": "Super Bowl XLII",
+        "opponent": "New England Patriots",
+        "score": "17-14"
+      },
+      {
+        "date": "1991-01-27",
+        "title": "Super Bowl XXV",
+        "opponent": "Buffalo Bills",
+        "score": "20-19"
+      },
+      {
+        "date": "1987-01-25",
+        "title": "Super Bowl XXI",
+        "opponent": "Denver Broncos",
+        "score": "39-20"
+      }
+    ],
+    "lastChampionship": "2012-02-05",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-new-york-jets",
+    "name": "New York Jets",
+    "abbreviation": "NYJ",
+    "city": "East Rutherford",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#125740",
+    "secondaryColor": "#FFFFFF",
+    "logoUrl": "/assets/logos/nfl-new-york-jets.svg",
+    "logoUrlDark": "/assets/logos/nfl-new-york-jets-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "1969-01-12",
+        "title": "Super Bowl III",
+        "opponent": "Baltimore Colts",
+        "score": "16-7"
+      }
+    ],
+    "lastChampionship": "1969-01-12",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-philadelphia-eagles",
+    "name": "Philadelphia Eagles",
+    "abbreviation": "PHI",
+    "city": "Philadelphia",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#004C54",
+    "secondaryColor": "#A5ACAF",
+    "logoUrl": "/assets/logos/nfl-philadelphia-eagles.svg",
+    "logoUrlDark": "/assets/logos/nfl-philadelphia-eagles-dark.svg",
+    "founded": 1933,
+    "championships": [
+      {
+        "date": "2018-02-04",
+        "title": "Super Bowl LII",
+        "opponent": "New England Patriots",
+        "score": "41-33"
+      },
+      {
+        "date": "1960-12-26",
+        "title": "NFL Championship",
+        "opponent": "Green Bay Packers",
+        "score": "17-13"
+      }
+    ],
+    "lastChampionship": "2018-02-04",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-pittsburgh-steelers",
+    "name": "Pittsburgh Steelers",
+    "abbreviation": "PIT",
+    "city": "Pittsburgh",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#FFB612",
+    "secondaryColor": "#101820",
+    "logoUrl": "/assets/logos/nfl-pittsburgh-steelers.svg",
+    "logoUrlDark": "/assets/logos/nfl-pittsburgh-steelers-dark.svg",
+    "founded": 1933,
+    "championships": [
+      {
+        "date": "2009-02-01",
+        "title": "Super Bowl XLIII",
+        "opponent": "Arizona Cardinals",
+        "score": "27-23"
+      },
+      {
+        "date": "2006-02-05",
+        "title": "Super Bowl XL",
+        "opponent": "Seattle Seahawks",
+        "score": "21-10"
+      },
+      {
+        "date": "1980-01-20",
+        "title": "Super Bowl XIV",
+        "opponent": "Los Angeles Rams",
+        "score": "31-19"
+      },
+      {
+        "date": "1979-01-21",
+        "title": "Super Bowl XIII",
+        "opponent": "Dallas Cowboys",
+        "score": "35-31"
+      },
+      {
+        "date": "1976-01-18",
+        "title": "Super Bowl X",
+        "opponent": "Dallas Cowboys",
+        "score": "21-17"
+      },
+      {
+        "date": "1975-01-12",
+        "title": "Super Bowl IX",
+        "opponent": "Minnesota Vikings",
+        "score": "16-6"
+      }
+    ],
+    "lastChampionship": "2009-02-01",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-san-francisco-49ers",
+    "name": "San Francisco 49ers",
+    "abbreviation": "SF",
+    "city": "San Francisco",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#AA0000",
+    "secondaryColor": "#B3995D",
+    "logoUrl": "/assets/logos/nfl-san-francisco-49ers.svg",
+    "logoUrlDark": "/assets/logos/nfl-san-francisco-49ers-dark.svg",
+    "founded": 1946,
+    "championships": [
+      {
+        "date": "1995-01-29",
+        "title": "Super Bowl XXIX",
+        "opponent": "San Diego Chargers",
+        "score": "49-26"
+      },
+      {
+        "date": "1990-01-28",
+        "title": "Super Bowl XXIV",
+        "opponent": "Denver Broncos",
+        "score": "55-10"
+      },
+      {
+        "date": "1989-01-22",
+        "title": "Super Bowl XXIII",
+        "opponent": "Cincinnati Bengals",
+        "score": "20-16"
+      },
+      {
+        "date": "1985-01-20",
+        "title": "Super Bowl XIX",
+        "opponent": "Miami Dolphins",
+        "score": "38-16"
+      },
+      {
+        "date": "1982-01-24",
+        "title": "Super Bowl XVI",
+        "opponent": "Cincinnati Bengals",
+        "score": "26-21"
+      }
+    ],
+    "lastChampionship": "1995-01-29",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-seattle-seahawks",
+    "name": "Seattle Seahawks",
+    "abbreviation": "SEA",
+    "city": "Seattle",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#002244",
+    "secondaryColor": "#69BE28",
+    "logoUrl": "/assets/logos/nfl-seattle-seahawks.svg",
+    "logoUrlDark": "/assets/logos/nfl-seattle-seahawks-dark.svg",
+    "founded": 1976,
+    "championships": [
+      {
+        "date": "2014-02-02",
+        "title": "Super Bowl XLVIII",
+        "opponent": "Denver Broncos",
+        "score": "43-8"
+      }
+    ],
+    "lastChampionship": "2014-02-02",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-tampa-bay-buccaneers",
+    "name": "Tampa Bay Buccaneers",
+    "abbreviation": "TB",
+    "city": "Tampa",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#D50A0A",
+    "secondaryColor": "#FF7900",
+    "logoUrl": "/assets/logos/nfl-tampa-bay-buccaneers.svg",
+    "logoUrlDark": "/assets/logos/nfl-tampa-bay-buccaneers-dark.svg",
+    "founded": 1976,
+    "championships": [
+      {
+        "date": "2021-02-07",
+        "title": "Super Bowl LV",
+        "opponent": "Kansas City Chiefs",
+        "score": "31-9"
+      },
+      {
+        "date": "2003-01-26",
+        "title": "Super Bowl XXXVII",
+        "opponent": "Oakland Raiders",
+        "score": "48-21"
+      }
+    ],
+    "lastChampionship": "2021-02-07",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-tennessee-titans",
+    "name": "Tennessee Titans",
+    "abbreviation": "TEN",
+    "city": "Nashville",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#0C2340",
+    "secondaryColor": "#4B92DB",
+    "logoUrl": "/assets/logos/nfl-tennessee-titans.svg",
+    "logoUrlDark": "/assets/logos/nfl-tennessee-titans-dark.svg",
+    "founded": 1960,
+    "championships": [
+      {
+        "date": "1961-12-24",
+        "title": "AFL Championship",
+        "opponent": "San Diego Chargers",
+        "score": "10-3"
+      },
+      {
+        "date": "1960-12-26",
+        "title": "AFL Championship",
+        "opponent": "Los Angeles Chargers",
+        "score": "24-16"
+      }
+    ],
+    "lastChampionship": "1961-12-24",
+    "neverWon": false
+  },
+  {
+    "id": "nfl-washington-commanders",
+    "name": "Washington Commanders",
+    "abbreviation": "WAS",
+    "city": "Landover",
+    "league": "NFL",
+    "sport": "American Football",
+    "country": "USA",
+    "primaryColor": "#5A1414",
+    "secondaryColor": "#FFB612",
+    "logoUrl": "/assets/logos/nfl-washington-commanders.svg",
+    "logoUrlDark": "/assets/logos/nfl-washington-commanders-dark.svg",
+    "founded": 1932,
+    "championships": [
+      {
+        "date": "1992-01-26",
+        "title": "Super Bowl XXVI",
+        "opponent": "Buffalo Bills",
+        "score": "37-24"
+      },
+      {
+        "date": "1988-01-31",
+        "title": "Super Bowl XXII",
+        "opponent": "Denver Broncos",
+        "score": "42-10"
+      },
+      {
+        "date": "1983-01-30",
+        "title": "Super Bowl XVII",
+        "opponent": "Miami Dolphins",
+        "score": "27-17"
+      }
+    ],
+    "lastChampionship": "1992-01-26",
+    "neverWon": false
+  }
+]

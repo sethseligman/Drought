@@ -1,0 +1,19 @@
+[
+  {
+    "id": "olympics-winter-usa",
+    "name": "United States",
+    "abbreviation": "USA",
+    "type": "country",
+    "league": "Olympics Winter",
+    "sport": "Olympics",
+    "flagCode": "us",
+    "primaryColor": "#002868",
+    "secondaryColor": "#BF0A30",
+    "lastGold": "2024-08-11",
+    "lastSilver": "2024-08-11",
+    "lastBronze": "2024-08-11",
+    "totalGold": 1,
+    "lastGoldEvent": "Sample Event",
+    "neverWon": false
+  }
+]

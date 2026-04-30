@@ -1,0 +1,700 @@
+[
+  {
+    "id": "nhl-anaheim-ducks",
+    "name": "Anaheim Ducks",
+    "abbreviation": "ANA",
+    "city": "Anaheim",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#F47A38",
+    "secondaryColor": "#B5985A",
+    "logoUrl": "/assets/logos/nhl-anaheim-ducks.svg",
+    "logoUrlDark": "/assets/logos/nhl-anaheim-ducks-dark.svg",
+    "founded": 1901,
+    "championships": [
+      {
+        "date": "2007-06-15",
+        "title": "NHL Championship",
+        "opponent": "Ottawa",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2007-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-boston-bruins",
+    "name": "Boston Bruins",
+    "abbreviation": "BOS",
+    "city": "Boston",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#FFB81C",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nhl-boston-bruins.svg",
+    "logoUrlDark": "/assets/logos/nhl-boston-bruins-dark.svg",
+    "founded": 1902,
+    "championships": [
+      {
+        "date": "2011-06-15",
+        "title": "NHL Championship",
+        "opponent": "Vancouver",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2011-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-buffalo-sabres",
+    "name": "Buffalo Sabres",
+    "abbreviation": "BUF",
+    "city": "Buffalo",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#003087",
+    "secondaryColor": "#FFB81C",
+    "logoUrl": "/assets/logos/nhl-buffalo-sabres.svg",
+    "logoUrlDark": "/assets/logos/nhl-buffalo-sabres-dark.svg",
+    "founded": 1903,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-calgary-flames",
+    "name": "Calgary Flames",
+    "abbreviation": "CGY",
+    "city": "Calgary",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#F1BE48",
+    "logoUrl": "/assets/logos/nhl-calgary-flames.svg",
+    "logoUrlDark": "/assets/logos/nhl-calgary-flames-dark.svg",
+    "founded": 1904,
+    "championships": [
+      {
+        "date": "1989-06-15",
+        "title": "NHL Championship",
+        "opponent": "Montreal",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1989-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-carolina-hurricanes",
+    "name": "Carolina Hurricanes",
+    "abbreviation": "CAR",
+    "city": "Carolina",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nhl-carolina-hurricanes.svg",
+    "logoUrlDark": "/assets/logos/nhl-carolina-hurricanes-dark.svg",
+    "founded": 1905,
+    "championships": [
+      {
+        "date": "2006-06-15",
+        "title": "NHL Championship",
+        "opponent": "Edmonton",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2006-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-chicago-blackhawks",
+    "name": "Chicago Blackhawks",
+    "abbreviation": "CHI",
+    "city": "Chicago",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#CF0A2C",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nhl-chicago-blackhawks.svg",
+    "logoUrlDark": "/assets/logos/nhl-chicago-blackhawks-dark.svg",
+    "founded": 1906,
+    "championships": [
+      {
+        "date": "2015-06-15",
+        "title": "NHL Championship",
+        "opponent": "Tampa Bay",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2015-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-colorado-avalanche",
+    "name": "Colorado Avalanche",
+    "abbreviation": "COL",
+    "city": "Colorado",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#6F263D",
+    "secondaryColor": "#236192",
+    "logoUrl": "/assets/logos/nhl-colorado-avalanche.svg",
+    "logoUrlDark": "/assets/logos/nhl-colorado-avalanche-dark.svg",
+    "founded": 1907,
+    "championships": [
+      {
+        "date": "2022-06-15",
+        "title": "NHL Championship",
+        "opponent": "Tampa Bay",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2022-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-columbus-blue-jackets",
+    "name": "Columbus Blue Jackets",
+    "abbreviation": "CBJ",
+    "city": "Columbus",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#002654",
+    "secondaryColor": "#CE1126",
+    "logoUrl": "/assets/logos/nhl-columbus-blue-jackets.svg",
+    "logoUrlDark": "/assets/logos/nhl-columbus-blue-jackets-dark.svg",
+    "founded": 1908,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-dallas-stars",
+    "name": "Dallas Stars",
+    "abbreviation": "DAL",
+    "city": "Dallas",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#006847",
+    "secondaryColor": "#8F8F8C",
+    "logoUrl": "/assets/logos/nhl-dallas-stars.svg",
+    "logoUrlDark": "/assets/logos/nhl-dallas-stars-dark.svg",
+    "founded": 1909,
+    "championships": [
+      {
+        "date": "1999-06-15",
+        "title": "NHL Championship",
+        "opponent": "Buffalo",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1999-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-detroit-red-wings",
+    "name": "Detroit Red Wings",
+    "abbreviation": "DET",
+    "city": "Detroit",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#CE1126",
+    "secondaryColor": "#FFFFFF",
+    "logoUrl": "/assets/logos/nhl-detroit-red-wings.svg",
+    "logoUrlDark": "/assets/logos/nhl-detroit-red-wings-dark.svg",
+    "founded": 1910,
+    "championships": [
+      {
+        "date": "2008-06-15",
+        "title": "NHL Championship",
+        "opponent": "Pittsburgh",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2008-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-edmonton-oilers",
+    "name": "Edmonton Oilers",
+    "abbreviation": "EDM",
+    "city": "Edmonton",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#FF4C00",
+    "logoUrl": "/assets/logos/nhl-edmonton-oilers.svg",
+    "logoUrlDark": "/assets/logos/nhl-edmonton-oilers-dark.svg",
+    "founded": 1911,
+    "championships": [
+      {
+        "date": "1990-06-15",
+        "title": "NHL Championship",
+        "opponent": "Boston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1990-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-florida-panthers",
+    "name": "Florida Panthers",
+    "abbreviation": "FLA",
+    "city": "Florida",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#C8102E",
+    "logoUrl": "/assets/logos/nhl-florida-panthers.svg",
+    "logoUrlDark": "/assets/logos/nhl-florida-panthers-dark.svg",
+    "founded": 1912,
+    "championships": [
+      {
+        "date": "2024-06-15",
+        "title": "NHL Championship",
+        "opponent": "Edmonton",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2024-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-los-angeles-kings",
+    "name": "Los Angeles Kings",
+    "abbreviation": "LAK",
+    "city": "Los",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#111111",
+    "secondaryColor": "#A2AAAD",
+    "logoUrl": "/assets/logos/nhl-los-angeles-kings.svg",
+    "logoUrlDark": "/assets/logos/nhl-los-angeles-kings-dark.svg",
+    "founded": 1913,
+    "championships": [
+      {
+        "date": "2014-06-15",
+        "title": "NHL Championship",
+        "opponent": "NY Rangers",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2014-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-minnesota-wild",
+    "name": "Minnesota Wild",
+    "abbreviation": "MIN",
+    "city": "Minnesota",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#154734",
+    "secondaryColor": "#A6192E",
+    "logoUrl": "/assets/logos/nhl-minnesota-wild.svg",
+    "logoUrlDark": "/assets/logos/nhl-minnesota-wild-dark.svg",
+    "founded": 1914,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-montreal-canadiens",
+    "name": "Montreal Canadiens",
+    "abbreviation": "MTL",
+    "city": "Montreal",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#AF1E2D",
+    "secondaryColor": "#192168",
+    "logoUrl": "/assets/logos/nhl-montreal-canadiens.svg",
+    "logoUrlDark": "/assets/logos/nhl-montreal-canadiens-dark.svg",
+    "founded": 1915,
+    "championships": [
+      {
+        "date": "1993-06-15",
+        "title": "NHL Championship",
+        "opponent": "LA Kings",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1993-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-nashville-predators",
+    "name": "Nashville Predators",
+    "abbreviation": "NSH",
+    "city": "Nashville",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#FFB81C",
+    "secondaryColor": "#041E42",
+    "logoUrl": "/assets/logos/nhl-nashville-predators.svg",
+    "logoUrlDark": "/assets/logos/nhl-nashville-predators-dark.svg",
+    "founded": 1916,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-new-jersey-devils",
+    "name": "New Jersey Devils",
+    "abbreviation": "NJD",
+    "city": "New",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#CE1126",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nhl-new-jersey-devils.svg",
+    "logoUrlDark": "/assets/logos/nhl-new-jersey-devils-dark.svg",
+    "founded": 1917,
+    "championships": [
+      {
+        "date": "2003-06-15",
+        "title": "NHL Championship",
+        "opponent": "Anaheim",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2003-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-new-york-islanders",
+    "name": "New York Islanders",
+    "abbreviation": "NYI",
+    "city": "New",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#00539B",
+    "secondaryColor": "#F47D30",
+    "logoUrl": "/assets/logos/nhl-new-york-islanders.svg",
+    "logoUrlDark": "/assets/logos/nhl-new-york-islanders-dark.svg",
+    "founded": 1918,
+    "championships": [
+      {
+        "date": "1983-06-15",
+        "title": "NHL Championship",
+        "opponent": "Edmonton",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1983-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-new-york-rangers",
+    "name": "New York Rangers",
+    "abbreviation": "NYR",
+    "city": "New",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#0038A8",
+    "secondaryColor": "#CE1126",
+    "logoUrl": "/assets/logos/nhl-new-york-rangers.svg",
+    "logoUrlDark": "/assets/logos/nhl-new-york-rangers-dark.svg",
+    "founded": 1919,
+    "championships": [
+      {
+        "date": "1994-06-15",
+        "title": "NHL Championship",
+        "opponent": "Vancouver",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1994-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-ottawa-senators",
+    "name": "Ottawa Senators",
+    "abbreviation": "OTT",
+    "city": "Ottawa",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#C52032",
+    "secondaryColor": "#C2912C",
+    "logoUrl": "/assets/logos/nhl-ottawa-senators.svg",
+    "logoUrlDark": "/assets/logos/nhl-ottawa-senators-dark.svg",
+    "founded": 1920,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-philadelphia-flyers",
+    "name": "Philadelphia Flyers",
+    "abbreviation": "PHI",
+    "city": "Philadelphia",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#F74902",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nhl-philadelphia-flyers.svg",
+    "logoUrlDark": "/assets/logos/nhl-philadelphia-flyers-dark.svg",
+    "founded": 1921,
+    "championships": [
+      {
+        "date": "1975-06-15",
+        "title": "NHL Championship",
+        "opponent": "Buffalo",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1975-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-pittsburgh-penguins",
+    "name": "Pittsburgh Penguins",
+    "abbreviation": "PIT",
+    "city": "Pittsburgh",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#FCB514",
+    "secondaryColor": "#000000",
+    "logoUrl": "/assets/logos/nhl-pittsburgh-penguins.svg",
+    "logoUrlDark": "/assets/logos/nhl-pittsburgh-penguins-dark.svg",
+    "founded": 1922,
+    "championships": [
+      {
+        "date": "2017-06-15",
+        "title": "NHL Championship",
+        "opponent": "Nashville",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2017-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-san-jose-sharks",
+    "name": "San Jose Sharks",
+    "abbreviation": "SJS",
+    "city": "San",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#006D75",
+    "secondaryColor": "#EA7200",
+    "logoUrl": "/assets/logos/nhl-san-jose-sharks.svg",
+    "logoUrlDark": "/assets/logos/nhl-san-jose-sharks-dark.svg",
+    "founded": 1923,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-seattle-kraken",
+    "name": "Seattle Kraken",
+    "abbreviation": "SEA",
+    "city": "Seattle",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#001628",
+    "secondaryColor": "#99D9D9",
+    "logoUrl": "/assets/logos/nhl-seattle-kraken.svg",
+    "logoUrlDark": "/assets/logos/nhl-seattle-kraken-dark.svg",
+    "founded": 1924,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-st-louis-blues",
+    "name": "St. Louis Blues",
+    "abbreviation": "STL",
+    "city": "St.",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#002F87",
+    "secondaryColor": "#FCB514",
+    "logoUrl": "/assets/logos/nhl-st-louis-blues.svg",
+    "logoUrlDark": "/assets/logos/nhl-st-louis-blues-dark.svg",
+    "founded": 1925,
+    "championships": [
+      {
+        "date": "2019-06-15",
+        "title": "NHL Championship",
+        "opponent": "Boston",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2019-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-tampa-bay-lightning",
+    "name": "Tampa Bay Lightning",
+    "abbreviation": "TBL",
+    "city": "Tampa",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#002868",
+    "secondaryColor": "#FFFFFF",
+    "logoUrl": "/assets/logos/nhl-tampa-bay-lightning.svg",
+    "logoUrlDark": "/assets/logos/nhl-tampa-bay-lightning-dark.svg",
+    "founded": 1926,
+    "championships": [
+      {
+        "date": "2021-06-15",
+        "title": "NHL Championship",
+        "opponent": "Montreal",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2021-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-toronto-maple-leafs",
+    "name": "Toronto Maple Leafs",
+    "abbreviation": "TOR",
+    "city": "Toronto",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#00205B",
+    "secondaryColor": "#FFFFFF",
+    "logoUrl": "/assets/logos/nhl-toronto-maple-leafs.svg",
+    "logoUrlDark": "/assets/logos/nhl-toronto-maple-leafs-dark.svg",
+    "founded": 1927,
+    "championships": [
+      {
+        "date": "1967-06-15",
+        "title": "NHL Championship",
+        "opponent": "Montreal",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "1967-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-utah-hockey-club",
+    "name": "Utah Hockey Club",
+    "abbreviation": "UTA",
+    "city": "Utah",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#6CA6CD",
+    "secondaryColor": "#111111",
+    "logoUrl": "/assets/logos/nhl-utah-hockey-club.svg",
+    "logoUrlDark": "/assets/logos/nhl-utah-hockey-club-dark.svg",
+    "founded": 1928,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-vancouver-canucks",
+    "name": "Vancouver Canucks",
+    "abbreviation": "VAN",
+    "city": "Vancouver",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#00205B",
+    "secondaryColor": "#00843D",
+    "logoUrl": "/assets/logos/nhl-vancouver-canucks.svg",
+    "logoUrlDark": "/assets/logos/nhl-vancouver-canucks-dark.svg",
+    "founded": 1929,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  },
+  {
+    "id": "nhl-vegas-golden-knights",
+    "name": "Vegas Golden Knights",
+    "abbreviation": "VGK",
+    "city": "Vegas",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#B4975A",
+    "secondaryColor": "#333F42",
+    "logoUrl": "/assets/logos/nhl-vegas-golden-knights.svg",
+    "logoUrlDark": "/assets/logos/nhl-vegas-golden-knights-dark.svg",
+    "founded": 1930,
+    "championships": [
+      {
+        "date": "2023-06-15",
+        "title": "NHL Championship",
+        "opponent": "Florida",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2023-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-washington-capitals",
+    "name": "Washington Capitals",
+    "abbreviation": "WSH",
+    "city": "Washington",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#C8102E",
+    "logoUrl": "/assets/logos/nhl-washington-capitals.svg",
+    "logoUrlDark": "/assets/logos/nhl-washington-capitals-dark.svg",
+    "founded": 1931,
+    "championships": [
+      {
+        "date": "2018-06-15",
+        "title": "NHL Championship",
+        "opponent": "Vegas",
+        "score": "-"
+      }
+    ],
+    "lastChampionship": "2018-06-15",
+    "neverWon": false
+  },
+  {
+    "id": "nhl-winnipeg-jets",
+    "name": "Winnipeg Jets",
+    "abbreviation": "WPG",
+    "city": "Winnipeg",
+    "league": "NHL",
+    "sport": "Ice Hockey",
+    "country": "USA/Canada",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#004C97",
+    "logoUrl": "/assets/logos/nhl-winnipeg-jets.svg",
+    "logoUrlDark": "/assets/logos/nhl-winnipeg-jets-dark.svg",
+    "founded": 1932,
+    "championships": [],
+    "lastChampionship": null,
+    "neverWon": true
+  }
+]
