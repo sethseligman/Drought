@@ -4,12 +4,17 @@ import { getDrought } from '../utils/dateUtils';
 import { droughtScore, tileOverlayOpacity } from '../utils/droughtUtils';
 import { getLogoCandidates } from '../utils/logoUtils';
 
-function TeamTile({ team, selected, onSelect, maxDays, nowMs }) {
+function TeamTile({ team, selected, onSelect, maxDays, sportMaxDays, sportMaxTitles, nowMs }) {
   const logoCandidates = useMemo(() => getLogoCandidates(team), [team]);
   const [logoIndex, setLogoIndex] = useState(0);
   const [logoLoaded, setLogoLoaded] = useState(false);
   const logoSrc = logoCandidates[logoIndex];
-  const score = droughtScore(team, maxDays, nowMs);
+  const score = droughtScore(
+    team,
+    sportMaxDays?.[team.sport] || maxDays,
+    sportMaxTitles?.[team.sport] || 1,
+    nowMs,
+  );
   const overlayOpacity = tileOverlayOpacity(score);
   const drought = getDrought(team.lastChampionship, nowMs);
   const aria = `${team.name} ${drought ? `${drought.years} years ${drought.remainingDays} days drought` : 'never won a championship'}`;
@@ -72,9 +77,9 @@ function TeamTile({ team, selected, onSelect, maxDays, nowMs }) {
           <div className="font-display text-[8px] md:text-[9px] tracking-[0.06em] uppercase text-white/80 leading-[1.05] break-words max-h-[1.9em] overflow-hidden">
             {team.name}
           </div>
-          <div className="font-display leading-none text-white tabular-nums whitespace-nowrap">
-            <span className="text-[15px] md:text-[18px]">{countNumber}</span>
-            {drought ? <span className="text-[9px] md:text-[10px] ml-1 align-middle tracking-[0.08em]">DAYS</span> : null}
+          <div className="font-display leading-none text-white tabular-nums">
+            <span className="text-[15px] md:text-[18px] block md:inline">{countNumber}</span>
+            {drought ? <span className="text-[9px] md:text-[10px] block md:inline md:ml-1 tracking-[0.08em]">DAYS</span> : null}
           </div>
           <div className="text-[7px] md:text-[8px] uppercase tracking-[0.04em] text-white/80 leading-tight break-words max-h-[2.2em] overflow-hidden">
             {lastTitle

@@ -10,7 +10,6 @@ function SortFilterBar({ sortMode, setSortMode, filters, setFilters }) {
         <option value="WON_LAST_YEAR">Won within one year</option>
       </select>
       <button onClick={() => setFilters((f) => ({ ...f, neverWonOnly: !f.neverWonOnly }))} className={`px-3 py-2 rounded-md text-xs uppercase tracking-widest ${filters.neverWonOnly ? 'bg-white text-black' : 'bg-surface border border-white/10 text-text-secondary'}`}>Has never won</button>
-      <button onClick={() => setFilters((f) => ({ ...f, wonLastFiveYears: !f.wonLastFiveYears }))} className={`px-3 py-2 rounded-md text-xs uppercase tracking-widest ${filters.wonLastFiveYears ? 'bg-white text-black' : 'bg-surface border border-white/10 text-text-secondary'}`}>Won in 5 years</button>
     </div>
   );
 }

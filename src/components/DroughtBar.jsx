@@ -1,8 +1,13 @@
-import { getDrought } from '../utils/dateUtils';
+import { droughtScore } from '../utils/droughtUtils';
 
-function DroughtBar({ team, maxDays, nowMs }) {
-  const days = getDrought(team.lastChampionship, nowMs)?.days ?? maxDays;
-  const percent = Math.min((days / Math.max(maxDays, 1)) * 100, 100);
+function DroughtBar({ team, maxDays, sportMaxDays, sportMaxTitles, nowMs }) {
+  const score = droughtScore(
+    team,
+    sportMaxDays?.[team.sport] || maxDays,
+    sportMaxTitles?.[team.sport] || 1,
+    nowMs,
+  );
+  const percent = Math.min(score * 100, 100);
 
   return (
     <div className="space-y-2">

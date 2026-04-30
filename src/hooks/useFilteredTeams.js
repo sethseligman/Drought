@@ -24,7 +24,6 @@ export function useFilteredTeams(teams, filters, sortMode, nowMs) {
   return useMemo(() => {
     let out = [...teams];
     if (filters.neverWonOnly) out = out.filter((team) => team.neverWon);
-    if (filters.wonLastFiveYears) out = out.filter((team) => team.lastChampionship && (nowMs - new Date(team.lastChampionship).getTime()) / 86400000 <= 1826);
     if (filters.region !== 'ALL') out = out.filter((team) => (team.country || '').toLowerCase().includes(filters.region.toLowerCase()));
     return sortByMode(out, sortMode, nowMs);
   }, [teams, filters, sortMode, nowMs]);

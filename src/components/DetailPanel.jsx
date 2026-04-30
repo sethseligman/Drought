@@ -4,7 +4,7 @@ import DroughtCounter from './DroughtCounter';
 import DroughtBar from './DroughtBar';
 import { getLogoCandidates } from '../utils/logoUtils';
 
-function DetailPanel({ team, onClose, maxDays, nowMs }) {
+function DetailPanel({ team, onClose, maxDays, sportMaxDays, sportMaxTitles, nowMs }) {
   const logoCandidates = useMemo(() => getLogoCandidates(team || {}), [team]);
   const [logoIndex, setLogoIndex] = useState(0);
   const logoSrc = logoCandidates[logoIndex];
@@ -46,7 +46,7 @@ function DetailPanel({ team, onClose, maxDays, nowMs }) {
         <DroughtCounter team={team} nowMs={nowMs} />
       </section>
 
-      <DroughtBar team={team} maxDays={maxDays} nowMs={nowMs} />
+      <DroughtBar team={team} maxDays={maxDays} sportMaxDays={sportMaxDays} sportMaxTitles={sportMaxTitles} nowMs={nowMs} />
 
       <section>
         <h3 className="text-[11px] font-display tracking-[0.2em] uppercase text-text-secondary">Championship History</h3>
