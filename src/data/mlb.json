@@ -116,6 +116,12 @@
     "founded": 1901,
     "championships": [
       {
+        "date": "1918-09-11",
+        "title": "World Series",
+        "opponent": "Chicago Cubs",
+        "score": "4-2"
+      },
+      {
         "date": "2018-10-28",
         "title": "World Series",
         "opponent": "Los Angeles Dodgers",

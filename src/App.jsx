@@ -14,6 +14,12 @@ import { useLiveClock } from './hooks/useLiveClock';
 import { useDroughtData } from './hooks/useDroughtData';
 import { useFilteredTeams } from './hooks/useFilteredTeams';
 import { useWallMode } from './hooks/useWallMode';
+import {
+  computeSportNormalizationForSnapshots,
+  endOfYearUtcMs,
+  miseryPlaybackYearBounds,
+  snapshotTeamsAtDate,
+} from './utils/historicalPlayback';
 import { calculateMiseryIndex } from './utils/miseryUtils';
 
 const LEAGUE_COLORS = {
@@ -31,6 +37,8 @@ function App() {
   const [selectedTeam, setSelectedTeam] = useState(null);
   const [searchOpen, setSearchOpen] = useState(false);
   const [viewMode, setViewMode] = useState('tiles');
+  const [heatPlaybackYear, setHeatPlaybackYear] = useState(null);
+  const [heatPlaybackPlaying, setHeatPlaybackPlaying] = useState(false);
 
   const { leagues, soccerLeagues, teams } = useDroughtData(activeLeague, soccerSubLeague);
   const filteredTeams = useFilteredTeams(teams, filters, sortMode, nowMs);
@@ -82,10 +90,49 @@ function App() {
     return map;
   }, [heatTeams]);
 
-  const heatMapCities = useMemo(
-    () => calculateMiseryIndex(heatTeams, heatSportMaxDays, heatSportMaxTitles, nowMs),
-    [heatTeams, heatSportMaxDays, heatSportMaxTitles, nowMs],
-  );
+  const heatPlaybackBounds = useMemo(() => miseryPlaybackYearBounds(heatTeams), [heatTeams]);
+
+  const heatTeamById = useMemo(() => new Map(heatTeams.map((t) => [t.id, t])), [heatTeams]);
+
+  const heatMapCities = useMemo(() => {
+    if (heatPlaybackYear === null) {
+      return calculateMiseryIndex(heatTeams, heatSportMaxDays, heatSportMaxTitles, nowMs);
+    }
+    const asOfMs = endOfYearUtcMs(heatPlaybackYear);
+    const snaps = snapshotTeamsAtDate(heatTeams, asOfMs);
+    const { sportMaxDays, sportMaxTitles } = computeSportNormalizationForSnapshots(snaps, asOfMs);
+    return calculateMiseryIndex(snaps, sportMaxDays, sportMaxTitles, asOfMs);
+  }, [heatTeams, heatSportMaxDays, heatSportMaxTitles, nowMs, heatPlaybackYear]);
+
+  const heatTimelineMs = heatPlaybackYear === null ? undefined : endOfYearUtcMs(heatPlaybackYear);
+
+  const heatSubtitle = heatPlaybackYear === null
+    ? heatMapSubtitle
+    : `${heatMapSubtitle} · As of Dec ${heatPlaybackYear}`;
+
+  useEffect(() => {
+    if (viewMode !== 'heat') setHeatPlaybackPlaying(false);
+  }, [viewMode]);
+
+  useEffect(() => {
+    if (!heatPlaybackPlaying) return undefined;
+    const stepMs = 720;
+    const id = window.setInterval(() => {
+      setHeatPlaybackYear((y) => {
+        if (y === null) return heatPlaybackBounds.minYear;
+        if (y >= heatPlaybackBounds.maxYear) return y;
+        return y + 1;
+      });
+    }, stepMs);
+    return () => clearInterval(id);
+  }, [heatPlaybackPlaying, heatPlaybackBounds.minYear, heatPlaybackBounds.maxYear]);
+
+  useEffect(() => {
+    if (!heatPlaybackPlaying) return;
+    if (heatPlaybackYear !== null && heatPlaybackYear >= heatPlaybackBounds.maxYear) {
+      setHeatPlaybackPlaying(false);
+    }
+  }, [heatPlaybackPlaying, heatPlaybackYear, heatPlaybackBounds.maxYear]);
 
   useEffect(() => {
     setSelectedTeam(null);
@@ -167,8 +214,28 @@ function App() {
               {viewMode === 'heat' ? (
                 <MiseryHeatMap
                   cities={heatMapCities}
-                  subtitle={heatMapSubtitle}
-                  onSelectTeam={(team) => setSelectedTeam(team)}
+                  subtitle={heatSubtitle}
+                  timelineMs={heatTimelineMs}
+                  playback={{
+                    minYear: heatPlaybackBounds.minYear,
+                    maxYear: heatPlaybackBounds.maxYear,
+                    year: heatPlaybackYear,
+                    setYear: setHeatPlaybackYear,
+                    playing: heatPlaybackPlaying,
+                    onPlay: () => {
+                      setHeatPlaybackYear((y) => {
+                        if (y === null || y >= heatPlaybackBounds.maxYear) return heatPlaybackBounds.minYear;
+                        return y;
+                      });
+                      setHeatPlaybackPlaying(true);
+                    },
+                    onPause: () => setHeatPlaybackPlaying(false),
+                    onLive: () => {
+                      setHeatPlaybackYear(null);
+                      setHeatPlaybackPlaying(false);
+                    },
+                  }}
+                  onSelectTeam={(team) => setSelectedTeam(heatTeamById.get(team.id) ?? team)}
                 />
               ) : (
                 <Mosaic teams={filteredTeams} selectedTeam={selectedTeam} onSelect={setSelectedTeam} maxDays={maxDays} sportMaxDays={sportMaxDays} sportMaxTitles={sportMaxTitles} nowMs={nowMs} />

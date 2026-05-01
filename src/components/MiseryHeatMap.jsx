@@ -1,3 +1,4 @@
+import { Pause, Play } from 'lucide-react';
 import { useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react';
 import {
   FALLBACK_CONTIG,
@@ -50,9 +51,13 @@ function miseryDotLabelFontPx(dotSizePx, miseryScore) {
   return Math.max(6, Math.min(Math.round(fit), 15));
 }
 
-function miseryColor(score, maxScore) {
-  if (!maxScore) return '#444460';
-  const t = Math.min(score / maxScore, 1);
+function miseryColor(score, maxScore, minScore = 0) {
+  const range = maxScore - minScore;
+  const t =
+    range > 0
+      ? Math.min(Math.max((score - minScore) / range, 0), 1)
+      : Math.min(score / Math.max(maxScore, 1), 1);
+  if (!Number.isFinite(t)) return '#444460';
   const cold = [68, 76, 168];
   const hot = [232, 64, 64];
   const r = Math.round(cold[0] + (hot[0] - cold[0]) * t);
@@ -139,8 +144,15 @@ function measureContiguousInkBBox(svgEl) {
   return { minX, maxX, minY, maxY };
 }
 
-function MiseryHeatMap({ cities, subtitle, onSelectTeam }) {
-  const nowMs = useClock();
+function MiseryHeatMap({
+  cities,
+  subtitle,
+  onSelectTeam,
+  timelineMs,
+  playback,
+}) {
+  const liveMs = useClock();
+  const effectiveMs = timelineMs ?? liveMs;
   const [hoverMetro, setHoverMetro] = useState(null);
   const [pinnedMetro, setPinnedMetro] = useState(null);
   const [svgMarkup, setSvgMarkup] = useState(null);
@@ -173,7 +185,19 @@ function MiseryHeatMap({ cities, subtitle, onSelectTeam }) {
     return () => cancelAnimationFrame(id);
   }, [svgMarkup]);
 
-  const maxScore = useMemo(() => Math.max(...cities.map((c) => c.miseryScore), 1), [cities]);
+  const { minScore, maxScore, rankByMetro } = useMemo(() => {
+    const sorted = [...cities].sort((a, b) => b.miseryScore - a.miseryScore);
+    const map = new Map();
+    let r = 0;
+    sorted.forEach((c, i) => {
+      if (i > 0 && c.miseryScore < sorted[i - 1].miseryScore) r = i;
+      map.set(c.metro, r);
+    });
+    const scores = cities.map((c) => c.miseryScore);
+    const min = scores.length ? Math.min(...scores) : 0;
+    const max = scores.length ? Math.max(...scores) : 1;
+    return { minScore: min, maxScore: Math.max(max, min + 1e-6), rankByMetro: map };
+  }, [cities]);
 
   const contig = mapContig ?? FALLBACK_CONTIG;
 
@@ -223,12 +247,60 @@ function MiseryHeatMap({ cities, subtitle, onSelectTeam }) {
         </div>
       </div>
 
+      {playback ? (
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2 rounded-lg border border-white/10 bg-black/30 px-3 py-2.5">
+          <span className="font-display text-[10px] uppercase tracking-[0.14em] text-text-secondary shrink-0">
+            Temporal replay
+          </span>
+          <div className="flex items-center gap-1.5 shrink-0">
+            <button
+              type="button"
+              onClick={playback.onLive}
+              className={`px-2.5 py-1 rounded-md text-[10px] uppercase tracking-widest border transition-colors ${playback.year === null ? 'bg-white text-black border-white' : 'border-white/15 text-text-secondary hover:text-white hover:border-white/35'}`}
+            >
+              Live
+            </button>
+            <button
+              type="button"
+              onClick={playback.playing ? playback.onPause : playback.onPlay}
+              className="p-1.5 rounded-md border border-white/15 text-text-primary hover:bg-white/10 focus:outline-none focus-visible:ring-2 focus-visible:ring-white/50"
+              aria-label={playback.playing ? 'Pause year replay' : 'Play year replay'}
+            >
+              {playback.playing ? <Pause className="w-4 h-4" strokeWidth={2} /> : <Play className="w-4 h-4 pl-0.5" strokeWidth={2} />}
+            </button>
+          </div>
+          <div className="flex flex-1 flex-wrap items-center gap-3 min-w-[min(100%,240px)]">
+            <label className="flex flex-1 items-center gap-2 min-w-[180px]">
+              <span className="sr-only">Season through year</span>
+              <input
+                type="range"
+                min={playback.minYear}
+                max={playback.maxYear}
+                value={playback.year ?? playback.maxYear}
+                onChange={(e) => {
+                  playback.setYear(Number(e.target.value));
+                  playback.onPause();
+                }}
+                className="flex-1 h-1.5 accent-accent-gold rounded-full bg-white/10 appearance-none cursor-pointer"
+              />
+              <span className="font-display tabular-nums text-sm text-text-primary min-w-[3rem] text-right shrink-0">
+                {playback.year === null ? 'Live' : playback.year}
+              </span>
+            </label>
+          </div>
+        </div>
+      ) : null}
+
       <p className="text-xs text-text-secondary leading-relaxed border border-white/10 rounded-lg bg-black/20 px-3 py-2">
         <span className="text-text-primary font-medium">Misery index</span>
         {' '}
-        is the combined drought pressure of every tracked team in a metro: each team contributes a sport-adjusted score (long waits and history weigh heavier), then we sum the city.
-        A recent NFL, MLB, NBA, or NHL title in that metro pulls the score down so big markets aren’t inflated only because they roster more teams.
-        Cities hurting across several sports get a small bump. Larger, hotter dots pulse more misery; cooler, smaller dots mean less total pressure right now.
+        blends each metro’s worst franchise pain with its average team pressure (sport-adjusted: long waits and history weigh heavier), so one brutal drought can register without giant rosters dominating by arithmetic alone.
+        If any Big Four team in that metro won within about a year, the metro misery reads as zero (parade-year reset), then it ramps back up as the glow fades. Top markets get a slight rank stretch so the map can show a clear leader instead of a flat red cluster.
+        Cities hurting across several sports get a small bump. Larger, hotter dots mean more pressure right now.
+        {' '}
+        <span className="text-text-primary/90">Temporal replay</span>
+        {' '}
+        rebuilds each franchise only from titles won through Dec 31 of the chosen year—scrub the slider or hit Play to watch metros swell and shrink as championships land.
       </p>
 
       <div className="relative w-full rounded-lg border border-white/10 bg-black/40 overflow-visible">
@@ -250,10 +322,17 @@ function MiseryHeatMap({ cities, subtitle, onSelectTeam }) {
           const ll = METRO_LATLON[city.metro];
           const pos = ll ? metroPositions[city.metro] : null;
           if (!pos) return null;
-          const t = Math.min(city.miseryScore / maxScore, 1);
-          /* Steeper curve + wider span: low stays modest, #1 misery dominates visually */
+          const linearT = Math.min(
+            Math.max((city.miseryScore - minScore) / (maxScore - minScore), 0),
+            1,
+          );
+          const n = cities.length;
+          const rank = rankByMetro.get(city.metro) ?? n - 1;
+          const rankT = n <= 1 ? 1 : 1 - rank / (n - 1);
+          /* Blend score band with rank so the #1 metro reads as the epicenter even when raw points cluster */
+          const t = Math.min(0.62 * linearT + 0.38 * rankT ** 1.15, 1);
           const size = Math.round(8 + t ** 1.35 * 52);
-          const color = miseryColor(city.miseryScore, maxScore);
+          const color = miseryColor(city.miseryScore, maxScore, minScore);
           const ringActive = hoverMetro === city.metro || pinnedMetro === city.metro;
           const glowScale = (0.82 + t ** 1.2 * 1.35).toFixed(3);
           const jitter = `${(idx % 7) * 0.09}s`;
@@ -281,7 +360,7 @@ function MiseryHeatMap({ cities, subtitle, onSelectTeam }) {
                     id={tipId}
                     className="absolute bottom-[calc(100%+12px)] left-1/2 z-[80] w-max max-w-[min(280px,calc(100vw-2rem))] -translate-x-1/2 pointer-events-none"
                   >
-                    <MiseryMetroTooltip city={city} nowMs={nowMs} />
+                    <MiseryMetroTooltip city={city} nowMs={effectiveMs} />
                   </div>
                 ) : null}
                 <button
